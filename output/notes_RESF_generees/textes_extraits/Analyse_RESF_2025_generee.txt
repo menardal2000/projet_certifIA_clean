@@ -1,0 +1,105 @@
+# Note d'Analyse des Prévisions de Déficit Public et de Dette Publique pour 2025
+
+## Contexte Économique
+
+### Croissance et Inflation
+
+En 2025, la croissance économique est projetée à 1,1 %, principalement tirée par la demande intérieure privée. Cette dynamique est soutenue par une baisse de l'inflation, qui devrait se stabiliser à 1,8 % en moyenne annuelle. La modération de l'inflation favorise la consommation des ménages, grâce à des gains de pouvoir d'achat et à une réduction du taux d'épargne, bien que celui-ci reste supérieur à sa moyenne historique.
+
+### Investissement et Exportations
+
+Après une baisse en 2024, l'investissement des ménages et des entreprises est prévu pour rebondir légèrement en 2025, bénéficiant de conditions financières améliorées. Les exportations devraient également accélérer, soutenues par une demande mondiale plus robuste, avec une croissance de +3,6 % en 2025 après +0,9 % en 2024.
+
+## Déficit Public
+
+### Prévisions de Déficit
+
+Le déficit public est projeté à 5,0 % du PIB en 2025, marquant une amélioration par rapport aux années précédentes (5,5 % en 2023 et 6,1 % en 2024). Cette réduction est le résultat d'une stratégie de redressement budgétaire axée principalement sur la réduction des dépenses publiques.
+
+### Composition du Déficit
+
+- **Solde structurel** : -4,6 % du PIB
+- **Solde conjoncturel** : -0,4 % du PIB
+- **Solde des mesures ponctuelles et temporaires** : -0,1 % du PIB
+
+Ces composantes montrent que les efforts de redressement sont largement structurels, avec une attention particulière portée aux dépenses publiques.
+
+### Comparaison avec la LPFP 2023-2027
+
+La trajectoire des finances publiques pour 2025 dans le PLF 2025 diffère de celle prévue dans la LPFP 2023-2027. Le solde effectif de -5,0 % du PIB en 2025 est supérieur à la prévision de -3,7 % dans la LPFP 2023-2027. Cela reflète une révision des prévisions économiques et des efforts supplémentaires nécessaires pour atteindre les objectifs budgétaires.
+
+### Tableau 1 : Comparaison des Prévisions de Déficit
+
+|  | PLF 2025 | LPFP 2023-2027 |
+| --- | --- | --- |
+| Solde structurel | -4,6 % | -3,3 % |
+| Solde conjoncturel | -0,4 % | -0,4 % |
+| Solde des mesures ponctuelles et temporaires | -0,1 % | -0,1 % |
+| Solde effectif | -5,0 % | -3,7 % |
+
+## Dépenses Publiques
+
+### Évolution des Dépenses
+
+Les dépenses publiques (hors crédits d'impôt) sont projetées à 56,4 % du PIB en 2025, soit une baisse par rapport à 55,0 % prévu dans la LPFP 2023-2027. En termes de volume, les dépenses publiques devraient augmenter de 0,4 % en 2025, contre 0,8 % prévu dans la LPFP 2023-2027.
+
+### Principales Dépenses d'Investissement
+
+Les principales dépenses d'investissement sont estimées à 31 milliards d'euros en 2025, contre 34 milliards d'euros prévus dans la LPFP 2023-2027. Cette légère réduction reflète les efforts de maîtrise des dépenses publiques.
+
+### Tableau 2 : Évolution des Dépenses Publiques
+
+|  | PLF 2025 | LPFP 2023-2027 |
+| --- | --- | --- |
+| Dépense publique (hors CI, % PIB) | 56,4 % | 55,0 % |
+| Dépense publique (hors CI, en Md€) | 1694 Md€ | 1668 Md€ |
+| Évolution de la dépense publique hors CI en volume | 0,4 % | 0,8 % |
+| Principales dépenses d'investissement (en Md€) | 31 Md€ | 34 Md€ |
+
+## Recettes Publiques
+
+### Taux de Prélèvements Obligatoires
+
+Le taux de prélèvements obligatoires est projeté à 43,6 % du PIB en 2025, contre 44,4 % prévu dans la LPFP 2023-2027. Cette légère baisse reflète les mesures de soutien à la consommation et à l'investissement, ainsi que les réformes visant à améliorer la compétitivité.
+
+### Tableau 3 : Taux de Prélèvements Obligatoires
+
+|  | PLF 2025 | LPFP 2023-2027 |
+| --- | --- | --- |
+| Taux de prélèvements obligatoires (y.c UE nets des CI) | 43,6 % | 44,4 % |
+
+## Dette Publique
+
+### Niveau de la Dette
+
+La dette publique au sens de Maastricht est projetée à 114,7 % du PIB en 2025, contre 109,6 % prévu dans la LPFP 2023-2027. Cette augmentation reflète les défis persistants en matière de finances publiques et les besoins de financement pour soutenir la reprise économique.
+
+### Tableau 4 : Niveau de la Dette Publique
+
+|  | PLF 2025 | LPFP 2023-2027 |
+| --- | --- | --- |
+| Dette au sens de Maastricht (% PIB) | 114,7 % | 109,6 % |
+
+## Perspectives
+
+### Stratégie de Redressement
+
+La stratégie de redressement des finances publiques repose principalement sur la réduction des dépenses publiques. Les efforts accrus de réduction de la dépense publique impliqueront tous les sous-secteurs des administrations publiques, avec une attention particulière portée aux dépenses destinées aux plus fragiles.
+
+### Tableau 5 : Répartition du Solde Public par Sous-Secteur
+
+| Sous-secteur | Solde 2025 (en % du PIB) |
+| --- | --- |
+| État | -4,3 % |
+| Organismes divers d'administration centrale | -0,2 % |
+| Administrations publiques locales | -0,7 % |
+| Administrations de sécurité sociale | 0,2 % |
+| Solde public total | -5,0 % |
+
+### Avis du HCFP
+
+Le HCFP a jugé « réaliste » la prévision de croissance pour 2024, ainsi que celle de masse salariale et d'inflation. Pour 2025, la prévision de croissance est qualifiée « d'un peu élevée », tout comme la prévision d'inflation, et celle de masse salariale « d'un peu optimiste ».
+
+### Conclusion
+
+En conclusion, les prévisions pour 2025 montrent une amélioration du déficit public, soutenue par une stratégie de redressement budgétaire axée sur la réduction des dépenses publiques. La dette publique reste élevée, reflétant les défis persistants en matière de finances publiques. Les perspectives économiques sont favorables, avec une croissance tirée par la demande intérieure et une modération de l'inflation. Cependant, les prévisions de croissance et d'inflation pour 2025 sont considérées comme légèrement optimistes par le HCFP. Les efforts de réduction des dépenses publiques devront être poursuivis pour atteindre les objectifs budgétaires à moyen terme.

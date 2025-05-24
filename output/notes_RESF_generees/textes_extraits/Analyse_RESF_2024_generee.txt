@@ -1,0 +1,102 @@
+# Note d'Analyse des Finances Publiques pour 2024
+
+## Contexte Économique
+
+### Environnement International
+
+L'environnement international pour 2024 présente une demande mondiale de biens adressée à la France en hausse de 3,0 %, contre 2,5 % en 2023 selon le Programme de Stabilité. Le taux de change USD/EUR est maintenu à 1,09, et le prix du Brent en USD reste stable autour de 86. La croissance du PIB des États-Unis est prévue à 0,8 %, celle du Japon à 0,9 % et celle de la Zone Euro à 0,7 %. La croissance du PIB de la France est estimée à 1,4 % pour 2024, soutenue par un rebond du pouvoir d'achat et des effets de rattrapage concernant la consommation des ménages et les échanges extérieurs.
+
+### France
+
+Le PIB de la France devrait croître de 1,4 % en 2024, selon le Projet de Loi de Finances (PLF) 2024. La consommation des ménages augmenterait de 1,8 %, et la Formation Brute de Capital Fixe (FBCF) totale progresserait de 0,3 %. L'investissement des entreprises non financières ralentirait à 0,9 %, tandis que celui des administrations publiques augmenterait de 1,3 %.
+
+## Déficit Public
+
+### Prévisions de Déficit
+
+Le solde public pour 2024 est prévu à -4,4 % du PIB, une amélioration par rapport à -4,9 % en 2023. Cette amélioration est principalement due à la diminution des dépenses d'urgence et de soutien, ainsi qu'à une augmentation modérée des recettes publiques.
+
+### Comparaison avec les Prévisions Internationales
+
+Les prévisions du PLF 2024 pour le solde public sont légèrement plus optimistes que celles de la Commission Européenne, qui prévoit un déficit de -4,3 % du PIB pour 2024. Cette différence peut s'expliquer par les mesures spécifiques intégrées dans le PLF 2024, qui ne sont pas nécessairement prises en compte par les autres prévisionnistes.
+
+## Dépenses Publiques
+
+### Évolution des Dépenses
+
+En 2024, la dépense publique est prévue pour augmenter de +0,5 % en volume, soit +0,9 % hors urgence et relance. Cette augmentation est principalement due à la progression des dépenses de soutien aux ménages et aux entreprises face à l'inflation, ainsi qu'à la reprise des investissements publics.
+
+### Détail des Dépenses
+
+La dépense publique hors crédits d'impôt est prévue à 55,3 % du PIB en 2024, contre 55,9 % en 2023. La progression en valeur des dépenses publiques est estimée à 3,0 %, tandis que la progression en volume est de +0,5 %. Hors soutien d'urgence et relance, la progression en volume est de +0,9 %.
+
+## Recettes Publiques
+
+### Prélèvements Obligatoires
+
+Les prélèvements obligatoires sont prévus à 44,1 % du PIB en 2024, en légère hausse par rapport à 44,0 % en 2023. Cette hausse est principalement due à la reprise économique et à l'augmentation des revenus salariaux, qui entraînent une hausse des recettes fiscales.
+
+### Taux de Prélèvements Obligatoires
+
+Le taux de prélèvements obligatoires corrigé des effets du bouclier tarifaire reste stable à 44,4 % en 2024, contre 44,4 % en 2023. Cette stabilité reflète l'efficacité des mesures de soutien aux ménages et aux entreprises, qui permettent de maintenir un niveau de prélèvements constant malgré la reprise économique.
+
+## Dette Publique
+
+### Ratio de Dette Publique
+
+Le ratio de dette publique est prévu à 109,7 % du PIB en 2024, stable par rapport à 2023. Cette stabilité est due à l'amélioration du solde public et à la reprise économique, qui permettent de compenser l'augmentation des dépenses publiques.
+
+### Dette Publique Hors Soutien à la Zone Euro
+
+La dette publique hors soutien à la zone euro est prévue à 107,6 % du PIB en 2024, en légère hausse par rapport à 107,4 % en 2023. Cette hausse est principalement due à l'augmentation des dépenses publiques hors soutien d'urgence et relance.
+
+## Perspectives
+
+### Croissance Économique
+
+La croissance économique pour 2024 est prévue à 1,4 %, soutenue par un rebond du pouvoir d'achat et des effets de rattrapage concernant la consommation des ménages et les échanges extérieurs. L'inflation est prévue à +2,6 % en moyenne annuelle, en légère hausse par rapport à 2023.
+
+### Mesures de Soutien
+
+Les mesures de soutien aux ménages et aux entreprises face à l'inflation ont été efficaces pour faire face à la hausse des prix de l'énergie. En 2024, le taux de marge des entreprises serait quasi-stable à 32,7 %, bénéficiant de la nouvelle baisse de 1 Md€ de la CVAE.
+
+### Conclusion
+
+Les prévisions pour 2024 montrent une amélioration du solde public et une stabilisation du ratio de dette publique, soutenues par une reprise économique modérée et des mesures de soutien efficaces. Les défis restent nombreux, notamment en termes de maîtrise des dépenses publiques et de soutien à la croissance économique. Les perspectives internationales et les évolutions des prix de l'énergie restent des facteurs d'incertitude importants pour les finances publiques en 2024.
+
+## Tableaux de Données Pertinents
+
+### Tableau 1 : Prévisions de Croissance Économique
+
+| Taux de croissance annuel (en %) | Programme de stabilité 2023-2027 | Projet de loi de finances 2024 |
+|----------------------------------|----------------------------------|--------------------------------|
+| PIB                              | 1,0 (2023) | 1,4 (2024) |
+| Consommation des ménages         | 0,2 (2023) | 1,8 (2024) |
+| FBCF totale                      | 2,1 (2023) | 0,3 (2024) |
+| Dont entreprises non financières  | 3,8 (2023) | 0,9 (2024) |
+| Dont administrations publiques   | 3,4 (2023) | 1,3 (2024) |
+
+### Tableau 2 : Prévisions de Dépenses Publiques
+
+| En % du PIB, sauf mention contraire | 2022 | 2023 | 2024 |
+|------------------------------------|-----|-----|-----|
+| Dépense publique hors crédits d'impôt | 57,7 | 55,9 | 55,3 |
+| Progression en valeur (%)          | 4,1 | 3,4 | 3,0 |
+| Progression en volume (%)          | -1,1 | -1,3 | 0,5 |
+| Progression en volume hors soutien d'urgence et relance (%) | 2,5 | 0,0 | 0,9 |
+
+### Tableau 3 : Prévisions de Recettes Publiques
+
+| En % du PIB, sauf mention contraire | 2022 | 2023 | 2024 |
+|------------------------------------|-----|-----|-----|
+| Prélèvements obligatoires          | 45,4 | 44,0 | 44,1 |
+| Taux de prélèvements obligatoires corrigé des effets du bouclier tarifaire | 45,6 | 44,4 | 44,4 |
+
+### Tableau 4 : Prévisions de Dette Publique
+
+| En % du PIB, sauf mention contraire | 2022 | 2023 | 2024 |
+|------------------------------------|-----|-----|-----|
+| Dette publique totale             | 111,8 | 109,7 | 109,7 |
+| Dette publique hors soutien à la zone euro | 109,3 | 107,4 | 107,6 |
+
+Ces tableaux et analyses montrent une vision claire des prévisions et des perspectives pour les finances publiques en 2024, en tenant compte des évolutions économiques et des mesures de soutien mises en place.

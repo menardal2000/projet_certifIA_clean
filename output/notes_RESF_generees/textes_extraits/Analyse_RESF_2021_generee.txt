@@ -1,0 +1,83 @@
+# Note d'Analyse des Finances Publiques 2021
+
+## Contexte Économique
+
+### Situation Pré-Covid-19
+
+Avant la crise de la Covid-19, la situation économique française montrait des signes d'amélioration. En 2019, le déficit public était limité à $2,1 \%$ du PIB, hors l'effet temporaire de la transformation du crédit d'impôt pour la compétitivité et l'emploi (CICE) en allègement pérenne de cotisations sociales ( $3,0 \%$ avec la bascule du CICE). La dette publique était stabilisée à $98,1 \%$ du PIB, après $98,3 \%$ en 2017. Cette trajectoire positive était le résultat d'une stratégie de maîtrise de la dépense publique et de réformes structurelles visant à réduire le déficit et l'endettement publics.
+
+### Impact de la Covid-19
+
+La pandémie de Covid-19 a profondément perturbé cette trajectoire. En 2020, le déficit public a atteint $10,2 \%$ du PIB, tandis que la dette publique a grimpé à $117,5 \%$ du PIB. Cette détérioration est due à la baisse de l'activité économique et à l'intervention massive des pouvoirs publics pour contenir les effets dévastateurs de la crise.
+
+## Déficit Public
+
+### Prévisions pour 2021
+
+Le Projet de Loi de Finances (PLF) pour 2021 prévoit un déficit public de $6,7 \%$ du PIB. Cette projection repose sur un taux de croissance du PIB de $+8 \%$, soit un recul de l'activité de $2,7 \%$ entre 2019 et 2021. Cette prévision se situe au milieu de la fourchette des prévisions des autres instituts. Par exemple, l'OCDE estime un recul de l'activité de $-4,3 \%$, la Banque de France anticipe une baisse de $-1,9 \%$, et la Commission européenne situait le recul à $-3,8 \%$.
+
+### Comparaison avec les Prévisions de la Commission Européenne
+
+La Commission européenne, dans ses prévisions de printemps 2020, estime un solde public de $-4,0 \%$ du PIB pour 2021, avec une croissance réelle du PIB de $7,4 \%$. Ces prévisions ont été actualisées à $-10,6 \%$ en 2020 et $+7,6 \%$ en 2021. Les différences entre ces prévisions et celles du PLF 2021 s'expliquent par les scénarios sanitaires retenus. Par exemple, la Banque de France n'intègre pas de dégradation de l'environnement sanitaire, tandis que l'OCDE suppose des interventions jusqu'à fin 2021 pour maîtriser l'épidémie.
+
+## Dépenses Publiques
+
+### Mesures d'Urgence et de Soutien
+
+Face à la crise, plusieurs mesures d'urgence et de soutien ont été mises en place :
+
+- **Dispositif d'activité partielle** : Pour éviter les licenciements massifs.
+- **Fonds de solidarité** : Pour soutenir les petites entreprises.
+- **Rénovation énergétique des bâtiments** : Pour stimuler l'économie tout en réduisant les émissions de gaz à effet de serre.
+- **Baisse des impôts de production** : Pour alléger le coût des entreprises.
+- **Plan "1 jeune, 1 solution"** : Pour favoriser l'emploi des jeunes.
+
+### Impact du Plan de Relance
+
+Le Plan de relance a un impact significatif sur les finances publiques. Il vise à soutenir la reprise économique et à préparer l'avenir, avec des mesures spécifiques pour les secteurs les plus touchés. L'impact macroéconomique du Plan de relance à horizon 2025 est également pris en compte dans les prévisions.
+
+## Recettes Publiques
+
+### Évolution des Recettes
+
+Les recettes publiques ont été fortement affectées par la crise. La baisse de l'activité économique a entraîné une diminution des recettes fiscales et sociales. Cependant, la mise en œuvre de réformes structurelles et le retour de la croissance sont essentiels pour rétablir les recettes publiques.
+
+## Dette Publique
+
+### Prévisions pour 2021
+
+La dette publique est estimée à $117,5 \%$ du PIB en 2020. Pour 2021, les prévisions varient en fonction des scénarios économiques et sanitaires. La Commission européenne prévoit une dette publique de $117,5 \%$ du PIB en 2021, tandis que le PLF 2021 projette une dette publique en légère baisse grâce à la reprise économique.
+
+### Facteurs de Dette
+
+La dette publique est influencée par plusieurs facteurs :
+
+- **Coût de financement de l'État** : Les taux d'intérêt jouent un rôle crucial dans le coût de la dette. Les prévisions de taux d'intérêt sont donc essentielles pour évaluer la soutenabilité de la dette.
+- **Flux de créances et évolutions de la dette** : Les créances et les évolutions de la dette doivent être surveillées de près pour éviter une détérioration supplémentaire des finances publiques.
+
+## Perspectives
+
+### Stratégie de Redressement
+
+La stratégie de redressement des finances publiques repose sur la maîtrise de la dépense publique et la mise en œuvre de réformes structurelles. L'objectif est de rétablir durablement la situation des finances publiques tout en diminuant les impôts des Français. Le retour de la croissance est prioritaire pour atteindre cet objectif.
+
+### Scénarios Alternatifs
+
+Les prévisions sont entourées d'une forte incertitude, notamment en raison des scénarios sanitaires. La distribution des prévisions du Consensus Forecasts illustre cette incertitude, avec des pertes d'activité prévues en 2021 par rapport à 2019 variant largement.
+
+### Tableau de Comparaison des Prévisions
+
+|  | 2019 | 2020 | 2021 |
+| :-- | :--: | :--: | :--: |
+| **PLF 2021** |  |  |  |
+| Solde public (en \% du PIB) | $-3,0$ | $-10,2$ | $-6,7$ |
+| Croissance réelle du PIB (en \%) | 1,5 | $-10,0$ | 8,0 |
+| Déflateur du PIB (en \%) | 1,2 | 1,8 | 0,3 |
+| **Commission européenne (prévisions de printemps 2020)** |  |  |  |
+| Solde public (en \% du PIB) | $-3,0$ | $-9,9$ | $-4,0$ |
+| Croissance réelle du PIB (en \%) | 1,3 | $-8,2$ | 7,4 |
+| Déflateur du PIB (en \%) | 1,5 | 1,3 | 0,9 |
+
+## Conclusion
+
+La crise de la Covid-19 a profondément perturbé les finances publiques françaises, avec un déficit public et une dette publique en forte hausse en 2020. Les prévisions pour 2021 sont entourées d'une grande incertitude, mais la stratégie de redressement repose sur la maîtrise de la dépense publique et la mise en œuvre de réformes structurelles. Le retour de la croissance est essentiel pour rétablir durablement la situation des finances publiques et diminuer les impôts des Français. Les mesures d'urgence et de soutien, ainsi que le Plan de relance, joueront un rôle crucial dans ce redressement.

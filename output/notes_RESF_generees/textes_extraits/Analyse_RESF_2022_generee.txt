@@ -1,0 +1,75 @@
+# Note d'Analyse des Finances Publiques
+
+## Contexte Économique
+
+### Situation du Marché du Travail
+
+La situation sur le marché du travail s'est considérablement améliorée en 2021, avec un fort rebond de l'emploi au premier semestre. Cette dynamique a permis à l'emploi salarié de retrouver, puis de dépasser son niveau pré-crise. Depuis le début du quinquennat, environ 827 000 emplois salariés ont été créés, malgré la crise sanitaire. Cette résilience du marché du travail est un indicateur clé de la reprise économique post-crise.
+
+### Croissance Économique
+
+Le projet de loi de finances (PLF) pour 2022 table sur un taux de croissance du PIB de 4,0 %, ce qui représenterait une hausse cumulée de l'activité de +1,5 % entre 2019 et 2022. Cette prévision est en ligne avec celle de la Banque de France et se situe dans la fourchette des prévisions d'autres instituts économiques. Par exemple, l'OCDE estime une croissance de l'activité entre 2019 et 2022 à +1,7 %, tandis que la Commission Européenne prévoit une hausse de +1,6 %. Le FMI, quant à lui, anticipe une progression de +1,4 %.
+
+### Inflation
+
+L'indice des prix à la consommation harmonisé est prévu à 1,7 % pour 2021 et 1,6 % pour 2022 selon le PLF 2022. Ces chiffres sont proches des prévisions de la Commission Européenne, qui estime l'inflation à 1,6 % pour 2021 et 1,2 % pour 2022. L'OCDE prévoit une inflation de 1,9 % pour 2021 et 1,4 % pour 2022.
+
+## Déficit Public
+
+### Évolution du Déficit
+
+Le déficit public a atteint 9,1 % du PIB en 2020, en raison de la réponse budgétaire massive face à la crise sanitaire. En 2021, le déficit public devrait se réduire à 8,4 % du PIB, grâce au rebond de l'activité économique. Pour 2022, le déficit est prévu à 4,8 % du PIB, reflétant une amélioration significative des finances publiques.
+
+### Mesures de Soutien
+
+Les mesures de soutien d'urgence et les dépenses exceptionnelles de santé ont été maintenues en 2021, avec un impact de -63,8 Md€ sur le solde public. La perspective d'une amélioration durable de la situation sanitaire a permis d'envisager la sortie progressive des principaux dispositifs de soutien d'urgence, comme le fonds de solidarité et l'activité partielle exceptionnelle.
+
+## Dépenses Publiques
+
+### Plan France Relance
+
+Le Gouvernement a mis en œuvre le plan France Relance d'un montant total de 100 Md€, financé à hauteur de 40 Md€ par l'Union Européenne. Ce plan vise à soutenir la reprise économique et à renforcer la résilience des secteurs les plus touchés par la crise.
+
+### Scénarios de Dépenses
+
+Deux scénarios sont envisagés pour 2022 :
+1. **Scénario Ricardien** : Les ménages thésaurisent l'ensemble de leur épargne COVID, ce qui pourrait limiter la croissance et la consommation.
+2. **Scénario Alternatif** : Les ménages consomment 1/5 de leur sur-épargne en 2022, ce qui serait favorable pour la croissance et les finances publiques, mais pourrait entraîner une dynamique des prix plus élevée.
+
+## Recettes Publiques
+
+### Stabilisateurs Automatiques
+
+Les stabilisateurs automatiques ont joué un rôle crucial en 2020, avec un recul mécanique des recettes fiscales et sociales en raison de la baisse de l'activité économique. En 2021, le rebond de l'activité a permis de contenir le déficit public en dessous de 9 %, malgré l'intervention publique massive.
+
+### Perspectives de Recettes
+
+Pour 2022, la reprise économique devrait permettre une augmentation des recettes fiscales et sociales, contribuant ainsi à la réduction du déficit public.
+
+## Dette Publique
+
+### Évolution de la Dette
+
+La dette publique a atteint 115,0 % du PIB en 2020, en raison de la réponse budgétaire massive face à la crise. En 2021, la dette publique devrait atteindre 115,6 % du PIB. Pour 2022, la dette publique est prévue à 114,0 % du PIB, reflétant une légère amélioration des finances publiques.
+
+### Facteurs de Dette
+
+La hausse de la dette publique en 2020 est principalement due à la réponse budgétaire massive, incluant des stabilisateurs automatiques et des mesures de soutien d'urgence. La dégradation de la balance commerciale des biens et services en 2020, de 21 Md€, a également contribué à l'augmentation de la dette.
+
+## Perspectives
+
+### Croissance Économique
+
+Le rebond de l'activité économique en 2022 devrait permettre de réduire fortement le déficit public à 4,8 % du PIB. Cette prévision est soutenue par une hausse cumulée de l'activité de +1,5 % entre 2019 et 2022, en ligne avec les prévisions des principaux instituts économiques.
+
+### Dette Publique
+
+La réduction de la dette publique à 114,0 % du PIB en 2022 est un signe encourageant de la normalisation de la situation économique. Cependant, des défis subsistent, notamment en termes de soutien à la reprise économique et de gestion de la dette publique à long terme.
+
+### Scénarios Alternatifs
+
+Les scénarios de consommation de l'épargne COVID par les ménages en 2022 pourraient avoir un impact significatif sur la croissance et les finances publiques. Un scénario de désépargne partielle pourrait stimuler la croissance, mais pourrait également entraîner une hausse des prix.
+
+## Conclusion
+
+Les prévisions de déficit public et de dette publique pour 2021 et 2022 sont encourageantes, reflétant une amélioration significative des finances publiques grâce au rebond de l'activité économique. Cependant, des défis subsistent, notamment en termes de gestion de la dette publique à long terme et de soutien à la reprise économique. Les scénarios de consommation de l'épargne COVID par les ménages en 2022 pourraient également avoir un impact significatif sur la croissance et les finances publiques.
