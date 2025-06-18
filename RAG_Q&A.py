@@ -125,7 +125,7 @@ def process_ocr(annee):
 
         signed_url = client.files.get_signed_url(file_id=uploaded_pdf.id)
 
-        ocr_response = client.ocr.process(
+        ocr_response = client.ocr.process( 
             model="mistral-ocr-latest",
             document={
                 "type": "document_url",
