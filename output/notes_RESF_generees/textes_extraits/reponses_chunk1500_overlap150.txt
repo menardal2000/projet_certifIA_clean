@@ -1,0 +1,134 @@
+Question 1 : Quelle est la prévision de croissance du PIB pour l'année 2022 dans le rapport ?
+Réponse :
+Selon le contexte fourni du Rapport Économique, Social et Financier (RESF), la prévision de croissance du PIB pour l'année 2022 est de 4,0 %. Cette prévision est mentionnée dans le projet de loi de finances pour 2022, qui table sur un taux de croissance du PIB à 4,0 % pour l'année 2022. Cette prévision est également identique à celle de la Banque de France et se situe dans la fourchette des prévisions des autres instituts.
+------------------------------------------------------------
+Question 2 : Quelles hypothèses macroéconomiques sous-tendent la trajectoire du rapport ?
+Réponse :
+Les hypothèses macroéconomiques sous-tendant la trajectoire du rapport sont principalement basées sur une amélioration de la situation sanitaire, une reprise plus rapide que prévu du marché de l'emploi, et une croissance économique dynamique pour la fin de l'année 2021.
+
+### Situation Sanitaire et Emploi
+Le rapport mentionne que l'amélioration de la situation sanitaire depuis la mi-août a été plus rapide que prévu. Les chiffres d'emploi publiés le 8 septembre sont également meilleurs qu'escompté, avec une variation annuelle de l'emploi en France métropolitaine de 1,2% pour 2021, ce qui est supérieur aux prévisions initiales. Ces signaux positifs pourraient permettre une croissance annuelle supérieure à 6% pour 2021.
+
+### Environnement International
+Les hypothèses internationales du projet de loi de finances sont proches de celles du Consensus. Par exemple, les prévisions de croissance sont identiques pour le Japon et très proches pour le Royaume-Uni sur le cumul des deux années. Pour les États-Unis, le scénario prévoit une hausse de l'activité un peu plus importante que le Consensus, tandis que pour la zone euro, la hausse est prévue légèrement moins forte.
+
+### Inflation et Conditions de Financement
+Le rapport souligne la résurgence des pressions inflationnistes dans les économies émergentes, liée à la hausse des prix des matières premières et des prix alimentaires. Cela pourrait accentuer le resserrement monétaire et freiner le rebond économique. Les économies émergentes seraient également pénalisées par un durcissement des conditions de financement en cas de resserrement brutal de la politique monétaire dans les pays avancés.
+
+### Taux de Change et Prix du Pétrole
+Le scénario économique repose sur un gel des taux de change et du prix du pétrole à leurs niveaux observés du 9 au 29 août. Cette hypothèse est entourée d'une forte incertitude quant à l'évolution de l'offre et de la demande au niveau mondial, après des épisodes de forte volatilité pendant la crise.
+
+### Aléas et Incertitudes
+Les aléas qui entourent cette prévision sont en diminution mais restent importants. L'évolution de la situation sanitaire reste l'aléa le plus significatif, avec des incertitudes concernant le calendrier de levée des restrictions, le risque de nouveaux variants, et la situation vaccinale dans les économies émergentes. Le comportement des agents économiques en sortie de crise, notamment l'utilisation de la surépargne des ménages et l'investissement des entreprises, est également une source d'incertitude. Les tensions d'approvisionnement, par exemple sur les semi-conducteurs, pourraient également contraindre la production.
+
+En résumé, les hypothèses macroéconomiques du rapport reposent sur une amélioration rapide de la situation sanitaire, une reprise dynamique de l'emploi, et une croissance économique supérieure à 6% pour 2021, tout en tenant compte des incertitudes liées à l'inflation, aux conditions de financement, et aux comportements des agents économiques.
+------------------------------------------------------------
+Question 3 : Quelle est l'évolution attendue de l'inflation en 2022 selon le rapport ?
+Réponse :
+Selon le Rapport Économique, Social et Financier (RESF), l'évolution attendue de l'inflation en 2022 est stable à +1,5 %. Cette stabilité de l'inflation est soutenue par l'inflation sous-jacente, qui progresserait également à +1,5 %. Les prix de l'énergie, après une forte hausse en 2021, ralentiraient en 2022 sous l'hypothèse d'une stabilisation du cours du pétrole.
+
+Les tensions sur les chaînes de valeur, qui ont temporairement soutenu les prix en 2021, se résorberaient progressivement en 2022. Les premiers effets de ces tensions se feraient sentir à la fin de 2021 et seraient maximaux au premier semestre 2022 avant de refluer au deuxième semestre 2022.
+
+Il est également mentionné que la révision de l'inflation pour 2022 est plus marquée, avec une hausse de +0,7 point pour l'inflation totale et de +0,6 point pour l'inflation sous-jacente par rapport aux prévisions antérieures. Cette révision est due en partie à une hausse des prix énergétiques et à une inflation sous-jacente prévue à un niveau plus élevé.
+------------------------------------------------------------
+Question 4 : Quels sont les principaux moteurs de la croissance identifiés pour 2022 ?
+Réponse :
+En se basant sur le contexte fourni du Rapport Économique, Social et Financier (RESF), les principaux moteurs de la croissance identifiés pour 2022 sont les suivants :
+
+1. **La consommation des ménages** : Selon le scénario économique sous-jacent au PLF 2022, la consommation des ménages est prévue pour croître de 7,0 % en 2022, ce qui représente une augmentation significative par rapport à 2021 (4,1 %). Cette hausse est également confirmée par les prévisions du Consensus Forecasts, qui estiment une croissance de 4,8 % pour 2022.
+
+2. **L'investissement des entreprises** : L'investissement des entreprises est également un moteur important de la croissance pour 2022. Le scénario économique sous-jacent au PLF 2022 prévoit une croissance de 5,1 % pour 2022, tandis que le Consensus Forecasts prévoit une croissance de 4,0 %.
+
+3. **La demande mondiale adressée à la France** : La demande mondiale adressée à la France, qui a rebondi fortement en 2021 (+10,4 % après -6,8 % en 2020), est prévue pour ralentir mais rester positive en 2022 (+4,9 %). Cette dynamique internationale soutient la croissance économique française.
+
+4. **La reprise du commerce international** : La reprise du commerce international, particulièrement en Turquie et au Brésil, constitue un relais de croissance significatif. En Russie, la hausse des prix du pétrole et l'utilisation de marges budgétaires soutiennent également le redressement économique, contribuant indirectement à la croissance française.
+
+Ces éléments montrent que la croissance en 2022 sera principalement soutenue par la consommation des ménages, l'investissement des entreprises, et la demande mondiale adressée à la France, dans un contexte de reprise du commerce international et de soutien budgétaire et monétaire dans plusieurs économies émergentes.
+------------------------------------------------------------
+Question 5 : Comment le rapport évalue-t-il les risques pesant sur la reprise économique ?
+Réponse :
+Le rapport évalue les risques pesant sur la reprise économique en identifiant plusieurs facteurs d'incertitude majeurs.
+
+1. **Évolution de la situation sanitaire** : Le principal risque reste lié à la situation sanitaire. Les incertitudes incluent le calendrier de levée des restrictions, le risque d'apparition de nouveaux variants résistants aux vaccins, et la situation dans les pays partenaires, notamment les économies émergentes où la couverture vaccinale est plus faible.
+
+2. **Comportement des agents économiques** : Le comportement des agents économiques en sortie de crise constitue une autre source d'incertitude. Cela concerne notamment l'utilisation de la surépargne des ménages accumulée en 2020 et 2021, qui pourrait stimuler la croissance, ainsi que l'investissement des entreprises, dont la dette et la trésorerie ont augmenté de manière significative.
+
+3. **Tensions d'approvisionnement** : Les tensions d'approvisionnement, comme celles observées en 2021 sur les semi-conducteurs, pourraient contraindre la production et freiner la reprise économique.
+
+4. **Inflation et conditions de financement** : Pour les économies émergentes, la résurgence des pressions inflationnistes, due à la hausse des cours des matières premières, des prix alimentaires et de la demande mondiale, pourrait entraîner un resserrement monétaire et freiner le rebond économique. Un durcissement des conditions de financement en cas de resserrement brutal de la politique monétaire dans les pays avancés pourrait également pénaliser ces économies.
+
+5. **Événements climatiques extrêmes** : La hausse de la fréquence et de l'intensité des événements climatiques extrêmes est également identifiée comme un frein potentiel à l'activité économique.
+
+6. **Volatilité des taux de change et du prix du pétrole** : Le scénario économique repose sur un gel des taux de change et du prix du pétrole à leurs niveaux observés du 9 au 29 août. Cette hypothèse est entourée d'une forte incertitude quant à l'évolution de l'offre et de la demande mondiales, après des épisodes de forte volatilité pendant la crise.
+
+En résumé, bien que les aléas entourant la prévision économique soient en diminution, ils restent importants et multiformes, couvrant des aspects sanitaires, économiques, climatiques et financiers.
+------------------------------------------------------------
+Question 6 : Quel est le niveau prévu du déficit public en 2022, en pourcentage du PIB ?
+Réponse :
+Selon le contexte fourni du Rapport Économique, Social et Financier (RESF), le niveau prévu du déficit public en 2022 est de 4,7 % du PIB. Cette prévision est basée sur les mesures présentées dans le Projet de Loi de Finances (PLF) et les prévisions de la Commission européenne. La Commission européenne a, en effet, prévu un déficit de 4,7 % du PIB pour 2022, sous hypothèse d'un scénario à politique inchangée, ce qui est proche des prévisions du PLF qui estiment un déficit de 4,8 % du PIB pour la même année.
+------------------------------------------------------------
+Question 7 : Quelle est la trajectoire de la dette publique prévue dans le rapport ?
+Réponse :
+En 2022, le ratio d'endettement public est prévu pour baisser de plus d'un point et demi pour atteindre 114,0 % du PIB. Cette réduction est en partie due à l'amélioration du solde public, qui passerait de -4,8 % du PIB à un niveau supérieur au solde stabilisant la dette (-6,1 % du PIB). Cette amélioration est soutenue par une croissance nominale forte. Les flux de créances contribueraient pour 0,4 point à la baisse du ratio d'endettement, en partie grâce à la contribution du compte du Trésor.
+
+La trajectoire pluriannuelle sous-jacente au Projet de Loi de Finances (PLF) 2022 prévoit un retour du déficit public sous 3 % à l'horizon 2027, après le choc de la pandémie. Ce retour est porté par le retour de la croissance et la mise en œuvre de l'agenda de réformes des politiques publiques. Le ratio de dette rapporté au PIB amorcerait une décrue à partir de 2026, qui s'accentuerait à partir de 2027. Ce rythme de stabilisation puis de réduction du ratio de dette résulte de la nécessité de ne pas consolider brusquement les finances publiques pour ne pas casser le retour de la croissance et de ne pas fragiliser le potentiel d'activité de l'économie, tout en reconstituant des marges de manœuvre budgétaires pour faire face à d'éventuels nouveaux chocs économiques futurs.
+
+En résumé, la trajectoire de la dette publique prévue dans le rapport montre une réduction du ratio d'endettement en 2022, avec une décrue amorcée à partir de 2026 et une accentuation de cette décrue à partir de 2027.
+------------------------------------------------------------
+Question 8 : Comment évoluent les dépenses de l'État en 2022 par rapport à 2021 ?
+Réponse :
+En 2022, les dépenses de l'État évoluent de manière contrastée par rapport à 2021. Plusieurs éléments clés ressortent du contexte fourni par le Rapport Économique, Social et Financier (RESF) :
+
+1. **Réduction des missions spécifiques** :
+   - La mission « Plan d'urgence face à la crise sanitaire » est en extinction en 2022, avec une ouverture limitée à 0,2 Md€ pour l'achat de matériel sanitaire. Cela représente une réduction de 5,8 Md€ par rapport à la Loi de Finances Initiale (LFI) 2021 et de 15,6 Md€ par rapport à la première Loi de Finances Rectificative (LFR1) 2021.
+   - La mission « Plan de relance » voit ses crédits de paiement diminuer à 12,9 Md€ en 2022, soit une baisse de 8,9 Md€ par rapport à la LFI 2021 et de 13,8 Md€ par rapport à la LFR1 2021.
+
+2. **Évolution des dépenses locales** :
+   - Les dépenses locales progressent de 4,5 % en 2021 et de 2,7 % en 2022. À champ constant, cette progression est de 2,9 % en 2022, après retraitement de la recentralisation du financement du RSA.
+   - Les dépenses de fonctionnement des Administrations Publiques Locales (APUL) augmentent de 2,2 % en 2021 et de 2,4 % en 2022 (2,7 % à champ constant).
+
+3. **Norme de dépenses pilotables** :
+   - En 2022, la norme de dépenses pilotables s'élève à 302,1 Md€, en hausse de 11,8 Md€ par rapport à la LFI 2021 (incluant les appels en garantie) et de 10,9 Md€ hors appels en garantie.
+
+4. **Objectif de dépenses totales de l'État** :
+   - L'objectif de dépenses totales de l'État diminue de 0,3 Md€ en 2022 par rapport à la LFI 2021 et de 19,6 Md€ par rapport à la LFR1 2021.
+
+En résumé, bien que certaines missions spécifiques voient leurs dépenses diminuer en 2022 par rapport à 2021, l'objectif global de dépenses totales de l'État diminue légèrement. Parallèlement, les dépenses locales et de fonctionnement des APUL continuent de progresser modérément.
+------------------------------------------------------------
+Question 9 : Quelles sont les principales mesures nouvelles de politique budgétaire ?
+Réponse :
+En se basant sur le contexte fourni du Rapport Économique, Social et Financier (RESF), les principales mesures nouvelles de politique budgétaire peuvent être identifiées comme suit :
+
+1. **Basculement du Crédit d'Impôt pour la Transition Énergétique (CITE) vers MaPrimeRenov'** :
+   - En 2020, le CITE a été transformé en MaPrimeRenov', ce qui a eu un impact sur les dépenses budgétaires. Cela se traduit par une budgétisation progressive du crédit d'impôt.
+
+2. **Mesures en recettes** :
+   - **Contentieux fiscaux de série** : Ces contentieux ont eu un effet significatif sur les recettes, avec des montants de -1,8 Md€ en 2020, -1,8 Md€ en 2021 et -2,0 Md€ en 2022.
+   - **Contemporanéisation du crédit d'impôt pour l'emploi d'un salarié à domicile (CI-SAP)** : Introduite en 2022, cette mesure a eu un impact de -1,1 Md€.
+   - **Bascule du CITE** : Cette mesure a eu un effet de -0,5 Md€ en 2020 et -0,4 Md€ en 2021.
+   - **Mesures d'urgence 2020 (hors primes PGE)** : Ces mesures ont eu un impact de -0,3 Md€ en 2020.
+   - **Conventions Judiciaires d'Intérêt Public** : Elles ont eu un effet de 2,1 Md€ en 2020.
+
+3. **Mesures en dépense** :
+   - **Mesures d'urgence 2020 (hors sinistralité sur les garanties)** : Ces mesures ont eu un impact significatif de -69,7 Md€ en 2020.
+   - **Sinistralité des prêts garantis par l'État** : En 2021, cette mesure a eu un impact de -0,7 Md€, et en 2022, de -2,8 Md€.
+   - **Sinistralité BEI** : Cette mesure a eu un impact de -0,5 Md€ en 2022.
+
+4. **Autres mesures nouvelles en prélèvements obligatoires** :
+   - **Bascule CICE / cotisations** : Cette mesure a eu un impact de -2,5 Md€ en 2020.
+   - **Mesures en faveur des micro-entreprises** : En 2020 et 2021, cette mesure a eu un impact de -0,3 Md€.
+   - **Fiscalité du tabac** : Cette mesure a eu un impact de 2,0 Md€ en 2020 et 0,9 Md€ en 2021.
+   - **Contribution patronale exceptionnelle - accord Unedic mars 2017 et prolongation en 2019** : Cette mesure a eu un impact de -0,1 Md€ en 2020 et -0,3 Md€ en 2021.
+   - **Prolongation jusqu'en 2022 de la surcontribution Unédic** : Cette mesure a eu un impact de 0,1 Md€ en 2020 et 0,3 Md€ en 2021.
+
+5. **Transferts de recettes** :
+   - **Transferts de recettes de l'État** : En 2020, cette mesure a eu un impact de 2,5 Md€, en 2021 de 0,5 Md€, et en 2022 de -0,1 Md€.
+
+En résumé, les principales mesures nouvelles de politique budgétaire comprennent des ajustements fiscaux et sociaux, des mesures d'urgence économique, et des transferts de recettes. Ces mesures ont eu des impacts variés sur les recettes et les dépenses publiques, notamment en 2020, 2021 et 2022.
+------------------------------------------------------------
+Question 10 : Quel est le déficit public en 2021 ?
+Réponse :
+En 2021, le déficit public s'élèverait à 8,4 % du PIB. Cette réduction par rapport à l'année précédente est due au rebond de l'activité économique qui reviendrait à son niveau d'avant-crise dès la fin de l'année 2021. Les mesures de soutien d'urgence et les dépenses exceptionnelles de santé ont été maintenues, mais avec un début de décrue par rapport au plus fort de la crise. La perspective d'une amélioration durable de la situation sanitaire grâce à la progression de la campagne de vaccination a permis d'inscrire avant la fin de l'année la sortie progressive des principaux dispositifs de soutien d'urgence.
+
+En parallèle, le Gouvernement a mis en œuvre le plan France Relance d'un montant total de 100 Md€, financé à hauteur de 40 Md€ par l'Union européenne. Malgré ces mesures, le déficit public en 2021 reste nettement inférieur au solde public de la LPFP à 0,9 %, en raison de la mise en place des mesures de soutien d'urgence ainsi que du plan de relance, et de la dégradation des recettes liée à une activité économique toujours dégradée.
+------------------------------------------------------------

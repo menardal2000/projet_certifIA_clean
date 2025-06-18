@@ -143,7 +143,7 @@ L'impact économique associé à l'épidémie a été très lourd
 
 L'épidémie a été à l'origine d'un recul de l'activité d'une ampleur sans précédent dans la période contemporaine.
 
-Le PIB a reculé de 8,0 \% en 2020, avec un impact sectoriel très différencié (cf. Graphiques 2a, 2 b et 2 c ) :
+Le PIB a reculé de 8,0 \% en 2020, avec un impact sectoriel très différencié (cf. Graphiques 2a, 2b et 2c) :
 
 - Certains secteurs ont subi la crise de plein fouet en raison des contraintes sanitaires et des fermetures administratives, notamment le secteur du tourisme, du sport et de la culture, le secteur des transports, ou les fournisseurs directs de ces secteurs. La reprise pour ces secteurs a été contrastée : rapide pour la majorité des activités, elle est plus lente pour certains secteurs qui connaissent un niveau d'activité durablement dégradé par rapport à l'avant-crise, comme le tourisme international, la culture et le transport aérien ;
 - Certains secteurs industriels font face à une demande déprimée ou à des difficultés d'approvisionnement qui compliquent la production ; c'est notamment le cas pour le
@@ -253,7 +253,7 @@ En comparaison internationale, les mesures d'urgence déployées par la France s
     ${ }^{7}$ Insee, Informations Rapides n 220 du 31 août 2021
 
 [^1]:    ${ }^{8}$ https://www.ofce.sciences-po.fr/blog/perspectives-de-rentree-pour-leconomie-francaise-2021-2022-la-vague-de-la-reprise/
-    ${ }^{9}$ Cf. Dossier thématique «L'économie après la pandémie »
+    ${ }^{9} C f$. Dossier thématique «L'économie après la pandémie »
 [17]
 # Encadré 1 : Comparaison des mesures d'urgence des pays européens 
 
@@ -452,7 +452,7 @@ Le plan \#1jeune1solution a notamment permis de soutenir fortement l'emploi des 
 
 - Le recours à l'aide à l'embauche des jeunes, dispositif qui prévoit une aide à l'embauche des moins de 26 ans en CDD de plus de 3 mois ou en CDI, a également été particulièrement fort, avec environ 474000 demandes d'aide à l'embauche des jeunes validées ${ }^{21}$. Les premières évaluations disponibles (CAE ${ }^{22}$, DARES $^{23}$ ) concluent à un effet positif de l'aide sur l'emploi des jeunes en CDI ou CDD de plus de 3 mois. Cette aide a donc permis de soutenir l'insertion des jeunes dans l'emploi au plus fort de la crise sanitaire.
 
-Ainsi, après une dégradation significative en 2020, le taux d'emploi des jeunes a fortement rebondi, s'établissant à $31,1 \%$ au $2^{\mathrm{e}}$ trimestre 2021, soit $+1,2$ point au-dessus de son niveau d'avant-crise. En cumulé sur les mois de janvier à août $2021^{24}$, les embauches des jeunes en CDI ou CDD de plus de trois mois ont augmenté de 6,5 \% par rapport à la même période en 2019, contre une baisse de - $3,6 \%$ pour les embauches des 30 ans et plus. Le taux de chômage des jeunes s'est ainsi résorbé pour atteindre 19,8 \% au $2^{\mathrm{e}}$ trimestre 2021, son plus bas niveau depuis plus de 13 ans.
+Ainsi, après une dégradation significative en 2020, le taux d'emploi des jeunes a fortement rebondi, s'établissant à $31,1 \%$ au $2^{\mathrm{e}}$ trimestre 2021, soit $+1,2$ point au-dessus de son niveau d'avant-crise. En cumulé sur les mois de janvier à août $2021^{24}$, les embauches des jeunes en CDI ou CDD de plus de trois mois ont augmenté de 6,5 \% par rapport à la même période en 2019, contre une baisse de -3,6 \% pour les embauches des 30 ans et plus. Le taux de chômage des jeunes s'est ainsi résorbé pour atteindre 19,8 \% au $2^{\mathrm{e}}$ trimestre 2021, son plus bas niveau depuis plus de 13 ans.
 
 [^1]
 [^0]:    ${ }^{18}$ Source : DGEFP, tableau de bord hebdomadaire, données arrêtées au 19 septembre 2021. ${ }^{19}$ Une très forte augmentation des entrées en contrat d'apprentissage en 2020 | DARES (travail-emploi.gouv.fr)
@@ -517,7 +517,7 @@ Depuis le début du quinquennat, le Gouvernement a déployé un ambitieux agenda
 Les réformes mises en œuvre par le Gouvernement ont notamment permis de soutenir le niveau de vie de l'ensemble des ménages et ont réduit les inégalités (cf. infra Bilan redistributif 2017-2022).
 Le déploiement de l'agenda de transformations se poursuit, notamment dans le cadre de la stratégie de sortie de crise et de relance, pour renforcer notre système de protection sociale et réduire les inégalités, investir dans la transition écologique et dans l'innovation, et moderniser notre service public.
 C'est ainsi que l'action menée depuis 2017 en faveur de la formation professionnelle et de la formation des chômeurs est renforcée en sortie de crise par le déploiement d'un plan d'action inédit
-visant à réduire les tensions de recrutement. Comme l'a annoncé le Premier ministre le 27 septembre 2021, 1,4 Md€ de crédits seront redéployés en faveur de la formation des demandeurs d'emploi, en particulier de longue durée, des métiers dans les secteurs en tensions, et des salariés, notamment ceux visant des reconversions professionnelles. Ce plan de formation vient compléter la réforme du régime d'assurance chômage, qui sera intégralement mise en œuvre à la fin de l'année 2021 si la situation actuelle du marché du travail se maintient. L'accompagnement des jeunes vers l'activité et l'emploi fera aussi l'objet d'actions supplémentaires. La stratégie d'investissement sera complétée par un plan d'investissement à long terme « France 2030 », qui vise un objectif: bâtir la France de 2030 et faire émerger dans notre pays et en Europe les champions de demain qui, dans les domaines du numérique, de l'industrie verte, des biotechnologies, ou encore de l'agriculture, dessineront notre avenir.
+visant à réduire les tensions de recrutement. Comme l'a annoncé le Premier ministre le 27 septembre 2021, 1,4 Md€ de crédits seront redéployés en faveur de la formation des demandeurs d'emploi, en particulier de longue durée, des métiers dans les secteurs en tensions, et des salariés, notamment ceux visant des reconversions professionnelles. Ce plan de formation vient compléter la réforme du régime d'assurance chômage, qui sera intégralement mise en œuvre à la fin de l'année 2021 si la situation actuelle du marché du travail se maintient. L'accompagnement des jeunes vers l'activité et l'emploi fera aussi l'objet d'actions supplémentaires. La stratégie d'investissement sera complétée par un plan d'investissement à long terme « France 2030 », qui vise un objectif : bâtir la France de 2030 et faire émerger dans notre pays et en Europe les champions de demain qui, dans les domaines du numérique, de l'industrie verte, des biotechnologies, ou encore de l'agriculture, dessineront notre avenir.
 Enfin, la France assurera au premier semestre 2022 la présidence tournante du Conseil de I'Union européenne, ce qui sera l'occasion d'impulser de nouvelles actions pour approfondir les coopérations européennes en matière économique, industrielle et technologique.
 
 # Encadré 4 : L'agenda de réformes du programme présidentiel se poursuit notamment dans le cadre de la stratégie de sortie de crise 
@@ -553,7 +553,6 @@ La réforme de l'assurance chômage, actée avant la crise mais dont certains vo
 comportement des employeurs a démarré au $1^{\text {er }}$ juillet 2021 et la première modulation du taux de contribution s'appliquera au $1^{\text {er }}$ septembre 2022. L'ensemble des mesures de la réforme constitue une réponse importante pour lutter contre le recours excessif aux contrats courts et pour rendre le régime d'assurance-chômage plus équitable, en garantissant que les périodes d'inactivité ne soient pas plus rémunératrices que les périodes d'activité, et que les situations de permittence ne soient pas plus favorables financièrement que les situations de travail continu. Un dispositif de suivi et d'évaluation de la mise en œuvre de la réforme sera mis en place pour en mesurer les effets.
 
 L'impulsion donnée dès le début du quinquennat en faveur de la petite enfance et l'éducation, a été accentuée avec la mise en œuvre des conclusions du Grenelle de l'éducation qui s'est tenu en 2021, et dont découlent douze engagements qui seront tous mis en œuvre avant janvier 2022, notamment les revalorisations salariales des enseignants et des personnels éducatifs, l'individualisation de l'accompagnement pour les enseignants, et une meilleure prise en compte des conditions de travail.
-
 Les actions de transformations seront poursuivies dans les prochains mois, notamment en faveur de l'accompagnement des jeunes qui sont éloignés de l'activité, de l'emploi et de la formation. Enfin, la réforme des retraites devra être engagée ultérieurement, lorsque les conditions sanitaires et économiques le permettront, pour garantir le niveau des pensions des Français à terme, améliorer l'emploi des seniors et avoir un système plus équitable. L'objectif sera de rapprocher les règles des différents régimes de retraites afin d'en améliorer l'équité, d'inciter à l'activité pour augmenter le potentiel de croissance du pays et de préserver la soutenabilité du régime.
 [36]
 ## 2. Investir dans la transition écologique et incarner l'écologie au quotidien
@@ -767,7 +766,7 @@ L'analyse de l'impact à court terme des mesures de transferts, telle qu'elle es
 [^1]
 [^0]:    ${ }^{38}$ Par exemple le niveau de vie d'un couple avec un enfant dont les deux membres travaillent à temps plein au Smic est situé entre le troisième et le quatrième dé-
 
-[^1]:    cile. Voir l'étude de l'IPP pour plus de détails sur la distribution de l'activité partielle (https://www.ipp.eu/actualites/resultats-menages-impact-de-la-crise-et-des-me-sures-budgetaires-2020-2021/)
+[^1]:    cile. Voir l'étude de l'IPP pour plus de détails sur la distribution de l'activité partielle (https://www.ipp.eu/actualites/resultats-menages-impact-de-la-crise-et-des-me-sures-budgetaires-2020-2021/ )
 [49]
 sur la dynamique de la productivité et donc des revenus.
 
@@ -894,7 +893,6 @@ Après avoir continué de progresser en 2020 $(+0,4 \%)$ malgré la chute histor
 Sur l'ensemble de la période, la revalorisation des rémunérations des professionnels de santé décidée dans le cadre du Ségur de la Santé contribuerait à la hausse des revenus d'activité. Les mesures de baisses d'impôts engagées avant la crise (notamment l'extension de l'exonération de taxe d'habitation sur la résidence principale) soutiendraient aussi le pouvoir d'achat.
 
 La consommation des ménages rebondirait en 2021 et 2022 et le taux d'épargne se normaliserait progressivement.
-
 La consommation des ménages progresserait de $+4,1 \%$ en 2021. Après un rebond freiné par l'environnement sanitaire au $1^{\text {er }}$ semestre, la consommation progresserait plus nettement sur la deuxième partie de l'année avec la levée des restrictions.
 
 Le rattrapage se poursuivrait sur le début de l'année 2022, la consommation augmentant très nettement $(+7,0 \%)$, sur l'ensemble de l'année.
@@ -955,7 +953,7 @@ Enfin, la crise pourrait entraîner des évolutions structurelles profondes, con
 
 # Encadré 1 : Retour sur les prévisions pour 2021 et 2022 
 
-Par rapport au programme de stabilité (PSTAB), publié le 14 avril 2021, la prévision d'activité pour 2021 est révisée à la hausse de +1 pt ( $+6 \%$ contre $+5 \%$ pour le PSTAB).
+Par rapport au programme de stabilité (PSTAB), publié le 14 avril 2021, la prévision d'activité pour 2021 est révisée à la hausse de $+1 \mathrm{pt}(+6 \%$ contre $+5 \%$ pour le PSTAB).
 
 La révision pour l'année 2021 traduit la bonne résilience de l'économie française au durcissement des mesures sanitaires de janvier à avril 2021 et le redressement rapide de la consommation et de l'activité au printemps. Les derniers comptes trimestriels publiés par l'Insee le 31 août montrent ainsi un net rebond de l'activité au $2^{e}$ trimestre ( $+1,1 \%$ après $+0,0 \%$ au trimestre précédent). L'acquis de croissance à l'issue du $2^{e}$ trimestre est donc de $+4,8 \%$. Sur le début de l'année 2021, l'emploi et l'investissement ont fortement progressé et dépassé leur niveau leur niveau d'avant-crise au $2^{e}$ trimestre, dès le $1^{\text {er }}$ pour l'investissement des entreprises. Les importants progrès sur le plan de la couverture vaccinale, notamment depuis l'annonce de la généralisation du passe sanitaire le 12 juillet, permettent d'envisager un allègement durable des contraintes sanitaires et une baisse plus marquée des comportements de distanciation volontaires. En outre, l'analyse de données de cartes bancaires suggère que l'effet, limité, du passe sanitaire serait transitoire.
 
@@ -1755,7 +1753,7 @@ En particulier, les dépenses des APUC se contracteraient de $8,7 \%$ en volume 
 | Croissance de la dépense des ASSO en volume | 5,5 | 1,8 | $-1,5$ |
 | Croissance de la dépense publique en valeur | 6,8 | 4,8 | $-2,0$ |
 [102]
-# Procadre 4 : Partition de la dépense publique 
+# Encadré 4 : Partition de la dépense publique 
 
 Cet encadré présente les contributions des sous-secteurs des administrations publiques à la croissance de la dépense publique, en les corrigeant des éléments suivants :
 
@@ -1971,9 +1969,7 @@ baisses d'impôts ( $-3,3 \mathrm{Md} €$ de mesures nouvelles 2022). Cette hau
 - Une amélioration du solde des comptes spéciaux de $+3,8 \mathrm{Md} €$, principalement du fait de la budgétisation à l'équilibre du solde du Compte d'affectation spéciale « Participations financières de l'État » ( $+2,1 \mathrm{Md} €$ ), de l'amélioration du solde des CCF « Prêts et avances à des particuliers ou à des organismes privés » de $+1,1 \mathrm{Md} €$ et « Avances à divers services de l'État ou organismes gérant des services publics » ( $+1,4 \mathrm{Md} €$ ) en raison de la baisse de certains dispositifs de soutien adoptés en 2021 ;
 - Une baisse du prélèvement sur recettes au profit de l'Union Européenne pour 0,1 Md€ d'amélioration du solde ;
 - Une baisse du prélèvement sur recettes au profit des collectivités territoriales pour $0,4 \mathrm{Md} €$ d'amélioration du solde.
-
 Ces mouvements sont partiellement compensés par :
-
 - Une augmentation des crédits des ministères de $+10,5 \mathrm{Md} €$ à champ courant entre 2021 et 2022 afin de financer les priorités du Gouvernement en matière de réarmement de l'État régalien, d'éducation, de recherche, de transition écologique et de solidarité. Les dépenses augmentent aussi du fait notamment de l'ouverture de crédits sous ODETE au titre du cantonnement de la dette covid ( $+1,9 \mathrm{Md} €$ ) et en raison de la hausse de la contribution du budget général au CAS «Pensions»;
 - Une baisse des recettes non fiscales de $-3,3 \mathrm{Md} €$ essentiellement en raison de la baisse des dividendes et recettes assimilées et de la baisse des produits de la rémunération de la garantie de l'État (PGE).
 [111]
@@ -2264,7 +2260,7 @@ Après une dégradation en 2020 (-4,2 Md€, après $-1,1 \mathrm{Md} €$ en 20
 
 La dépense locale progresserait de $4,5 \%$ en 2021, puis de $2,7 \%$ en 2022, principalement en raison des perspectives d'évolution de l'investissement local. La dépense locale augmenterait de $2,9 \%$ à champ constant en 2022, après retraitement de la recentralisation par l'État du financement du revenu de solidarité active (RSA) des départements expérimentateurs volontaires (le PLF intègre la recentralisation du RSA en Seine-SaintDenis).
 Les dépenses de fonctionnement des APUL connaîtraient une évolution de $+2,2 \%$ en 2021 et de $+2,4 \%$ en 2022 ( $+2,7 \%$ à champ constant). Sur le champ des seules collectivités locales, et à champ constant, les dépenses de fonctionnement évolueraient au rythme de $+2,4 \%$ en 2021 et de $+2,5 \%$ en 2022 (après $+1,5 \%$ en 2020). Les mesures du protocole Parcours professionnels, carrières et rémunérations (PPCR) et la forte hausse des contrats aidés dans le cadre du plan de relance expliqueraient l'accélération attendue du
-d'investissement local. Les collectivités locales seraient quant à elles proches de l'équilibre ou en excédent sur la période. Après $0,0 \mathrm{Md} €$ en 2020, le solde des collectivités locales se dégraderait légèrement en 2021 à $-0,6 \mathrm{Md} €$, puis serait excédentaire de $+1,5 \mathrm{Md} €$ en 2022. Le solde des ODAL s'établirait à $-3,7 \mathrm{Md} €$ en 2021 et $-4,6 \mathrm{Md} €$ en 2022, en raison de la montée en charge des travaux de la Société du Grand Paris (SGP).
+d'investissement local. Les collectivités locales seraient quant à elles proches de l'équilibre ou en excédent sur la période. Après 0,0 Md€ en 2020, le solde des collectivités locales se dégraderait légèrement en 2021 à $-0,6 \mathrm{Md} €$, puis serait excédentaire de $+1,5 \mathrm{Md} €$ en 2022. Le solde des ODAL s'établirait à $-3,7 \mathrm{Md} €$ en 2021 et $-4,6 \mathrm{Md} €$ en 2022, en raison de la montée en charge des travaux de la Société du Grand Paris (SGP).
 poste rémunérations en 2021 ( $+1,7 \%$, après $+1,5 \%$ en 2020). En 2022, ce poste de dépenses croîtrait de $2,1 \%$. Après un recul de $-2,7 \%$ en 2020 dans le contexte de la crise sanitaire, les consommations intermédiaires ${ }^{59}$ des APUL progresseraient de $5,6 \%$ en 2021 et de $4,4 \%$ en 2022, rattrapant en deux ans le niveau des dépenses qui aurait été atteint hors crise sanitaire, compte tenu notamment du niveau de l'inflation ( $+1,4 \%$ en 2021 et $+1,5 \%$ en 2022, après $+0,2 \%$ en 2020). Les prestations socialeset transferts sociaux progresseraient de $2,2 \%$ en 2021 et de $0,3 \%$ en 2022 ( $2,3 \%$ à champ constant, en raison du transfert à l'État du financement des dépenses de RSA auparavant supportées par le département de la Seine-Saint-Denis). Par ailleurs, la revalorisation de la rémunération de l'aide à domicile à partir du $1^{\text {er }}$ octobre 2021 contribue à l'augmentation des dépenses de transferts sociaux en nature tels que l'allocation personnalisée d'autonomie (APA).
 
 [^0]
@@ -2407,7 +2403,7 @@ La réforme du régime d'assurance chômage repose sur une révision des règles
 S'agissant des mesures relatives à l'indemnisation des demandeurs d'emploi, la mise en œuvre complète de deux d'entre elles est soumise à une clause de retour à meilleure fortune : l'allongement de la durée d'affiliation minimale et la dégressivité des allocations pour les hauts salaires au bout de six mois d'indemnisation. Leur mise en œuvre sera en effet effective lorsque le nombre de déclarations préalables à l'embauche en contrat d'une durée supérieure à un mois dépassera 2,7 millions en cumul sur quatre mois consécutifs et que le nombre de demandeurs d'emploi en fin de mois en catégorie A aura diminué de 130000 sur six mois consécutifs. En août 2021, on observait 3,2 millions de DPAE de plus d'un mois en cumul sur 4 mois et une baisse de 184700 DEFM A depuis fin mai (date à retenir pour le critère sur les DEFM A du fait de la neutralisation de la période correspondant au confinement du printemps 2021). Plus précisément :
 
 - l'allongement de la durée d'affiliation minimale requise pour ouvrir et recharger un droit à l'assurance chômage a été mis en place le $1^{\text {er }}$ novembre 2019. La réforme avait porté la condition d'éligibilité pour ouvrir un droit à l'assurance chômage à 6 mois sur 24, contre 4 mois sur 28 auparavant, et la condition pour recharger un droit à 6 mois, contre 1 mois auparavant. En réponse à la crise, le décret $n^{\circ} 2020$ 929 du 29 juillet 2020 a ramené temporairement la condition d'affiliation minimale pour l'éligibilité et le rechargement à 4 mois sur 24 depuis le $1^{\text {er }}$ août 2020. Lorsque la clause de retour à meilleure fortune sera validée, cette condition repassera à 6 mois sur 24 ;
-- la dégressivité après 8 mois pour les cadres est entrée en vigueur au $1^{\text {er }}$ juillet 2021. Une réduction de $30 \%$ des allocations chômage au bout de huit mois sera appliquée pour les salaires de référence mensuels supérieurs à 4500 € bruts, en excluant les demandeurs d'emploi de 57 ans et plus. Lorsque la clause de retour à meilleure fortune sera validée, la dégressivité des allocations pour les cadres se déclenchera après 6 mois d'indemnisation.
+- la dégressivité après 8 mois pour les cadres est entrée en vigueur au $1^{\text {er }}$ juillet 2021. Une réduction de $30 \%$ des allocations chômage au bout de huit mois sera appliquée pour les salaires de référence mensuels supérieurs à $4500 €$ bruts, en excluant les demandeurs d'emploi de 57 ans et plus. Lorsque la clause de retour à meilleure fortune sera validée, la dégressivité des allocations pour les cadres se déclenchera après 6 mois d'indemnisation.
 
 La troisième mesure relative à l'indemnisation est la mise en œuvre d'un nouveau mode de calcul plus équitable pour le salaire journalier de référence (SJR), qui sert de base à la détermination du montant d'allocation. Ce nouveau mode de calcul permet de tenir compte du rythme de travail avant chômage en basant le calcul de l'indemnité sur le revenu moyen de l'intéressé sur la période comprise entre le premier et le dernier jour d'emploi dans les 24 derniers mois, et non plus sur celui perçus les seuls jours travaillés. À volume d'activité et salaires égaux, elle permettra notamment d'égaliser les indemnités perçues entre un demandeur d'emploi qui travaillait à mi-temps et un autre qui travaillait une semaine sur deux. À la suite de l'annulation de la réforme du SJR par le Conseil d'État en novembre 2020, jugée contraire au principe d'égalité, cette disposition a été corrigée par l'instauration d'un plancher pour limiter la baisse du SJR à au plus $43 \%$ par rapport au mode de calcul précédent. Ce nouveau mode de calcul du SJR devait entrer en vigueur au $1^{\text {er }}$ juillet dernier. La mise en œuvre de cette mesure a été suspendue par une décision du Conseil d'État en date du 22 juin 2021, en raison de trop fortes incertitudes sur la situation économique et les conditions du marché du travail. Compte tenu de la reprise observée sur le marché du travail, l'emploi et le taux de chômage ayant déjà retrouvé leur niveau d'avant-crise et de nombreux secteurs faisant face à des tensions de recrutement, cette mesure entrerait en vigueur au $1^{\text {er }}$ octobre 2021.
 
@@ -2691,7 +2687,6 @@ L'impact de la crise sur le PIB potentiel dépendra donc de la capacité de l'é
 Les dispositifs de formation joueront un rôle essentiel, d'autant que les travailleurs des secteurs les plus durablement affectés par la crise auront des compétences spécifiques, difficilement transférables aux secteurs en expansion ${ }^{79}$. Pour faciliter les réallocations intersectorielles en sortie de crise, il faut à la fois informer les demandeurs d'emploi et les salariés sur les opportunités d'emploi et d'évolution qui s'offrent à
 
 [^0]leurs compétences et répondre à leur besoin de formation.
-
 Le volet compétences du plan de relance renforce les dispositifs initiés par la réforme de la formation professionnelle de 2018. Il met en œuvre le CPF-transition, pour favoriser les reconversions professionnelle par l'emploi du CPF; le FNE-formation, favorisant le développement des compétences des salariés en chômage partiel ; le dispositif Pro-A, de reconversion professionnelle ; et enfin le dispositif de Transitions collectives (Transco), qui permet aux entreprises dans lesquelles les emplois sont fragilisés d'accompagner la reconversion de leurs salariés.
 Le plan d'investissement dans les compétences (PIC) a permis de financer l'entrée en formation de 390000 demandeurs d'emploi, portant le total de formation des personnes éloignées de l'emploi à 1,1 millions en 2020.
 Pour intensifier ces actions, le Premier ministre a annoncé le 27 septembre des nouvelles actions de formation pour réduire plus rapidement les difficultés de recrutement dès 2021 et 2022. Ce plan comporte 3 volets: i) plus de formations des demandeurs d'emploi dans les métiers les plus en tension (via de nouvelles conventions entre l'État, Pôle Emploi et les régions) ; ii) plus de dispositifs d'accompagnement en faveur des demandeurs d'emploi de longue durée (soutien aux contrats de professionnalisation et formation en entreprise) ; et iii) plus de formations des salariés, en permettant aux entreprises de 51 à 300 salariés d'avoir aussi accès aux fonds mutualisés. Au total, ce plan redéploie 1,4 Md€ de crédits (budgétés pour les mesures d'urgence et non utilisés) vers la formation professionnelle.
@@ -2705,7 +2700,6 @@ b. Des opportunités de renouvellement et de modernisation de l'économie
     ${ }^{79}$ Cf. Trésor-Eco n²87, «Compétences et réallocations intersectorielles des emplois après la crise », Mélanie Couëffé, 2021
 [152]
 La destruction créatrice qui accompagne les crises pourrait accélérer la réallocation des facteurs de production vers des usages plus porteurs et productifs
-
 Le renouvellement des entreprises généré par la faillite ou l'absorption des moins productives et l'émergence de nouvelles entreprises plus efficaces et plus innovantes - aussi appelé «destruction créatrice» (en référence aux travaux de l'économiste Joseph Schumpeter) - participe aux gains de productivité de l'économie à moyen terme, et sa contribution relative s'accroît généralement en temps de crise, lorsque les faillites d'entreprises peu productives se font plus nombreuses et l'évolution des comportements donne lieu à des créations ${ }^{80}$. Le renouvellement du tissu productif, qui aurait été la
 principale source de gains de productivité sur la période 2011-2017, devant les gains réalisés par les entreprises pérennes ${ }^{81}$, est d'autant plus important à stimuler lorsque les gains de productivité des entreprises en place ralentissent tendanciellement.
 
@@ -2716,7 +2710,6 @@ Si les soutiens d'urgence déployés pendant la crise se sont avérés neutres p
 La pandémie de covid-19 est à l'origine d'une crise économique d'une ampleur inédite, et a eu pour conséquence de mettre en difficulté de nombreuses entreprises. Sans intervention publique, les faillites d'entreprises se seraient donc multipliées. Elles n'auraient pas nécessairement concerné les entreprises les moins productives ou dont le modèle économique est le moins viable, étant donné que la crise est d'origine sanitaire et non économique : elle touche les entreprises indépendamment de leurs performances passées. C'est pourquoi des dispositifs de soutien très larges ont été déployés pour éviter les faillites, qui ont atteint leur objectif puisque le taux de défaillance a chuté en 2020 (-39 \% par rapport à 2019).
 
 Une étude réalisée par la DG Trésor à partir d'un modèle de micro-simulation de la situation financière de plus de 2 millions d'entreprises françaises confirme l'efficacité de l'intervention publique pour limiter les contraintes financières et éviter la disparition d'entreprises relativement productives ${ }^{82}$.
-
 La crise met en difficulté ${ }^{83}$ des entreprises plus productives qu'en temps normal (cf. Graphique 2). L'efficacité du processus de destruction créatrice pourrait donc avoir été affaibli pendant la crise : si les faillites se concentrent sur des entreprises peu productives, elles peuvent permettre une réallocation bénéfique des facteurs de production dans l'économie ; mais lorsqu'elles touchent des entreprises plus productives, elles risquent de détruire davantage de valeur que celle qui sera générée par la réallocation des facteurs de production vers les entreprises existantes et la création de nouvelles entreprises, et ce d'autant plus que la soudaineté et la profondeur de la crise, comme cela a été le cas dès mars 2020, rendent plus difficile le processus de réallocation.
 
 [^0][^1]
@@ -2772,7 +2765,7 @@ La crise sanitaire a montré que le numérique peut également contribuer à une
 [156]
 - Dans l'industrie, le commerce de gros, l'infor-mation-communication et les activités spécialisées, scientifiques et techniques, les entreprises ayant un niveau d'équipement précrise en ordinateurs portables supérieur de 10 points à leurs concurrentes ont eu une moindre perte d'activité, de 2 à 4 points de pourcentage en moyenne, contre une perte moyenne de chiffre d'affaires dans ces secteurs qui était de $24 \%$ en avril $2020^{90}$.
 La crise semble avoir favorisé l'appropriation d'outils et de pratiques liées au numérique (télétravail, numérisation des entreprises), et pourrait contribuer à la nécessaire numérisation des entreprises françaises, et en particulier des TPE et PME en la matière. En témoignent les premiers éléments de preuve chez nos principaux voisins européens qui suggèrent que la crise de la covid-19 a bien accéléré l'adoption de
-technologies numériques ${ }^{91}$. L'investissement des entreprises en information-communication atteste lui aussi de cette tendance : il n'a baissé que de 1,3 \% au plus bas de l'année 2020 et a dépassé son niveau d'avant crise dès la fin de l'année 2020. Au second trimestre 2021, l'investissement en information-communication a dépassé de 7 pts son niveau d'avant crise alors que l'activité se trouve toujours 3,2 pts en dessous de son niveau du $4^{e}$ trimestre 2019. La politique publique de numérisation du tissu productif a pour objectif de soutenir les entreprises pour accélérer leur transition numérique. Elle s'accompagne d'un soutien aux infrastructures (très haut débit, 5G) et d'un ensemble cohérent de politiques visant à faciliter le développement du numérique (soutien à la recherche, formation, cybersécurité, etc.). C'est pourquoi la numérisation de l'économie est un axe important des mesures du plan France Relance.
+technologies numériques ${ }^{91}$. L'investissement des entreprises en information-communication atteste lui aussi de cette tendance : il n'a baissé que de $1,3 \%$ au plus bas de l'année 2020 et a dépassé son niveau d'avant crise dès la fin de l'année 2020. Au second trimestre 2021, l'investissement en information-communication a dépassé de 7 pts son niveau d'avant crise alors que l'activité se trouve toujours 3,2 pts en dessous de son niveau du $4^{e}$ trimestre 2019. La politique publique de numérisation du tissu productif a pour objectif de soutenir les entreprises pour accélérer leur transition numérique. Elle s'accompagne d'un soutien aux infrastructures (très haut débit, 5G) et d'un ensemble cohérent de politiques visant à faciliter le développement du numérique (soutien à la recherche, formation, cybersécurité, etc.). C'est pourquoi la numérisation de l'économie est un axe important des mesures du plan France Relance.
 
 [^0]${ }^{91}$ Par exemple, J. Van Reenen et A. Valero, « The Impact of COVID-19 on Technology Adoption », IFOW, janvier 2021.
 
@@ -2962,14 +2955,15 @@ Réduire les dépenses et réaliser des gains d'efficacité dans tous les sousse
 |   |  | Plan de refonte globale de la fonction achat de l'État | Déployé depuis 2020, les objectifs de ce plan sont à la fois de faire des économies en optimisant la dépense publique sur des volumes financiers importants et rationalisant les organisations, les processus et les stratégies achat, en accompagnant près de 3000 acheteurs et approvisionneurs de l'État dans la transformation de leurs pratiques d'achat. | Une première vague d'économies associée à ce plan sera intégrée au projet de loi de finances pour 2022 pour un montant d'au moins 150 M€.  |
 |  RPP1 2020 | .../...lorsque les conditions économiques le permettront, mener des politiques budgétaires visant à parvenir à des positions budgétaires à moyen terme prudentes et à garantir la viabilité de la dette, tout en favorisant les investissements ; | Facturation électronique dans les relations interentreprises | Prévue par l'article 153 de la loi de finances initiale pour 2020, cette évolution marque une étape importante dans la modernisation du recouvrement et du contrôle fiscal de la taxe sur la valeur ajoutée, en diminuant la charge administrative des entreprises, en améliorant le service à l'usager assujetti à la TVA et en permettant de lutter plus efficacement contre la fraude. |   |
 [172]
-|  Recommandation | Sous-recommandation | Mesures | Fait | En cours / à venir  |
+|  Recommanda-
+tion | Sous-recommandation | Mesures | Fait | En cours / à venir  |
 | --- | --- | --- | --- | --- |
 |  RECO 2021 | .../...Accorder une attention particulière à la composition des finances publiques, sur le plan tant des recettes que des dépenses, et à la qualité des mesures budgétaires, afin de garantir une reprise durable et inclusive; donner la priorité aux investissements durables et propices à la croissance, en particulier aux investissements qui favorisent la transition écologique et numérique; donner la priorité aux réformes structurelles budgétaires qui concourront au financement des priorités des politiques publiques et contribueront à la soutenabilité à long terme des finances publiques.../..., | Extension progressive du dispositif de ressources mensuelles (DRM) | Ce dispositif, qui agrège depuis $1^{\text {er }}$ janvier 2021 les données issues des déclarations sociales nominatives (DSN) et celles issues du prélèvement à la source (PAS), permettra de lutter plus efficacement contre la fraude et les indus. | Le périmètre du DRM sera progressivement étendu : portant aujourd'hui sur les aides personnelles au logement, un retour d'expérience sera conduit en 2021 avant sa généralisation.  |
-|   |  | Réforme de la politique du logement
-Évaluation de la qualité des dépenses publiques
-Gouvernance des finances publiques | Voir fiche réforme associée du PNRR (Partie II-Composante 1). | Voir fiche réforme associée du PNRR (Partie II-Composante 1).
+|   |  | Réforme de la politique du logement | Voir fiche réforme associée du PNRR (Partie II-Composante 1). | Voir fiche réforme associée du PNRR (Partie II-Composante 1).
 Voir PNRR France Partie I et fiche réforme associée du PNRR (Partie II-Composante 7).
 Voir fiche réforme associée du PNRR (Partie II-Composante 7)  |
+|   |  | Évaluation de la qualité des dépenses publiques |  |   |
+|   |  | Gouvernance des finances publiques |  |   |
 |  RPP1 2019 | Réformer le système de retraite pour uniformiser progressivement les règles des différents régimes de retraite, en vue de renforcer l'équité et la soutenabilité de ces régimes ; | Réforme des retraites |  | Voir partie I du PNRR.  |
 [173]
 |  Recommandation | Sous-recommandation | Mesures | Fait | En cours / à venir  |
@@ -3617,7 +3611,7 @@ Tableau 4 : Commerce extérieur de la France
 | Tableau 5 : Sociétés non financières - données détaillées |  |  |  |  |
 | :--: | :--: | :--: | :--: | :--: |
 |  | 2019 | 2020 | 2021 | 2022 |
-|  | Niveau en Md€ | Variation annuelle | Variation annuelle | Variation annuelle |
+|  | Niveau en <br> Md€ | Variation annuelle | Variation annuelle | Variation annuelle |
 | VALEUR AJOUTÉE (VA) | 12741,0 | $-8,3$ | 8,6 | 7,2 |
 | Rémunération des salariés | 813,9 | $-6,1$ | 6,9 | 6,4 |
 | Ratio : Rémunération des salariés / VA - niveau en \% | 63,9 | 65,4 | 64,4 | 63,9 |
@@ -3641,16 +3635,16 @@ Tableau 4 : Commerce extérieur de la France
 | Tableau 6 : Ménages - comptes de revenus |  |  |  |  |
 | :--: | :--: | :--: | :--: | :--: |
 |  | 2019 | 2020 | 2021 | 2022 |
-|  | Niveau en Md€ | Variation annuelle | Variation annuelle | Variation annuelle |
+|  | Niveau en <br> Md€ | Variation annuelle | Variation annuelle | Variation annuelle |
 | RESSOURCES |  |  |  |  |
 | Salaires bruts <br> - Cotisations sociales salariés | 947,9 | $-4,1$ | 5,4 | 5,2 |
 | Salaires nets | 116,7 | $-2,3$ | 4,7 | 4,7 |
 | Revenu mixte (principalement des entrepreneurs individuels) | 831,1 | $-4,3$ | 5,5 | 5,2 |
 | Excédent brut d'exploitation (hors entrepreneurs individuels) | 128,3 | $-0,5$ | 6,0 | 2,0 |
-| Prestations sociales en espèces | 519,8 | 9,5 | $-0,8$ | $-1,0$ |
-| Revenus de la propriété reçus | 100,6 | $-12,9$ | 3,8 | 5,2 |
-| Autres ressources | 75,2 | $-1,8$ | 6,5 | 5,4 |
-| EMPLOIS |  |  |  |  |
+| Prestations sociales en espèces | 194,1 | 1,2 | 3,4 | 2,7 |
+| Revenus de la propriété reçus | 519,8 | 9,5 | $-0,8$ | $-1,0$ |
+| Autres ressources | 100,6 | $-12,9$ | 3,8 | 5,2 |
+| EMPLOIS | 75,2 | $-1,8$ | 6,5 | 5,4 |
 | Cotisations sociales non-salariés | 30,6 | $-3,1$ | $-6,1$ | 8,0 |
 | Impôts courants sur le revenu et le patrimoine | 248,9 | $-3,6$ | 2,0 | 4,1 |
 | Revenus de la propriété versés | 16,3 | $-14,5$ | $-2,7$ | 4,5 |
@@ -3949,12 +3943,11 @@ Note : le volet préventif du pacte de stabilité prévoit que la croissance en 
 [224]
 # TABLEAUX PRÉVISIONNELS DÉTAILLÉS 
 
-Tableau 21 : Ensemble des mesures nouvelles en prélèvements obligatoires sur la période 2020-2022
-
-| MUES | $-0,8$ | $-0,3$ | 0,4 |
+| Tableau 21 : Ensemble des mesures nouvelles en prélèvements obligatoires sur la période 2020-2022 |  |  |  |
 | :--: | :--: | :--: | :--: |
+| MUES | $-0,8$ | $-0,3$ | 0,4 |
 | Défiscalisation des heures supplémentaires | $-1,0$ | $-0,4$ | 0,4 |
-| Retour IR de la mesure CSG retraités (rétablissement du taux à 6,6\%) | 0,1 | 0,0 | $-0,1$ |
+| Retour IR de la mesure CSG retraités (rétablissement du taux à 6,6 \%) | 0,1 | 0,0 | $-0,1$ |
 | Autres mesures | 0,0 | 0,0 | 0,0 |
 | Sous-total mesures LFI / LFSS 2019 | $-2,0$ | 1,1 | $-0,4$ |
 | Renforcement du $5^{e}$ acompte d'IS | $-1,5$ | 0,0 | 0,0 |
@@ -4215,40 +4208,40 @@ En points de PIB
 |  | Base 2014 | Base 1995 des comptes nationaux |  |  |  |  |  |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 |  | 0,00 | 0,01 | $-0,23$ | 0,01 | 0,06 | 0,02 | 0,03 |
-|  | 0,43 | 0,00 | 0,01 | 0,14 | 0,14 | 0,00 | $-0,02$ |
+| 1999 | 0,43 | 0,00 | 0,01 | 0,14 | 0,14 | 0,00 | $-0,02$ |
 |  | Base 2014 | Base 2000 des comptes nationaux |  |  |  |  |  |
 |  | 0,78 | 0,03 | 0,15 | 0,02 | 0,26 | $-0,10$ | 0,12 |
-|  | 0,68 | 0,03 | 0,11 | $-0,08$ | 0,30 | $-0,02$ | 0,06 |
-|  | 0,20 | 0,00 | $-0,32$ | $-0,31$ | 0,44 | $-0,05$ | 0,01 |
-|  | $-0,27$ | $-0,03$ | $-0,75$ | $-0,28$ | 0,42 | $-0,03$ | 0,09 |
-|  | $-0,66$ | $-0,01$ | $-0,86$ | $-0,27$ | 0,36 | $-0,04$ | $-0,05$ |
-|  | $-0,43$ | $-0,08$ | $-0,24$ | $-0,16$ | 0,44 | $-0,15$ | 0,03 |
+| 2001 | 0,68 | 0,03 | 0,11 | $-0,08$ | 0,30 | $-0,02$ | 0,06 |
+| 2002 | 0,20 | 0,00 | $-0,32$ | $-0,31$ | 0,44 | $-0,05$ | 0,01 |
+| 2003 | $-0,27$ | $-0,03$ | $-0,75$ | $-0,28$ | 0,42 | $-0,03$ | 0,09 |
+| 2004 | $-0,66$ | $-0,01$ | $-0,86$ | $-0,27$ | 0,36 | $-0,04$ | $-0,05$ |
+| 2005 | $-0,43$ | $-0,08$ | $-0,24$ | $-0,16$ | 0,44 | $-0,15$ | 0,03 |
 |  | Base 2014 | Base 2005 des comptes nationaux |  |  |  |  |  |
 |  | 0,16 | $-0,06$ | $-0,51$ | 0,09 | 0,38 | 0,13 | 0,1 |
-|  | 0,21 | $-0,08$ | $-0,53$ | 0,21 | 0,33 | 0,18 | 0,14 |
-|  | 0,70 | $-0,09$ | $-0,53$ | 0,25 | 0,25 | 0,58 | 0,25 |
+| 2007 | 0,21 | $-0,08$ | $-0,53$ | 0,21 | 0,33 | 0,18 | 0,14 |
+| 2008 | 0,70 | $-0,09$ | $-0,53$ | 0,25 | 0,25 | 0,58 | 0,25 |
 |  | Base 2014 | Base 2010 des comptes nationaux |  |  |  |  |  |
 |  | 0,78 | $-0,05$ | $-1,00$ | $-0,04$ | 0,05 | 0,20 | 0,08 |
-|  | $-1,20$ | $-0,08$ | $-1,14$ | $-0,14$ | $-0,02$ | 0,19 | 0,04 |
-|  | $-0,62$ | $-0,11$ | $-0,78$ | $-0,06$ | $-0,04$ | 0,36 | 0,01 |
-|  | $-0,61$ | $-0,12$ | $-0,6$ | $-0,12$ | $-0,08$ | 0,30 | 0,01 |
+| 2010 | $-1,20$ | $-0,08$ | $-1,14$ | $-0,14$ | $-0,02$ | 0,19 | 0,04 |
+| 2011 | $-0,62$ | $-0,11$ | $-0,78$ | $-0,06$ | $-0,04$ | 0,36 | 0,01 |
+| 2012 | $-0,61$ | $-0,12$ | $-0,6$ | $-0,12$ | $-0,08$ | 0,30 | 0,01 |
 |  | Base 2014 | Base 2014 des comptes nationaux (5) |  |  |  |  |  |
 |  | 0,43 | $-0,07$ | $-0,53$ | $-0,17$ | $-0,10$ | 0,37 | 0,08 |
-|  | $-0,35$ | $-0,06$ | $-0,38$ | $-0,17$ | $-0,11$ | 0,33 | 0,05 |
-|  | $-0,17$ | $-0,04$ | $-0,32$ | $-0,17$ | $-0,06$ | 0,35 | 0,08 |
-|  | $-0,10$ | $-0,02$ | $-0,23$ | $-0,18$ | $-0,05$ | 0,36 | 0,03 |
-|  | 0,22 | $-0,02$ | $-0,05$ | $-0,14$ | 0,01 | 0,36 | 0,07 |
-|  | 0,50 | 0,02 | $-0,02$ | $-0,10$ | 0,05 | 0,51 | 0,05 |
-|  | 0,60 | 0,00 | $-0,02$ | $-0,07$ | 0,11 | 0,52 | 0,06 |
-|  | $-2,12$ | 0,07 | $-1,62$ | $-0,80$ | $-0,17$ | 0,51 | $-0,12$ |
+| 2014 | $-0,35$ | $-0,06$ | $-0,38$ | $-0,17$ | $-0,11$ | 0,33 | 0,05 |
+| 2015 | $-0,17$ | $-0,04$ | $-0,32$ | $-0,17$ | $-0,06$ | 0,35 | 0,08 |
+| 2016 | $-0,10$ | $-0,02$ | $-0,23$ | $-0,18$ | $-0,05$ | 0,36 | 0,03 |
+| 2017 | 0,22 | $-0,02$ | $-0,05$ | $-0,14$ | 0,01 | 0,36 | 0,07 |
+| 2018 | 0,50 | 0,02 | $-0,02$ | $-0,10$ | 0,05 | 0,51 | 0,05 |
+| 2019 | 0,60 | 0,00 | $-0,02$ | $-0,07$ | 0,11 | 0,52 | 0,06 |
+| 2020 | $-2,12$ | 0,07 | $-1,62$ | $-0,80$ | $-0,17$ | 0,51 | $-0,12$ |
 |  | En milliards d'euros |  |  |  |  |  |  |
-|  |  | Base 2014 des comptes nationaux (5) |  |  |  |  |  |
-|  | $-3,84$ | $-0,80$ | $-7,13$ | $-3,83$ | $-1,43$ | 7,64 | 1,71 |
-|  | $-2,16$ | $-0,49$ | $-5,19$ | $-3,98$ | $-1,05$ | 7,97 | 0,58 |
-|  | 4,95 | $-0,49$ | $-1,26$ | $-3,18$ | 0,20 | 8,16 | 1,52 |
-|  | 11,72 | 0,36 | $-0,45$ | $-2,38$ | 1,16 | 11,94 | 1,10 |
-|  | 14,50 | 0,01 | $-0,40$ | $-1,76$ | 2,63 | 12,58 | 1,45 |
-|  | $-48,73$ | 1,54 | $-37,24$ | $-18,36$ | $-3,83$ | 11,83 | $-2,67$ |
+|  | Base 2014 des comptes nationaux (5) |  |  |  |  |  |  |
+|  | 0,84 | $-0,80$ | $-7,13$ | $-3,83$ | $-1,43$ | 7,64 | 1,71 |
+| 2016 | $-2,16$ | $-0,49$ | $-5,19$ | $-3,98$ | $-1,05$ | 7,97 | 0,58 |
+| 2017 | 4,95 | $-0,49$ | $-1,26$ | $-3,18$ | 0,20 | 8,16 | 1,52 |
+| 2018 | 11,72 | 0,36 | $-0,45$ | $-2,38$ | 1,16 | 11,94 | 1,10 |
+| 2019 | 14,50 | 0,01 | $-0,40$ | $-1,76$ | 2,63 | 12,58 | 1,45 |
+| 2020 | $-48,73$ | 1,54 | $-37,24$ | $-18,36$ | $-3,83$ | 11,83 | $-2,67$ |
 
 Source : Insee, bases 2014, 2010, 2005, 2000 et 1995 des comptes nationaux.
 (1) A l'occasion du passage à la base 2005, la Caisse d'amortissement de la dette sociales (Cades) et le Fonds de réserve pour les retraites (FRR), précédemment classés dans le sous-secteur des organismes divers d'administration centrale (ODAC), ont été reclassés dans le sous-secteur des administrations de sécurité sociale (Fonds spéciaux).
@@ -4305,45 +4298,49 @@ TABLEAUX DES FINANCES PUBLIQUES JUSQU'EN 2020
 
 |   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Tableau 4 : Part des prélèvements obligatoires dans le PIB (en milliards d'euros et en points de PIB) |  |  |  |  |  |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  |  |  |  |  |  |  |  |  | Administrations publiques locales |  |  |  |  | Administrations de la sécurité sociale |  |  |  |  |  |  |   |
+|  Années | Taxe sur la valeur ajoutée | TICPE | Impôt sur le revenu (1) | Impôt sur les sociétés (1) | Autres (2) | Total | CET + IFER (3) | Taxes foncières | Taxe d'habitation | Autres (4) | Total | CSG (5) |  |  |  |  |  |  |  |  |  |   |
 |   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  Années | Taxe sur la valeur ajoutée | TICPE | Impôt sur le revenu (1) | Impôt sur les sociétés (1) | Autres (2) | Total | CET + IFER (3) | Taxes foncières | Taxe d'habitation | Autres (4) | Total | CSG (5) | Cotisations sociales (6) | Autres (7) | Total |  | ODAC | Union Européenne |  | Total des Administrations publiques |  |   |
+|  2019 | 124,9 | 18,1 | 75,4 | 33,6 | 52,7 | 303,8 | 23,7 | 36,0 | 13,9 | 82,5 | 156,2 |  | 126,7 |  |  |  |  |  |  |  |  |   |
+|  2020 |  |  |  |  |  | 282,0 |  |  |  |  | 153,4 |  |  |  |  |  |  |  |  |  |  |   |
 |   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2019 | 124,9 | 18,1 | 75,4 | 33,6 | 52,7 | 303,8 | 23,7 | 36,0 | 13,9 | 82,5 | 156,2 | 126,7 | 352,2 | 105,5 |  | 584,3 | 19,7 | 4,6 | 1068,5 |  |  |   |
-|  2020 |  |  |  |  |  | 282,0 |  |  |  |  | 153,4 |  |  |  |  |  | 563,2 | 20,8 | 5,1 | 1024,5 |  |   |
-|   |  |  |  |  |  |  |  |  |  |  | En points de PIB (base 2000) |  |  |  |  |  |  |  |  |  |  |   |
-|  1991 | 6,7 | 1,6 | 3,9 | 1,7 | 2,8 | 16,7 | 1,4 | 1,0 | 0,5 | 2,1 | 4,9 | 0,4 | 18,1 | 0,5 |  | 19,0 | 0,3 | 1,0 | 41,9 |  |  |   |
-|  1992 | 6,5 | 1,5 | 4,0 | 1,3 | 2,6 | 15,9 | 1,5 | 0,9 | 0,6 | 1,9 | 5,0 | 0,6 | 18,3 | 0,4 |  | 19,2 | 0,4 | 0,9 | 41,4 |  |  |   |
-|  1993 | 6,5 | 1,6 | 4,0 | 1,4 | 2,4 | 15,9 | 1,4 | 1,0 | 0,7 | 2,2 | 5,2 | 0,8 | 18,5 | 0,6 |  | 19,8 | 0,4 | 0,8 | 42,2 |  |  |   |
-|  1994 | 7,3 | 1,9 | 3,7 | 1,8 | 1,3 | 16,0 | 1,4 | 1,0 | 0,7 | 2,2 | 5,4 | 1,2 | 18,2 | 0,7 |  | 20,1 | 0,4 | 0,8 | 42,6 |  |  |   |
-|  1995 | 6,8 | 1,8 | 3,6 | 1,9 | 1,9 | 15,9 | 1,4 | 1,0 | 0,7 | 2,2 | 5,4 | 1,2 | 18,1 | 0,8 |  | 20,2 | 0,4 | 0,8 | 42,7 |  |  |   |
-|  1996 | 7,2 | 1,8 | 3,5 | 2,0 | 2,1 | 16,7 | 1,5 | 1,1 | 0,7 | 2,3 | 5,6 | 1,2 | 18,2 | 0,9 |  | 20,3 | 0,6 | 0,7 | 43,9 |  |  |   |
-|  1997 | 7,2 | 1,8 | 3,2 | 2,3 | 2,3 | 16,8 | 1,5 | 1,1 | 0,7 | 2,3 | 5,7 | 1,8 | 17,6 | 0,9 |  | 20,3 | 0,7 | 0,7 | 44,1 |  |  |   |
-|  1998 | 7,1 | 1,8 | 3,2 | 2,4 | 2,1 | 16,7 | 1,5 | 1,1 | 0,7 | 2,3 | 5,6 | 3,9 | 15,5 | 1,0 |  | 20,4 | 0,7 | 0,6 | 44,0 |  |  |   |
-|  1999 | 7,2 | 1,8 | 3,4 | 2,7 | 2,4 | 17,4 | 1,4 | 1,1 | 0,7 | 2,3 | 5,5 | 4,0 | 15,7 | 1,0 |  | 20,7 | 0,7 | 0,6 | 44,9 |  |  |   |
-|  2000 | 6,9 | 1,7 | 3,4 | 2,6 | 2,0 | 16,5 | 1,3 | 1,1 | 0,6 | 2,2 | 5,2 | 4,1 | 15,6 | 1,5 |  | 21,1 | 0,7 | 0,6 | 44,1 |  |  |   |
-|   |  |  |  |  |  |  |  |  |  | En points de PIB (base 2005) |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2001 | 6,8 | 1,5 | 3,2 | 3,0 | 1,7 | 16,2 | 1,3 | 1,1 | 0,6 | 2,0 | 5,0 | 4,1 | 15,6 | 2,0 |  | 21,8 | 0,3 | 0,6 | 43,8 |  |  |   |
-|  2002 | 6,8 | 1,5 | 3,0 | 2,5 | 1,7 | 15,5 | 1,2 | 1,1 | 0,6 | 2,1 | 4,9 | 4,0 | 15,7 | 2,1 |  | 21,8 | 0,5 | 0,5 | 43,3 |  |  |   |
-|  2003 | 6,9 | 1,5 | 3,0 | 2,3 | 1,6 | 15,2 | 1,2 | 1,1 | 0,6 | 2,1 | 5,0 | 4,0 | 15,9 | 2,0 |  | 22,0 | 0,5 | 0,3 | 43,1 |  |  |   |
-|  2004 | 7,1 | 1,2 | 2,9 | 2,5 | 2,7 | 16,3 | 1,2 | 1,1 | 0,6 | 2,4 | 5,3 | 4,0 | 15,8 | 1,2 |  | 20,9 | 0,5 | 0,2 | 43,3 |  |  |   |
-|  2005 | 7,2 | 1,1 | 2,9 | 2,4 | 2,6 | 16,2 | 1,2 | 1,2 | 0,7 | 2,5 | 5,5 | 4,2 | 15,9 | 1,3 |  | 21,4 | 0,5 | 0,3 | 43,8 |  |  |   |
-|  2006 | 6,8 | 1,0 | 2,9 | 2,7 | 1,7 | 15,2 | 1,2 | 1,2 | 0,7 | 2,6 | 5,6 | 4,3 | 15,8 | 2,4 |  | 22,5 | 0,5 | 0,3 | 44,1 |  |  |   |
-|  2007 | 6,7 | 0,9 | 2,6 | 2,7 | 1,5 | 14,4 | 1,2 | 1,2 | 0,7 | 2,7 | 5,7 | 4,3 | 15,7 | 2,5 |  | 22,4 | 0,6 | 0,3 | 43,4 |  |  |   |
-|  2008 | 6,5 | 0,8 | 2,6 | 2,6 | 1,3 | 13,8 | 1,1 | 1,2 | 0,7 | 2,9 | 5,8 | 4,4 | 15,7 | 2,7 |  | 22,8 | 0,5 | 0,3 | 43,2 |  |  |   |
-|   |  |  |  |  |  |  |  |  |  | En points de PIB (base 2010) |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2009 | 6,3 | 0,7 | 2,4 | 1,1 | 1,1 | 11,6 | 1,1 | 1,3 | 0,7 | 2,9 | 6,0 | 4,2 | 15,8 | 2,8 |  | 22,8 | 0,5 | 0,1 | 41,0 |  |  |   |
-|  2010 | 6,3 | 0,7 | 2,4 | 1,7 | 2,6 | 13,6 | 0,0 | 1,3 | 0,8 | 2,4 | 4,5 | 4,2 | 15,7 | 2,7 |  | 22,5 | 0,6 | 0,1 | 41,3 |  |  |   |
-|  2011 | 6,3 | 0,6 | 2,5 | 2,1 | 1,4 | 12,9 | 0,8 | 1,3 | 0,8 | 2,9 | 5,8 | 4,3 | 15,8 | 3,1 |  | 23,2 | 0,6 | 0,1 | 42,6 |  |  |   |
-|  2012 | 6,3 | 0,6 | 2,9 | 2,0 | 1,7 | 13,6 | 0,9 | 1,4 | 0,8 | 2,8 | 5,9 | 4,4 | 16,0 | 3,2 |  | 23,6 | 0,6 | 0,1 | 43,8 |  |  |   |
-|  2013 | 6,2 | 0,6 | 3,2 | 2,1 | 1,9 | 14,1 | 0,9 | 1,4 | 0,8 | 2,7 | 5,9 | 4,4 | 16,3 | 3,3 |  | 24,0 | 0,7 | 0,1 | 44,8 |  |  |   |
-|  2014 | 6,4 | 0,6 | 3,3 | 1,7 | 1,7 | 13,6 | 0,9 | 1,4 | 0,8 | 2,7 | 6,0 | 4,4 | 16,5 | 3,4 |  | 24,3 | 0,7 | 0,1 | 44,6 |  |  |   |
-|  2015 | 6,4 | 0,6 | 3,2 | 1,4 | 1,8 | 13,4 | 0,9 | 1,4 | 0,8 | 2,8 | 6,1 | 4,4 | 16,3 | 3,4 |  | 24,1 | 0,8 | 0,1 | 44,4 |  |  |   |
-|  2016 | 6,4 | 0,7 | 3,3 | 1,4 | 2,0 | 13,7 | 1,0 | 1,5 | 0,8 | 2,9 | 6,2 | 4,4 | 16,3 | 3,4 |  | 24,0 | 0,5 | 0,1 | 44,4 |  |  |   |
-|   |  |  |  |  |  |  |  |  |  | En points de PIB (base 2014) |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2017 | 6,6 | 0,7 | 3,2 | 1,6 | 2,1 | 14,1 | 0,9 | 1,5 | 0,8 | 3,0 | 6,2 | 4,3 | 16,3 | 3,3 |  | 24,0 | 0,6 | 0,2 | 45,1 |  |  |   |
-|  2018 | 6,6 | 0,8 | 3,1 | 1,2 | 2,0 | 13,6 | 0,9 | 1,5 | 0,7 | 3,2 | 6,4 | 5,3 | 15,7 | 3,1 |  | 24,0 | 0,5 | 0,2 | 44,7 |  |  |   |
-|  2019 | 5,1 | 0,7 | 3,1 | 1,4 | 2,1 | 12,5 | 1,0 | 1,5 | 0,6 | 3,4 | 6,4 | 5,2 | 14,5 | 4,3 |  | 24,0 | 0,8 | 0,2 | 43,8 |  |  |   |
-|  2020 | 4,9 | 0,6 | 3,2 | 1,7 | 1,8 | 12,2 | 1,0 | 1,6 | 0,5 | 3,6 | 6,7 | 5,4 | 14,4 | 4,6 |  | 24,5 | 0,9 | 0,2 | 44,5 |  |  |   |
+|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  1991 | 6,7 | 1,6 | 3,9 | 1,7 | 2,8 | 16,7 | 1,4 | 1,0 | 0,5 | 2,1 | 4,9 |  | 0,4 |  |  |  |  |  |  |  |  |   |
+|  1992 | 6,5 | 1,5 | 4,0 | 1,3 | 2,6 | 15,9 | 1,5 | 0,9 | 0,6 | 1,9 | 5,0 |  | 0,6 |  |  |  |  |  |  |  |  |   |
+|  1993 | 6,5 | 1,6 | 4,0 | 1,4 | 2,4 | 15,9 | 1,4 | 1,0 | 0,7 | 2,2 | 5,2 |  | 0,8 |  |  |  |  |  |  |  |  |   |
+|  1994 | 7,3 | 1,9 | 3,7 | 1,8 | 1,3 | 16,0 | 1,4 | 1,0 | 0,7 | 2,2 | 5,4 |  | 1,2 |  |  |  |  |  |  |  |  |   |
+|  1995 | 6,8 | 1,8 | 3,6 | 1,9 | 1,9 | 15,9 | 1,4 | 1,0 | 0,7 | 2,2 | 5,4 |  | 1,2 |  |  |  |  |  |  |  |  |   |
+|  1996 | 7,2 | 1,8 | 3,5 | 2,0 | 2,1 | 16,7 | 1,5 | 1,1 | 0,7 | 2,3 | 5,6 |  | 1,2 |  |  |  |  |  |  |  |  |   |
+|  1997 | 7,2 | 1,8 | 3,2 | 2,3 | 2,3 | 16,8 | 1,5 | 1,1 | 0,7 | 2,3 | 5,7 |  | 1,8 |  |  |  |  |  |  |  |  |   |
+|  1998 | 7,1 | 1,8 | 3,2 | 2,4 | 2,1 | 16,7 | 1,5 | 1,1 | 0,7 | 2,3 | 5,6 |  | 3,9 |  |  |  |  |  |  |  |  |   |
+|  1999 | 7,2 | 1,8 | 3,4 | 2,7 | 2,4 | 17,4 | 1,4 | 1,1 | 0,7 | 2,3 | 5,5 |  | 4,0 |  |  |  |  |  |  |  |  |   |
+|  2000 | 6,9 | 1,7 | 3,4 | 2,6 | 2,0 | 16,5 | 1,3 | 1,1 | 0,6 | 2,2 | 5,2 |  | 4,1 |  |  |  |  |  |  |  |  |   |
+|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2001 | 6,8 | 1,5 | 3,2 | 3,0 | 1,7 | 16,2 | 1,3 | 1,1 | 0,6 | 2,0 | 5,0 |  | 4,1 |  |  |  |  |  |  |  |  |   |
+|  2002 | 6,8 | 1,5 | 3,0 | 2,5 | 1,7 | 15,5 | 1,2 | 1,1 | 0,6 | 2,1 | 4,9 |  | 4,0 |  |  |  |  |  |  |  |  |   |
+|  2003 | 6,9 | 1,5 | 3,0 | 2,3 | 1,6 | 15,2 | 1,2 | 1,1 | 0,6 | 2,1 | 5,0 |  | 4,0 |  |  |  |  |  |  |  |  |   |
+|  2004 | 7,1 | 1,2 | 2,9 | 2,5 | 2,7 | 16,3 | 1,2 | 1,1 | 0,6 | 2,4 | 5,3 |  | 4,0 |  |  |  |  |  |  |  |  |   |
+|  2005 | 7,2 | 1,1 | 2,9 | 2,4 | 2,6 | 16,2 | 1,2 | 1,2 | 0,7 | 2,5 | 5,5 |  | 4,2 |  |  |  |  |  |  |  |  |   |
+|  2006 | 6,8 | 1,0 | 2,9 | 2,7 | 1,7 | 15,2 | 1,2 | 1,2 | 0,7 | 2,6 | 5,6 |  | 4,3 |  |  |  |  |  |  |  |  |   |
+|  2007 | 6,7 | 0,9 | 2,6 | 2,7 | 1,5 | 14,4 | 1,2 | 1,2 | 0,7 | 2,7 | 5,7 |  | 4,3 |  |  |  |  |  |  |  |  |   |
+|  2008 | 6,5 | 0,8 | 2,6 | 2,6 | 1,3 | 13,8 | 1,1 | 1,2 | 0,7 | 2,9 | 5,8 |  | 4,4 |  |  |  |  |  |  |  |  |   |
+|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2009 | 6,3 | 0,7 | 2,4 | 1,1 | 1,1 | 11,6 | 1,1 | 1,3 | 0,7 | 2,9 | 6,0 |  | 4,2 |  |  |  |  |  |  |  |  |   |
+|  2010 | 6,3 | 0,7 | 2,4 | 1,7 | 2,6 | 13,6 | 0,0 | 1,3 | 0,8 | 2,4 | 4,5 |  | 4,2 |  |  |  |  |  |  |  |  |   |
+|  2011 | 6,3 | 0,6 | 2,5 | 2,1 | 1,4 | 12,9 | 0,8 | 1,3 | 0,8 | 2,9 | 5,8 |  | 4,3 |  |  |  |  |  |  |  |  |   |
+|  2012 | 6,3 | 0,6 | 2,9 | 2,0 | 1,7 | 13,6 | 0,9 | 1,4 | 0,8 | 2,8 | 5,9 |  | 4,4 |  |  |  |  |  |  |  |  |   |
+|  2013 | 6,2 | 0,6 | 3,2 | 2,1 | 1,9 | 14,1 | 0,9 | 1,4 | 0,8 | 2,7 | 5,9 |  | 4,4 |  |  |  |  |  |  |  |  |   |
+|  2014 | 6,4 | 0,6 | 3,3 | 1,7 | 1,7 | 13,6 | 0,9 | 1,4 | 0,8 | 2,7 | 6,0 |  | 4,4 |  |  |  |  |  |  |  |  |   |
+|  2015 | 6,4 | 0,6 | 3,2 | 1,4 | 1,8 | 13,4 | 0,9 | 1,4 | 0,8 | 2,8 | 6,1 |  | 4,4 |  |  |  |  |  |  |  |  |   |
+|  2016 | 6,4 | 0,7 | 3,3 | 1,4 | 2,0 | 13,7 | 1,0 | 1,5 | 0,8 | 2,9 | 6,2 |  | 4,4 |  |  |  |  |  |  |  |  |   |
+|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2017 | 6,6 | 0,7 | 3,2 | 1,6 | 2,1 | 14,1 | 0,9 | 1,5 | 0,8 | 3,0 | 6,2 |  | 4,3 |  |  |  |  |  |  |  |  |   |
+|  2018 | 6,6 | 0,8 | 3,1 | 1,2 | 2,0 | 13,6 | 0,9 | 1,5 | 0,7 | 3,2 | 6,4 |  | 5,3 |  |  |  |  |  |  |  |  |   |
+|  2019 | 5,1 | 0,7 | 3,1 | 1,4 | 2,1 | 12,5 | 1,0 | 1,5 | 0,6 | 3,4 | 6,4 |  | 5,2 |  |  |  |  |  |  |  |  |   |
+|  2020 | 4,9 | 0,6 | 3,2 | 1,7 | 1,8 | 12,2 | 1,0 | 1,6 | 0,5 | 3,6 | 6,7 |  | 5,4 |  |  |  |  |  |  |  |  |   |
 
 Source : Insee, bases 2014, 2010, 2005 et 2000 des comptes nationaux, calculs DG Trésor. (1) Déduction faite des crédits d'impôts budgétaires; (2) Déduction faite des transferts fiscaux de l'État aux collectivités locales et à la sécurité sociale et des impôts dus non recouvrables. (3) Jusqu'en 2010, les collectivités locales percevaient la taxe professionnelle; (4) Principalement la fiscalité indirecte locale et les transferts de recettes fiscales en provenance de l'État. (5) Y.s. rendement du prélèvement au fil de l'eau de la part en euro des contrats d'assurance-vie multi-supports; (6) Déduction faite des cotisations dues non recouvrables ; (7) Notamment TVA transférée, taxe sur les salaires et prélèvements sur tabacs et alcools.
 [235]
@@ -4651,7 +4648,7 @@ Tableau 11 - Lois de finances initiales (LFI) et exécution budgétaire (hors FM
 | 2019 | $-4,4$ | $-3,8$ | $-3,8$ | $-4,0$ | 13,6 | 9,9 | 11,6 | $-2,6$ | 0,6 | 0,2 | 0,2 |
 | 2020 | $-4,0$ | $-7,7$ | $-7,7$ | $-7,5$ | 16,4 | 9,4 | 11,1 | $-2,9$ | 0,6 | 0,5 | $-0,2$ |
 
-(1) Hors mesure de régularisation des pensions ; (2) Y.c. mesure de régularisation des pensions.
+(1) Hors mesure de régularisation des pensions; (2) Y.c. mesure de régularisation des pensions.
 (3) Hors recettes "cession de participation EDF"; (4) Y.c. recettes "cession de participation EDF".
 
 Sources : Projets de loi de règlement pour chaque année, Direction du Budget, Insee, calculs DG Trésor. Le Fonds de Stabilisation des Charges (FSC) est géré par la Banque de France pour le compte du TÉtat. Depuis 1986, date de la modification du statut de la Banque de France en vue de sa participation au Système européen de banques centrales, le FSC ne détient plus d'actifs en devises étrangères.

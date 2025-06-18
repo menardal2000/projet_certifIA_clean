@@ -1,0 +1,61 @@
+# Note d'Analyse des Finances Publiques Françaises pour 2023
+
+## Contexte Économique
+
+### Situation Économique Mondiale
+
+La situation économique mondiale en 2022 et 2023 présente des signes de reprise, bien que modérés. La demande mondiale de biens adressée à la France a augmenté de 5,2 % en 2022 et devrait croître de 3,1 % en 2023 selon le Programme de stabilité 2022-2027. Cependant, le Projet de loi de finances (PLF) 2023 prévoit une croissance plus modeste de 1,6 % en 2023. Le taux de change USD/EUR est prévu à 1,06 en 2022 et 1,02 en 2023, tandis que le prix du Brent en USD devrait passer de 110 en 2022 à 98 en 2023 selon le Programme de stabilité, et de 103 en 2022 à 90 en 2023 selon le PLF 2023.
+
+### Situation Économique Française
+
+Le PIB français devrait croître de 2,5 % en 2022 et de 1,4 % en 2023 selon le Programme de stabilité, et de 2,7 % en 2022 et 1,0 % en 2023 selon le PLF 2023. La consommation des ménages, moteur traditionnel de la croissance, devrait augmenter de 2,8 % en 2022 et de 1,9 % en 2023 selon le Programme de stabilité, et de 2,5 % en 2022 et 1,4 % en 2023 selon le PLF 2023. La formation brute de capital fixe (FBCF) totale devrait croître de 2,9 % en 2022 et de 0,8 % en 2023 selon le Programme de stabilité, et de 2,3 % en 2022 et 0,1 % en 2023 selon le PLF 2023.
+
+## Déficit Public
+
+### Évolution du Solde Public
+
+Le solde public devrait rester stable à -5,0 % du PIB en 2023, malgré une croissance prévue plus faible que la croissance potentielle. Cette stabilité est principalement due à la poursuite des mesures de soutien aux ménages et aux entreprises ainsi qu'à la montée en charge du plan France 2030. Le solde structurel s'améliorerait de +0,9 point pour s'établir à -4,2 % après -5,1 % en 2021.
+
+### Facteurs Influents
+
+L'amélioration du solde structurel est principalement attribuable à l'extinction des mesures de soutien d'urgence sanitaire et à la poursuite des dépenses de France Relance. En 2022, la dépense publique se contracterait de -1,1 % en volume, en raison du contrecoup des mesures d'urgence et d'une légère baisse des dépenses de France Relance (-3,4 points). Hors urgence et relance, la dépense publique croîtrait de +2,4 % en volume, principalement en raison des mesures de soutien aux ménages et aux entreprises face à l'inflation.
+
+## Dépenses Publiques
+
+### Évolution des Dépenses
+
+En 2023, la dépense publique continuerait de reculer, de -1,5 % en volume, en raison de la baisse des dépenses d'urgence (y compris dépenses de santé exceptionnelles) et de France Relance (-1,6 point). Hors ces deux postes, la dépense publique serait globalement stable (+0,1 % en volume). Les dépenses de soutien d'urgence seraient en forte baisse et ne seraient quasiment plus constituées que de dépenses de santé liées à la Covid-19.
+
+### Impact de l'Inflation
+
+Les prévisions de dépense publique sous-jacentes aux projets de loi de finances et de financement de la sécurité sociale pour 2023 reflètent les effets de l'inflation sur la dépense publique. L'inflation a un impact direct sur la charge de la dette et sur les dépenses de prestations indexées sur l'inflation, ainsi qu'un impact indirect via les mesures de soutien mises en place par le Gouvernement.
+
+## Recettes Publiques
+
+### Prélèvements Obligatoires
+
+Les prélèvements obligatoires devraient passer de 44,3 % du PIB en 2021 à 45,2 % en 2022, puis redescendre à 44,7 % en 2023. Cette évolution reflète les mesures de soutien mises en place par le Gouvernement pour protéger les ménages et les entreprises face à l'inflation et à la crise sanitaire.
+
+## Dette Publique
+
+### Évolution du Ratio de Dette
+
+Le ratio de dette publique serait en baisse, à 111,5 % du PIB en 2022, après 112,8 % en 2021, en raison de l'amélioration du solde public et de la vigueur de la croissance nominale. En 2023, le ratio de dette publique continuerait de baisser pour atteindre 111,2 % du PIB. Cette évolution est principalement due à la poursuite du rebond de l'activité et à l'extinction des mesures de soutien d'urgence sanitaire.
+
+### Perspectives
+
+Le solde public à législation et pratique inchangées devrait passer de -4,2 % du PIB en 2022 à -4,5 % en 2023, puis se stabiliser autour de -5,0 % jusqu'en 2025 avant de redescendre progressivement à -4,5 % en 2027. La dette publique à législation et pratique inchangées devrait passer de 110,7 % du PIB en 2022 à 109,9 % en 2023, puis remonter progressivement à 114,2 % en 2027.
+
+## Perspectives
+
+### Scénario de Moyen Terme
+
+Les perspectives de moyen terme montrent une amélioration progressive du solde public, avec une réduction du déficit à -2,9 % du PIB en 2027. La dette publique devrait également diminuer, passant de 111,5 % du PIB en 2022 à 110,9 % en 2027. Ces perspectives reposent sur la poursuite des réformes structurelles et la mise en œuvre des plans de relance et de soutien aux ménages et aux entreprises.
+
+### Aléas
+
+Les prévisions restent soumises à des aléas importants, notamment liés à l'évolution de l'inflation, aux tensions géopolitiques et aux conséquences de la crise sanitaire. Une attention particulière devra être portée à la gestion des dépenses publiques et à la mise en œuvre des réformes structurelles pour assurer la soutenabilité des finances publiques à moyen et long terme.
+
+## Conclusion
+
+Les prévisions de déficit public et de dette publique pour 2023 montrent une stabilité du solde public à -5,0 % du PIB et une légère baisse du ratio de dette publique à 111,2 % du PIB. Ces évolutions sont principalement dues à la poursuite des mesures de soutien aux ménages et aux entreprises, ainsi qu'à la montée en charge du plan France 2030. Les perspectives de moyen terme montrent une amélioration progressive du solde public et une réduction de la dette publique, sous réserve de la gestion des aléas économiques et géopolitiques.

@@ -151,21 +151,32 @@ def process_ocr(annee):
         return None
 
 # ============================ Fonction de préparation de la base de données ============================
-def prepare_database(annee, input_path):
-    """Prépare la base de données vectorielle pour une année donnée."""
+def prepare_database(annee, input_path, chunk_size=1000, chunk_overlap=50):
+    """Prépare la base de données vectorielle pour une année donnée avec mesure de performance."""
     print(f"🔍 Préparation de la base de données pour RESF {annee}...")
+    print(f"📊 Paramètres : chunk_size={chunk_size}, chunk_overlap={chunk_overlap}")
+    
+    start_time_total = time.time()
     
     # Lecture du contenu du fichier
+    start_time_read = time.time()
     with open(input_path, "r", encoding="utf-8") as f:
         content = f.read()
+    read_time = time.time() - start_time_read
+    print(f"⏱️ Temps de lecture du fichier : {read_time:.2f} secondes")
 
     document = LangDocument(page_content=content, metadata={"source": input_path, "annee": annee})
     
     # Découpage du texte en chunks
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
-    chunks = text_splitter.split_documents([document]) 
+    start_time_split = time.time()
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    chunks = text_splitter.split_documents([document])
+    split_time = time.time() - start_time_split
+    print(f"⏱️ Temps de découpage en chunks : {split_time:.2f} secondes")
+    print(f"📈 Nombre de chunks créés : {len(chunks)}")
     
     # Création de la base de données vectorielle
+    start_time_embedding = time.time()
     chroma_path = os.path.join(path_database, f"db_RESF_{annee}")
     embeddings = MistralAIEmbeddings(model="mistral-embed", api_key=key_Mistral)
 
@@ -176,7 +187,101 @@ def prepare_database(annee, input_path):
         db_chroma = Chroma(persist_directory=chroma_path, embedding_function=embeddings)
         print(f"✅ Base de données existante chargée pour RESF {annee}")
     
+    embedding_time = time.time() - start_time_embedding
+    total_time = time.time() - start_time_total
+    
+    print(f"⏱️ Temps de création/chargement de la base vectorielle : {embedding_time:.2f} secondes")
+    print(f"⏱️ Temps total de préparation : {total_time:.2f} secondes")
+    print(f"📊 Résumé des performances :")
+    print(f"   - Lecture : {read_time:.2f}s")
+    print(f"   - Découpage : {split_time:.2f}s")
+    print(f"   - Embeddings : {embedding_time:.2f}s")
+    print(f"   - Total : {total_time:.2f}s")
+    
     return db_chroma
+
+# ============================ Fonction de test de performance ============================
+def test_performance_parameters(annee, input_path):
+    """Teste différentes combinaisons de paramètres et mesure les performances."""
+    print(f"\n🧪 TEST DE PERFORMANCE POUR RESF {annee}")
+    print("=" * 60)
+    
+    # Combinaisons de paramètres à tester
+    test_configs = [
+        {"chunk_size": 500, "chunk_overlap": 25},
+        {"chunk_size": 500, "chunk_overlap": 50},
+        {"chunk_size": 500, "chunk_overlap": 100},
+        {"chunk_size": 500, "chunk_overlap": 150},
+        {"chunk_size": 1000, "chunk_overlap": 25},
+        {"chunk_size": 1000, "chunk_overlap": 50},
+        {"chunk_size": 1000, "chunk_overlap": 100},
+        {"chunk_size": 1000, "chunk_overlap": 150},
+        {"chunk_size": 1500, "chunk_overlap": 25},
+        {"chunk_size": 1500, "chunk_overlap": 50},
+        {"chunk_size": 1500, "chunk_overlap": 100},
+        {"chunk_size": 1500, "chunk_overlap": 150},
+        
+    ]
+    
+    results = []
+    
+    for i, config in enumerate(test_configs, 1):
+        print(f"\n🔬 Test {i}/{len(test_configs)} : chunk_size={config['chunk_size']}, chunk_overlap={config['chunk_overlap']}")
+        print("-" * 50)
+        
+        start_time = time.time()
+        
+        # Lecture du contenu
+        with open(input_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        
+        document = LangDocument(page_content=content, metadata={"source": input_path, "annee": annee})
+        
+        # Découpage du texte
+        text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=config['chunk_size'], 
+            chunk_overlap=config['chunk_overlap']
+        )
+        chunks = text_splitter.split_documents([document])
+        
+        # Création temporaire de la base (sans persistance pour le test)
+        embeddings = MistralAIEmbeddings(model="mistral-embed", api_key=key_Mistral)
+        db_chroma = Chroma.from_documents(chunks, embeddings)
+        
+        end_time = time.time()
+        execution_time = end_time - start_time
+        
+        result = {
+            "chunk_size": config['chunk_size'],
+            "chunk_overlap": config['chunk_overlap'],
+            "execution_time": execution_time,
+            "num_chunks": len(chunks),
+            "avg_chunk_size": sum(len(chunk.page_content) for chunk in chunks) / len(chunks) if chunks else 0
+        }
+        
+        results.append(result)
+        
+        print(f"⏱️ Temps d'exécution : {execution_time:.2f} secondes")
+        print(f"📊 Nombre de chunks : {len(chunks)}")
+        print(f"📏 Taille moyenne des chunks : {result['avg_chunk_size']:.0f} caractères")
+    
+    # Affichage du résumé
+    print(f"\n📋 RÉSUMÉ DES PERFORMANCES")
+    print("=" * 60)
+    print(f"{'Chunk Size':<12} {'Chunk Overlap':<15} {'Temps (s)':<10} {'Chunks':<8} {'Taille moy.':<12}")
+    print("-" * 60)
+    
+    for result in results:
+        print(f"{result['chunk_size']:<12} {result['chunk_overlap']:<15} {result['execution_time']:<10.2f} {result['num_chunks']:<8} {result['avg_chunk_size']:<12.0f}")
+    
+    # Trouver la configuration la plus rapide
+    fastest = min(results, key=lambda x: x['execution_time'])
+    print(f"\n🏆 Configuration la plus rapide :")
+    print(f"   - Chunk size : {fastest['chunk_size']}")
+    print(f"   - Chunk overlap : {fastest['chunk_overlap']}")
+    print(f"   - Temps : {fastest['execution_time']:.2f} secondes")
+    
+    return results
 
 # ============================ Fonction de réponse aux questions ============================
 def answer_question(db_chroma, question, annee):
@@ -193,6 +298,51 @@ def answer_question(db_chroma, question, annee):
     
     return response.content
 
+# ============================ Fonction d'évaluation de la qualité ============================
+def evaluate_quality_parameters(annee, input_path, questions):
+    """Teste différentes combinaisons de paramètres, génère les réponses aux questions et exporte dans des fichiers texte."""
+    print(f"\n🧪 ÉVALUATION DE LA QUALITÉ POUR RESF {annee}")
+    print("=" * 60)
+    
+    # Combinaisons de paramètres à tester (mêmes que test_performance_parameters)
+    test_configs = [
+        {"chunk_size": 500, "chunk_overlap": 25},
+        {"chunk_size": 500, "chunk_overlap": 50},
+        {"chunk_size": 500, "chunk_overlap": 100},
+        {"chunk_size": 500, "chunk_overlap": 150},
+        {"chunk_size": 1000, "chunk_overlap": 25},
+        {"chunk_size": 1000, "chunk_overlap": 50},
+        {"chunk_size": 1000, "chunk_overlap": 100},
+        {"chunk_size": 1000, "chunk_overlap": 150},
+        {"chunk_size": 1500, "chunk_overlap": 25},
+        {"chunk_size": 1500, "chunk_overlap": 50},
+        {"chunk_size": 1500, "chunk_overlap": 100},
+        {"chunk_size": 1500, "chunk_overlap": 150},
+    ]
+    
+    for config in test_configs:
+        print(f"\n🔬 Génération des réponses pour chunk_size={config['chunk_size']}, chunk_overlap={config['chunk_overlap']}")
+        db_chroma = prepare_database(annee, input_path, chunk_size=config['chunk_size'], chunk_overlap=config['chunk_overlap'])
+        
+        reponses = []
+        for idx, question in enumerate(questions, 1):
+            print(f"\n❓ Question {idx}/{len(questions)} : {question}")
+            try:
+                reponse = answer_question(db_chroma, question, annee)
+            except Exception as e:
+                reponse = f"Erreur lors de la génération de la réponse : {e}"
+            reponses.append((question, reponse))
+        
+        # Export dans un fichier texte
+        filename = f"reponses_chunk{config['chunk_size']}_overlap{config['chunk_overlap']}.txt"
+        filepath = os.path.join(path_notes_generees_txt, filename)
+        with open(filepath, "w", encoding="utf-8") as f:
+            for idx, (q, r) in enumerate(reponses, 1):
+                f.write(f"Question {idx} : {q}\n")
+                f.write(f"Réponse :\n{r}\n")
+                f.write("-"*60 + "\n")
+        print(f"✅ Réponses exportées dans {filepath}")
+
 # ============================ Fonction d'affichage du menu ============================
 def display_menu():
     """Affiche le menu principal."""
@@ -201,7 +351,9 @@ def display_menu():
     print("="*60)
     print("1. Choisir une année et poser une question")
     print("2. Voir les années disponibles")
-    print("3. Quitter")
+    print("3. Test de performance des paramètres")
+    print("4. Évaluer la qualité des réponses selon les paramètres")
+    print("5. Quitter")
     print("="*60)
 
 def display_available_years():
@@ -322,10 +474,24 @@ def question_session(annee, db_chroma):
 def main():
     print("🚀 Démarrage du système de Q&A sur les Rapports RESF...")
     
+    # Liste des 10 questions à évaluer (extraites de l'image)
+    questions_eval = [
+        "Quelle est la prévision de croissance du PIB pour l'année 2022 dans le rapport ?",
+        "Quelles hypothèses macroéconomiques sous-tendent la trajectoire du rapport ?",
+        "Quelle est l'évolution attendue de l'inflation en 2022 selon le rapport ?",
+        "Quels sont les principaux moteurs de la croissance identifiés pour 2022 ?",
+        "Comment le rapport évalue-t-il les risques pesant sur la reprise économique ?",
+        "Quel est le niveau prévu du déficit public en 2022, en pourcentage du PIB ?",
+        "Quelle est la trajectoire de la dette publique prévue dans le rapport ?",
+        "Comment évoluent les dépenses de l'État en 2022 par rapport à 2021 ?",
+        "Quelles sont les principales mesures nouvelles de politique budgétaire ?",
+        "Quel est le déficit public en 2021 ?"
+    ]
+    
     while True:
         try:
             display_menu()
-            choice = input("\n🎯 Votre choix (1-3) : ").strip()
+            choice = input("\n🎯 Votre choix (1-5) : ").strip()
             
             if choice == "1":
                 # Afficher les années disponibles
@@ -361,11 +527,43 @@ def main():
                 display_available_years()
                 
             elif choice == "3":
+                # Test de performance
+                available_years = display_available_years()
+                selected_year = select_year(available_years)
+                if selected_year is None:
+                    continue
+                
+                # Vérifier si le fichier texte existe
+                input_path = os.path.join(path_notes_generees_txt, f"RESF_{selected_year}.txt")
+                if not os.path.exists(input_path):
+                    print(f"❌ Fichier texte pour {selected_year} non trouvé. Traitement OCR nécessaire...")
+                    input_path = process_ocr(selected_year)
+                    if input_path is None:
+                        continue
+                
+                # Lancer le test de performance
+                test_performance_parameters(selected_year, input_path)
+                
+            elif choice == "4":
+                # Évaluation de la qualité
+                available_years = display_available_years()
+                selected_year = select_year(available_years)
+                if selected_year is None:
+                    continue
+                input_path = os.path.join(path_notes_generees_txt, f"RESF_{selected_year}.txt")
+                if not os.path.exists(input_path):
+                    print(f"❌ Fichier texte pour {selected_year} non trouvé. Traitement OCR nécessaire...")
+                    input_path = process_ocr(selected_year)
+                    if input_path is None:
+                        continue
+                evaluate_quality_parameters(selected_year, input_path, questions_eval)
+                
+            elif choice == "5":
                 print("👋 Au revoir !")
                 break
                 
             else:
-                print("❌ Choix invalide. Veuillez entrer 1, 2 ou 3.")
+                print("❌ Choix invalide. Veuillez entrer 1, 2, 3, 4 ou 5.")
                 
         except KeyboardInterrupt:
             print("\n\n👋 Au revoir !")

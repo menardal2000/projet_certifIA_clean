@@ -153,7 +153,7 @@ Graphique 2 : Évolution des coûts salariaux unitaires en zone euro (T1 2000 = 
 ![img-2.jpeg](img-2.jpeg)
 
 Source : Eurostat, calculs DGTrésor
-La situation des finances publiques a poursuivi sa trajectoire de stabilisation. En 2019, le déficit public s'est établi à $-3,0 \%$ du PIB. Pour la troisième année consécutive, le seuil des $3 \%$ du PIB a été respecté, malgré l'effet transitoire de la transformation du crédit d'impôt pour la compétitivité et l'emploi en allègement de cotisations sociales, sans lequel le déficit se serait élevé à seulement $-2,1 \%$ du PIB, après $-2,3 \%$ du PIB en 2018. Le solde structurel s'est établi à $-2,2 \%$ du PIB potentiel, comme en 2018, proche des objectifs de la loi de programmation pluriannuelle des finances publiques ( $-1,9 \%$ ), malgré les mesures d'urgence prises fin 2018. La dette publique s'est élevée à 98,1 \% du PIB en 2019, niveau identique à celui de 2018, et plus bas que celui de 2017 ( $98,3 \%$ du PIB).
+La situation des finances publiques a poursuivi sa trajectoire de stabilisation. En 2019, le déficit public s'est établi à $-3,0 \%$ du PIB. Pour la troisième année consécutive, le seuil des $3 \%$ du PIB a été respecté, malgré l'effet transitoire de la transformation du crédit d'impôt pour la compétitivité et l'emploi en allègement de cotisations sociales, sans lequel le déficit se serait élevé à seulement $-2,1 \%$ du PIB, après $-2,3 \%$ du PIB en 2018. Le solde structurel s'est établi à $-2,2 \%$ du PIB potentiel, comme en 2018, proche des objectifs de la loi de programmation pluriannuelle des finances publiques ( $-1,9 \%$ ), malgré les mesures d'urgence prises fin 2018. La dette publique s'est élevée à $98,1 \%$ du PIB en 2019, niveau identique à celui de 2018, et plus bas que celui de 2017 ( $98,3 \%$ du PIB).
 [13]
 L'épidémie de Covid-19 a entraîné une double crise sanitaire et économique d'une ampleur inédite, face à laquelle le Gouvernement a déployé des mesures massives d'urgence et de soutien pour protéger la santé des citoyens, les revenus des ménages et la pérennité des entreprises
 
@@ -193,8 +193,8 @@ $641 / 2 \mathrm{Md} €$ de mesures ayant un impact direct sur le solde public,
 
 | Mesures avec effet direct sur le solde public* |  |  |
 | :--: | :--: | :--: |
-| Activité partielle | $31 \mathrm{Md} €^{2 / 3}$ | Couverture par l'État et l'Unédic de $100 \%$ (jusqu'au $1^{\text {er }}$ juin, puis ramenée à $85 \%$ hors secteurs spécifiques) des indemnisations versées aux salariés par l'entreprise dans la limite de 4,5 Smic Extension du dispositif aux particuliers employeurs jusqu'au 31 août 2020. <br> Extension du dispositif au $1^{\text {er }}$ mai 2020 aux salariés particulièrement vulnérables au coronavirus et aux parents d'enfants sans solution de garde |
-| Fonds de solidarité | $81 / 2 \mathrm{Md} €^{3}$ | Versement d'une aide forfaitaire aux plus petites entreprises ayant subi une baisse importante de leur chiffre d'affaires et remplissant certaines conditions. 2 volets : (i) « filet de sécurité », plafonné à $1500 €$; et (ii) «anti-faillite», compris entre $2000 €$ et $5000 €$ pour les entreprises en grande difficulté. <br> Extension du dispositif (période, conditions d'accès, montant) aux secteurs les plus touchés par la crise (i.e., restauration, cafés, hôtellerie, tourisme, événementiel, sport et culture). |
+| Activité partielle | $31 \mathrm{Md} €^{2 / 3}$ | Couverture par l'État et l'Unédic de $100 \%$ (jusqu'au $1^{\text {er }}$ juin, puis ramenée à $85 \%$ hors secteurs spécifiques) des indemnisations versées aux salariés par l'entreprise dans la limite de 4,5 Smic Extension du dispositif aux particuliers employeurs jusqu'au 31 août 2020. Extension du dispositif au $1^{\text {er }}$ mai 2020 aux salariés particulièrement vulnérables au coronavirus et aux parents d'enfants sans solution de garde |
+| Fonds de solidarité | $81 / 2 \mathrm{Md} €^{3}$ | Versement d'une aide forfaitaire aux plus petites entreprises ayant subi une baisse importante de leur chiffre d'affaires et remplissant certaines conditions. 2 volets : (i) « filet de sécurité », plafonné à $1500 €$; et (ii) «anti-faillite», compris entre $2000 €$ et $5000 €$ pour les entreprises en grande difficulté. Extension du dispositif (période, conditions d'accès, montant) aux secteurs les plus touchés par la crise (i.e., restauration, cafés, hôtellerie, tourisme, événementiel, sport et culture). |
 | Dépenses de santé | $10 \mathrm{Md} €$ | Couverture des achats de matériel (masques, respirateurs, tests, etc.), des indemnités journalières et de primes pour les personnels soignants |
 | Achat de masques non chirurgicaux | $1 / 2 \mathrm{Md} €$ | Portés par l'État |
 | Exonération de cotisations sociales | $5 \mathrm{Md} €^{3}$ | Dans le cadre du plan de soutien au secteur du tourisme |
@@ -230,7 +230,7 @@ $641 / 2 \mathrm{Md} €$ de mesures ayant un impact direct sur le solde public,
 
 * Hors mesures en garanties dont l'impact sur le solde interviendrait majoritairement après 2020 et est encore incertain.
 ** Un effet négatif sur le solde est toutefois attendu en raison de la sinistralité sur une partie des reports des échéances de prélèvements obligatoires. Ces effets sont intégrés au compte des administrations publiques sous-jacent au PLF 2021.
-*** La dotation au CAS-PFE au titre des interventions dans les entreprises en difficulté de $20 \mathrm{Md} €$ sera de $9 \mathrm{Md} €$ en 2020 et 11 Md€ en 2021.
+*** La dotation au CAS-PFE au titre des interventions dans les entreprises en difficulté de 20 Md€ sera de 9 Md€ en 2020 et 11 Md€ en 2021.
 ${ }^{1}$ incluant le plan d'urgence de soutien dédié aux start-ups chiffré à 4 Md€
 ${ }^{2}$ dont mesures du plan de relance de la filière automobile chiffré à $81 / 3 \mathrm{Md} €$
 ${ }^{3}$ dont mesures du plan de soutien aux secteurs du tourisme, de l'hôtellerie et de la restauration chiffré à 18 Md€
@@ -279,7 +279,6 @@ Des aides exceptionnelles destinées aux plus fragiles ont été mises en place 
 
 [^0]tandis que les ménages allocataires du revenu de solidarité active ou de l'allocation de solidarité spécifique ont reçu une aide de $150 €$, complétée par une aide de $100 €$ par enfant étendue également aux familles bénéficiaires de l'aide au logement ( $4,1 \mathrm{M}$ de bénéficiaires).
 c. Un ensemble de mesures de soutien aux entreprises
-
 En premier lieu, un soutien à la liquidité des entreprises a été déployé pour les aider à passer le cap du confinement, d'abord par le biais de reports de cotisations sociales et d'échéances fiscales. Des mesures ont également été prises afin d'anticiper ou accélérer le remboursement de certaines créances fiscales détenues par les entreprises. Ensuite, un dispositif massif de prêts garantis par l'État a été mis en place (cf. dossier thématique infra - La crise aura un fort impact sur les bilans de nombreuses entreprises, ce qui appelle à soutenir leur capacité à investir), complété par des mesures de réassurance publique d'assurancecrédit. Dans un esprit de solidarité et de partage des dommages économiques causés par la Covid-19, les grandes entreprises doivent s'engager à ne pas verser de dividendes ni procéder à des rachats d'actions en 2020 afin de bénéficier d'un report d'échéances fiscales et sociales ou d'un prêt garanti par l'État. Le levier de la commande publique a également été activé en supprimant les pénalités de retard sur les contrats publics et en permettant de déroger au plafond pour les avances payées par l'État. Enfin, des outils ont été mis en place pour intervenir dans les entreprises qui seraient en difficulté au travers d'une dotation
 
 [^1]
@@ -346,7 +345,7 @@ Un deuxième ensemble de mesures a consisté en des actions en fonds propres vis
 - $500 \mathrm{M} €$ d'investissement en fonds propres ont été annoncés pour la filière aéronautique ;
 - Concernant le secteur du tourisme et HCR, il est prévu 1,3 Md€ d'investissement en fonds
 propres par la Banque des Territoires et par Bpifrance ;
-- Plusieurs fonds visant à renforcer le financement des start-ups ont été déployés ou renforcés, notamment le fonds French Tech Souveraineté doté de $150 \mathrm{M} €$ ou le fonds « Programme de soutien à l'innovation majeure » réabondé à hauteur de $120 \mathrm{M} €$.
+- Plusieurs fonds visant à renforcer le financement des start-ups ont été déployés ou renforcés, notamment le fonds French Tech Souveraineté doté de $150 \mathrm{M} €$ ou le fonds «Programme de soutien à l'innovation majeure » réabondé à hauteur de $120 \mathrm{M} €$.
 Enfin, des mesures de soutien à la demande, à l'investissement et à l'innovation cohérentes avec nos objectifs de long terme, notamment environnementaux, et qui préfigurent le Plan de relance, ont été incluses dans ces plans de soutien.
 - Des mesures de soutien à la demande, qui sont reprises dans le Plan de relance (cf. infra), ont été annoncées, comme le renforcement de la prime à la conversion et du bonus pour véhicules électriques, ou encore l'électrification du parc automobile de l'État et l'anticipation de certaines commandes aéronautiques.
 - Deux fonds de soutien à l'investissement des entreprises des filières aéronautique et automobile ont été annoncés pour les aider à se moderniser et à opérer leur transformation écologique, tandis que le Fonds Tourisme Social Investissement a été rehaussé.
@@ -438,11 +437,11 @@ tractivité de notre économie, et d'améliorer la productivité, en réduisant 
 
 # Encadré 7 : La baisse des impôts de production 
 
-Dans le cadre du Plan de relance, les impôts de production seront abaissés de $10 \mathrm{Md} €$ dès le $1^{\text {er }}$ janvier 2021, et de manière pérenne, soit 20 Md€ de baisse d'impôts de production sur 2021 - 2022.
+Dans le cadre du Plan de relance, les impôts de production seront abaissés de 10 Md€ dès le $1^{\text {er }}$ janvier 2021, et de manière pérenne, soit 20 Md€ de baisse d'impôts de production sur 2021 - 2022.
 
 La France se singularise par le nombre et le niveau des impôts de production, c'est-à-dire les impôts qui portent sur les facteurs de production des entreprises indépendamment de leurs bénéfices et donc de leur capacité contributive : masse salariale, investissement, capital productif notamment.
 
-Ces impôts pèsent lourdement sur la compétitivité des entreprises françaises : 77 Md€ en 2018 soit $3,2 \%$ du PIB, contre 1,6 \% en moyenne dans l'Union européenne.
+Ces impôts pèsent lourdement sur la compétitivité des entreprises françaises : 77 Md€ en 2018 soit 3,2 \% du PIB, contre 1,6 \% en moyenne dans l'Union européenne.
 
 ## Graphique 7 : Comparaison des impôts sur la production acquittés par les entreprises dans les pays avancés en 2018
 
@@ -692,7 +691,7 @@ Le recul de l'activité en 2020 et le climat d'incertitudes élevées affecterai
 En 2021, l'investissement des entreprises serait inférieur à son niveau de 2019 d'un peu moins de $3 \%$. Ce net rattrapage est permis par les mesures de soutien prises par le Gouvernement et le Plan de relance. Grâce à ces mesures, au premier rang
 desquelles la baisse des impôts de production, les entreprises retrouveraient, au niveau agrégé, des marges assez élevées ( $32,5 \%$ en 2021), ce qui soutiendra leurs capacités d'investissement, même si certaines entreprises connaîtront des difficultés sectorielles. Les dispositifs de financement des PME et ETI en quasi-fonds propres et les aides et subventions à l'investissement dans le cadre du Plan de relance permettront également de soutenir l'investissement en 2021 et au-delà.
 Après d'importantes destructions d'emploi en 2020, l'emploi serait dynamique en 2021, sous l'effet du rebond de l'activité et du Plan de relance.
-L'emploi total devrait reculer fortement en 2020 avec -920 000 postes en glissement annuel, dont -800 000 emplois salariés. L'emploi total rebondirait en 2021, avec +435000 créations nettes de postes entre fin 2020 et fin 2021, dont +400 000 emplois salariés.
+L'emploi total devrait reculer fortement en 2020 avec -920 000 postes en glissement annuel, dont -800000 emplois salariés. L'emploi total rebondirait en 2021, avec +435000 créations nettes de postes entre fin 2020 et fin 2021, dont +400000 emplois salariés.
 Avant le début de la crise sanitaire, les créations d'emploi étaient soutenues, avec plus de 200000 emplois créés en glissement chaque année depuis 2016. En 2019, l'emploi a accéléré en dépit du léger ralentissement de l'activité ( +335000 créations d'emplois en glissement annuel).
 La perte d'activité engendrée par la crise sanitaire a toutefois interrompu cette dynamique. Les destructions d'emplois en 2020 liées aux effets de la crise sanitaire ont principalement concerné les emplois salariés marchands ( -750000 entre fin 2019 et fin 2020 dont -620000 au premier semestre), mais ont été fortement atténuées par le dispositif d'activité partielle. Fin 2020, l'emploi total serait ramené à un niveau proche de celui fin 2016.
 
@@ -1010,10 +1009,8 @@ En 2020, l'emploi total reculerait massivement avec 920000 destructions d'emploi
 L'année 2019 a été marquée par des créations soutenues d'emploi salarié des secteurs principalement marchands (ci-après «emploi marchand»), avec +260000 postes en glissement annuel. En 2020, la chute d'activité conduirait à un fort repli de l'emploi marchand, pour l'essentiel au premier semestre. 750000 emplois salariés marchands seraient détruits sur l'année, dont -620 000 au premier semestre. Au second semestre, l'emploi marchand continuerait de se replier mais à un rythme moins rapide. Sur l'ensemble de l'année, le repli de l'emploi marchand serait cependant bien moindre que celui de l'activité grâce au soutien massif des politiques de l'emploi. L'activité partielle aurait permis de préserver de nombreux emplois au premier semestre tandis que le Plan de relance commencerait progressivement à soutenir l'emploi, notamment des jeunes, au second semestre. Les effets du remplacement, le $1^{\text {er }}$ janvier 2019, du CICE par des allègements pérennes de cotisations continueraient de soutenir l'emploi.
 
 Un tiers des destructions d'emploi salarié marchand observées au premier semestre proviennent de l'emploi intérimaire, qui a déjà amorcé un rebond. Après une chute historique au premier trimestre 2020 (-318 600 soit -40,4 \%), l'emploi intérimaire a renoué avec les créations dès le mois de mai 2020. Au total, 210500 postes intérimaires ont été détruits au premier semestre soit $-27 \%$ par rapport à fin 2019.
-
 Hors intérim, l'emploi salarié marchand accuse un repli moins marqué de 408800 postes détruits au premier semestre, soit $-2,5 \%$ par rapport à fin 2019. Les destructions ont été tirées par l'emploi tertiaire marchand avec 366600 postes détruits
 au premier semestre soit $-3,1 \%$ par rapport à fin 2019. Dans l'industrie, la baisse est plus modérée avec près de 38800 postes détruits soit $-1,2 \%$ par rapport à fin 2019. Dans la construction, l'emploi serait quasiment stable au premier semestre (un peu moins de -3400 destructions soit $-0,2 \%)$.
-
 Dans le secteur non marchand, l'emploi se replierait également en 2020 ( 45000 emplois détruits en glissement annuel). Après des destructions d'emploi importantes au premier semestre, l'emploi public rebondirait au deuxième semestre pour être globalement stable sur l'année. L'emploi privé non marchand se replierait tout au long de l'année.
 Au total en 2020, l'emploi reculerait fortement avec -920 000 emplois en glissement annuel (correspondant à -480 000 emplois en moyenne annuelle).
 
@@ -1263,14 +1260,14 @@ La décomposition structurelle est sauf mention contraire dans la suite du rappo
 
 La crise de la Covid-19 a conduit les administrations publiques dans leur ensemble à augmenter de façon significative leur endettement, par l'action conjointe des stabilisateurs automatiques, essentiellement en moindres recettes face à la chute de l'activité, et d'un surcroît de dépenses pour financer les mesures d'urgence. Cette «dette Covid», fera l'objet d'un cantonnement. Le cantonnement permet d'isoler une fraction de la dette publique et d'y affecter une ressource dédiée pour permettre son amortissement, à l'image du rôle actuel de la CRDS et d'une part de la CSG venant financer le remboursement de la dette sociale via la Caisse d'amortissement de la dette sociale (CADES). Ainsi, une échéance de remboursement de cette dette pourra être explicitement prévue ex ante avec des moyens dédiés consacrés à son amortissement. De plus, l'affectation de recettes dédiées au remboursement permet d'afficher en toute transparence le besoin de financement résiduel pesant sur les comptes publics.
 
-La loi du 7 août 2020 a d'ores et déjà entériné le transfert de près de 136 Md€ (a) de dette sociale à la CADES dont la durée de vie a été prolongée pour permettre d'apurer les dettes passées, le surcroît de dette contracté par les administrations de sécurité sociale à cause de la crise et un tiers de la dette des hôpitaux au 31 décembre 2019. Cet apurement devrait s'étaler jusqu'en 2033.
-(a) Ce montant correspond à la dette sociale transférée à la CADES par la loi n²020-992 du 7 août 2020 : 31 Md€ de dette de l'Acoss au 31 décembre 2019, 92 Md€ de déficits cumulés prévisionnels 2020-2023 et 13 Md€ de dette des hôpitaux (dont 10 de principal) au titre de la reprise partielle de dette.
+La loi du 7 août 2020 a d'ores et déjà entériné le transfert de près de $136 \mathrm{Md} €$ (a) de dette sociale à la CADES dont la durée de vie a été prolongée pour permettre d'apurer les dettes passées, le surcroît de dette contracté par les administrations de sécurité sociale à cause de la crise et un tiers de la dette des hôpitaux au 31 décembre 2019. Cet apurement devrait s'étaler jusqu'en 2033.
+(a) Ce montant correspond à la dette sociale transférée à la CADES par la loi n²020-992 du 7 août 2020 : $31 \mathrm{Md} €$ de dette de l'Acoss au 31 décembre 2019, $92 \mathrm{Md} €$ de déficits cumulés prévisionnels 2020-2023 et $13 \mathrm{Md} €$ de dette des hôpitaux (dont 10 de principal) au titre de la reprise partielle de dette.
 
 ## Encadré 2 : Impact des mesures d'urgence et de soutien ayant un effet direct sur le solde maastrichtien
 
 Les mesures d'urgence ont représenté un coût direct pour le solde public de 64,5 Md€ en 2020, notamment en raison des importants dispositifs de soutien aux ménages et aux entreprises (en particulier l'activité partielle, le fonds de solidarité et les exonérations de cotisations sociales) ainsi qu'au secteur médical pour faire face à la crise sanitaire. Ces mesures correspondent aux interventions ayant nécessité des dépenses, ou au renoncement à certaines recettes dans le cas par exemple des exonérations (cf. tableau 4).
 
-Prises dans leur ensemble, les mesures d'urgence représentent un effort qui pourra aller jusqu'à 470 Md€ (cf. tableau 1 de l'introduction), dont $3271 / 2$ Md€ de garanties et 76 Md€ de mesures de trésorerie, en plus des 64,5 Md€ d'impact direct sur le solde. Ces mesures regroupent l'octroi de garanties, ou bien encore de mesures permettant aux entreprises de repousser le paiement d'échéances fiscales ou sociales. Ce type de mesures n'a pas d'effet direct sur le solde public dans la mesure où les administrations publiques ne s'appauvrissent pas dans ces opérations, mais ne font que s'engager à un paiement en cas de réalisation d'un événement particulier (par exemple, défaut d'une entreprise couverte par une garantie) ou repousser la perception d'une recette. Elles permettent cependant d'assurer la continuité de l'activité économique en aidant les entreprises à faire face à des difficultés temporaires de trésorerie. Des décaissements effectifs sont néanmoins anticipés sur un horizon plus long en raison d'une sinistralité attendue sur les garanties accordées dans le cadre des PGE (prêts garantis par l'État) ou du PEGF (Pan European Guarantee Fund/Fonds paneuropéen de garantie). Ces montants sont faibles en 2020, mais ils sont également provisionnés pour les années ultérieures. S'agissant des reports d'échéances fiscales et sociales, un effet sur le solde public est également possible au titre des reports qui ne seraient jamais remboursés. Une provision a été intégrée sur le solde en 2020 (cf. encadré 8).
+Prises dans leur ensemble, les mesures d'urgence représentent un effort qui pourra aller jusqu'à 470 Md€ (cf. tableau 1 de l'introduction), dont $3271 / 2 \mathrm{Md} €$ de garanties et $76 \mathrm{Md} €$ de mesures de trésorerie, en plus des 64,5 Md€ d'impact direct sur le solde. Ces mesures regroupent l'octroi de garanties, ou bien encore de mesures permettant aux entreprises de repousser le paiement d'échéances fiscales ou sociales. Ce type de mesures n'a pas d'effet direct sur le solde public dans la mesure où les administrations publiques ne s'appauvrissent pas dans ces opérations, mais ne font que s'engager à un paiement en cas de réalisation d'un événement particulier (par exemple, défaut d'une entreprise couverte par une garantie) ou repousser la perception d'une recette. Elles permettent cependant d'assurer la continuité de l'activité économique en aidant les entreprises à faire face à des difficultés temporaires de trésorerie. Des décaissements effectifs sont néanmoins anticipés sur un horizon plus long en raison d'une sinistralité attendue sur les garanties accordées dans le cadre des PGE (prêts garantis par l'État) ou du PEGF (Pan European Guarantee Fund/Fonds paneuropéen de garantie). Ces montants sont faibles en 2020, mais ils sont également provisionnés pour les années ultérieures. S'agissant des reports d'échéances fiscales et sociales, un effet sur le solde public est également possible au titre des reports qui ne seraient jamais remboursés. Une provision a été intégrée sur le solde en 2020 (cf. encadré 8).
 [80]
 | Tableau 4 : Coût des mesures d'urgence et de soutien économique avec effet direct sur le solde maastrichtien |  |
 | :--: | :--: |
@@ -1623,7 +1620,7 @@ En 2021, la contribution des administrations publiques centrales à la croissanc
 
 ## Contribution des administrations publiques locales
 
-En 2020, la contribution de la dépense locale à la croissance de la dépense totale serait faible. Les dépenses de fonctionnement des collectivités locales correspondraient aux objectifs définis par les contrats de Cahors, malgré leur suspension par la loi $n^{\circ} 2020-290$ du 23 mars 2020 d'urgence pour faire face à l'épidémie de Covid-19 (1,2\% retraité de mesures de périmètre, de l'écrêtement des dépenses sociales au-delà de $2 \%$ d'augmentation, ainsi que de la participation des conseils régionaux au financement du fonds de solidarité). Toutefois, ce léger dynamisme serait compensé par la contraction importante des dépenses d'investissement du secteur local au titre non seulement du cycle électoral, mais aussi des retards accumulés sur les chantiers en raison de la crise sanitaire et de la prise de fonction tardive de certains exécutifs communaux avec la perturbation du calendrier électoral.
+En 2020, la contribution de la dépense locale à la croissance de la dépense totale serait faible. Les dépenses de fonctionnement des collectivités locales correspondraient aux objectifs définis par les contrats de Cahors, malgré leur suspension par la loi n²020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie de Covid-19 (1,2\% retraité de mesures de périmètre, de l'écrêtement des dépenses sociales au-delà de $2 \%$ d'augmentation, ainsi que de la participation des conseils régionaux au financement du fonds de solidarité). Toutefois, ce léger dynamisme serait compensé par la contraction importante des dépenses d'investissement du secteur local au titre non seulement du cycle électoral, mais aussi des retards accumulés sur les chantiers en raison de la crise sanitaire et de la prise de fonction tardive de certains exécutifs communaux avec la perturbation du calendrier électoral.
 
 En 2021, la contribution du secteur local à l'évolution de la dépense publique redeviendrait positive ( $+0,6$ pt), principalement du fait du rebond de l'investissement local et la montée en charge du Plan de relance, dont une partie devrait transiter par le secteur local. Les dépenses de fonctionnement des collectivités devraient poursuivre une évolution conforme aux objectifs de la contractualisation ( $+1,2 \%$ sur le champ des contrats), bien que celle-ci ne couvre pas l'année 2021.
 [101]
@@ -1661,7 +1658,7 @@ Les reports en 2021 des appels de cotisations de mars à août pour les indépen
 
 Concernant le dispositif Pan-European Guarantee Fund (PEGF), géré par la BEI, la sinistralité moyenne attendue selon les services de la BEI serait particulièrement élevée (de l'ordre de $20 \%$ ) compte tenu de la vulnérabilité des entreprises ciblées. Un enregistrement des pertes au fil de l'eau au gré des appels effectifs a été retenu (enregistrement des garanties dites « one off»), soit 0,1 Md€ en 2020 et 0,7 Md€ en 2021.
 
-De même, les caractéristiques du PGE en font une garantie one off dont la sinistralité attendue ne peut pas être calculée de manière précise et fiable ex ante. L'impact sur les comptes publics sera donc pris au gré des appels effectifs en garantie et non concentré sur une année particulière, celle de l'octroi. À l'image des pertes, l'enregistrement en comptabilité nationale des primes reçues par l'État au titre de la rémunération de ces garanties a aussi été étalé dans le temps, même si celles-ci sont effectivement reçues en 2020 et, pour l'essentiel, en 2021. En définitive, un montant de 1,4 Md€ d'appels a été enregistré en prévision en 2021, pour 0,5 Md€ de recettes maastrichtiennes de la rémunération de la garantie. Ces estimations s'appuient sur une méthodologie développée par la Banque de France, adaptée notamment aux hypothèses actualisées d'encours de PGE en fin d'année, et qui évalue les pertes finales brutes (hors primes) à 4,6 \% de l'encours accordé, sur l'ensemble de la durée de la garantie.
+De même, les caractéristiques du PGE en font une garantie one off dont la sinistralité attendue ne peut pas être calculée de manière précise et fiable ex ante. L'impact sur les comptes publics sera donc pris au gré des appels effectifs en garantie et non concentré sur une année particulière, celle de l'octroi. À l'image des pertes, l'enregistrement en comptabilité nationale des primes reçues par l'État au titre de la rémunération de ces garanties a aussi été étalé dans le temps, même si celles-ci sont effectivement reçues en 2020 et, pour l'essentiel, en 2021. En définitive, un montant de 1,4 Md€ d'appels a été enregistré en prévision en 2021, pour 0,5 Md€ de recettes maastrichtiennes de la rémunération de la garantie. Ces estimations s'appuient sur une méthodologie développée par la Banque de France, adaptée notamment aux hypothèses actualisées d'encours de PGE en fin d'année, et qui évalue les pertes finales brutes (hors primes) à $4,6 \%$ de l'encours accordé, sur l'ensemble de la durée de la garantie.
 [104]
 Recettes des administrations publiques
 Après avoir atteint 44,1 \% du PIB en 2019, le taux de prélèvements obligatoires (PO) augmenterait à $44,8 \%$ en 2020, sous l'effet d'une chute moins importante des recettes fiscales et sociales que de la richesse nationale.
@@ -1743,23 +1740,25 @@ Tableau 12 : Principales mesures en prélèvements obligatoires en 2018, 2019, 2
 
 Tableau 13 : Prélèvements obligatoires par sous-secteurs
 
-|  | 2019 | 2020 | 2021 |
-| :-- | :--: | :--: | :--: |
-| État | $12,6 \%$ | $12,3 \%$ | $11,8 \%$ |
-| ODAC | $12,6 \%$ | $12,3 \%$ | $11,8 \%$ |
-| APUL | $6,4 \%$ | $6,9 \%$ | $6,6 \%$ |
-| ASSO | $24,1 \%$ | $24,6 \%$ | $24,4 \%$ |
-| UE | 0,2 \% | $0,2 \%$ | $0,2 \%$ |
-| Taux de prélèvement obligatoires (PO) | $44,1 \%$ | $44,8 \%$ | $43,8 \%$ |
+|  |  |  |  |  |  |  |
+| :-- | :--: | :--: | :--: | :--: | :--: | :--: |
+| En \% du PIB, champ courant | $\mathbf{2 0 1 9}$ | $\mathbf{2 0 2 0}$ | $\mathbf{2 0 2 1}$ |  |  |  |
+| État | $12,6 \%$ | $12,3 \%$ | $11,8 \%$ |  |  |  |
+| ODAC | $0,8 \%$ | $0,9 \%$ | $0,8 \%$ |  |  |  |
+| APUL | $6,4 \%$ | $6,9 \%$ | $6,6 \%$ |  |  |  |
+| ASSO | $24,1 \%$ | $24,6 \%$ | $24,4 \%$ |  |  |  |
+| UE |  |  |  |  |  |  |
 
 Tableau 14 : Évolution des prélèvements obligatoires
 
-|  | 2019 | 2020 | 2021 |
-| :-- | :--: | :--: | :--: |
-| Croissance du PIB en valeur (1) | $2,8 \%$ | $-8,4 \%$ | $8,3 \%$ |
-| Évolution effective des prélèvements <br> obligatoires (PO) | $1,2 \%$ | $-6,8 \%$ | $5,8 \%$ |
-| Évolution spontanée des PO (2) | $3,4 \%$ | $-6,8 \%$ | $6,6 \%$ |
-| Élasticité des PO au PIB (2)/(1) | 1,2 | 0,8 | 0,8 |
+|  |  |  |  |  |  |  |
+| :-- | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | 2019 | 2020 | 2021 |  |  |  |
+| Croissance du PIB en valeur (1) | $2,8 \%$ | $-8,4 \%$ | $8,3 \%$ |  |  |  |
+| Évolution effective des prélèvements | $1,2 \%$ | $-6,8 \%$ | $5,8 \%$ |  |  |  |
+| obligatoires (PO) | $3,4 \%$ | $-6,8 \%$ | $6,6 \%$ |  |  |  |
+| Évolution spontanée des PO (2) | $3,4 \%$ | $-6,8 \%$ | $6,6 \%$ |  |  |  |
+| Élasticité des PO au PIB (2)/(1) | 1,2 | 0,8 | 0,8 |  |  |  |
 
 Tableau 15 : Évolution du taux de prélèvements obligatoires en 2020
 
@@ -1818,13 +1817,14 @@ Tableau 17 : Solde budgétaire
 | dont prélèvement sur recettes <br> au profit de l'Union européenne | 21,0 | 21,5 | 23,4 | 26,9 |
 | Recettes fiscales nettes | 281,3 | 293,0 | 246,8 | 271,2 |
 | Recettes non fiscales | 14,0 | 14,4 | 16,3 | 24,9 |
-|  |  |  |  |  |
-| Solde du budget général | $-96,9$ | $-93,1$ | $-187,1$ | $-152,7$ |
-| Solde des budgets annexes | 0,2 | $-0,0$ | $-0,2$ | $-0,0$ |
-| Solde des comptes spéciaux | 4,1 | $-0,1$ | $-7,9$ | $-0,1$ |
-| SOLDE GENERAL | $-92,7$ | $-93,1$ | $-195,2$ | $-152,8$ |
+|  | -96,9 | -93,1 | -187,1 | -152,7 |
+| Solde du budget général | 0,2 | -0,0 | -0,2 | -0,0 |
+| Solde des budgets annexes | 4,1 | -0,1 | -7,9 | -0,1 |
+| Solde des comptes spéciaux | -92,7 | -93,1 | -195,2 | -152,8 |
+| SOLDE GENERAL |  |  |  |  |
 
-Le solde de l'État
+## Le solde de l'État
+
 En 2020, le solde budgétaire révisé s'établirait à -195,2 Md€, soit une dégradation de -102,0 Md€ par rapport à la prévision de la loi de finances initiale ( $-93,1 \mathrm{Md} €$ ), notamment sous l'effet des évolutions suivantes presque toutes attribuables à la crise sanitaire et aux mesures prises en réaction (montants en écart avec la LFI 2020) :
 
 - Une forte baisse des recettes fiscales nettes du fait de la crise sanitaire ( $-46,2 \mathrm{Md} €$ ), principalement du fait de la baisse des recettes sur l'impôt sur les sociétés pour -18,3 Md€, la TVA pour $-14,7 \mathrm{Md} €$, et la TICPE pour $-4,8 \mathrm{Md} €$;
@@ -2163,7 +2163,7 @@ En 2020, les dépenses des ASSO augmenteraient de $6,2 \%$, portées principalem
 La très forte hausse des dépenses de l'assurance chômage ( $+43,3 \%$ ) tiendrait d'abord aux dépenses d'activité partielle (AP) dont un tiers sont à la charge de l'Unédic ( $10,3 \mathrm{Md} €$ ). Elle s'expliquerait aussi par les maintiens de droits pour les chômeurs en fin de droits jusqu'à fin juin 2020, et le report au $1^{\text {er }}$ janvier 2021 d'une partie des mesures prévues dans le cadre de la réforme de l'assurance-chômage ( $1,6 \mathrm{Md} €$, cf. encadré 14). Enfin, même si les dispositifs d'aide au maintien du revenu des ménages, comme l'activité partielle, ou de soutien aux entreprises ont réduit les effets de la crise sanitaire sur l'emploi, les destructions d'emplois salariés (prévues pour environ 430000 en moyenne annuelle) induiraient une hausse des prestations d'allocations chômage.
 Les dépenses de santé, comprenant les prestations de santé et d'autres dépenses de santé sous Ondam (transferts des régimes vers Santé Publique France par exemple), augmenteraient très fortement sous l'effet de la crise sanitaire (même si cette hausse serait partiellement contrecarrée par des sous exécutions en ville du fait de la période de confinement durant laquelle les professionnels de santé ont vu leur activité reculer très fortement). Le dépassement de l'Ondam serait ainsi révisé à la hausse par rapport au PLFR III et atteindrait $+10,1 \mathrm{Md} €$ par rapport au niveau voté en LFSS 2020 (montant intégrant, en atténuation de la dépense, la taxe exceptionnelle sur les organismes complémentaires pour 1 Md ; il prend aussi en compte les premières revalorisations du Ségur de la santé (1Md€ - cf. encadré 15).
 Les pensions de retraite resteraient relativement contenues en 2020 ( $+2,7 \%$ après $+2,4 \%$ en 2019), principalement sous l'effet du calendrier de
-revalorisation des retraites. Concernant les retraites de base, la revalorisation maîtrisée appliquée en 2019 ( $+0,3 \%$ ) est reconduite en 2020 à l'exception des pensions dont le niveau mensuel est inférieur à 2000 euros, qui sont revalorisées à l'inflation, conformément à la loi de financement de la Sécurité Sociale pour 2020. Les retraites complémentaires de l'AGIRC-ARRCO suivraient principalement l'extension en année pleine de la revalorisation de novembre 2019 (+1\%). Enfin, les prestations familiales resteraient assez stables en 2020, du fait d'un effet démographie peu porteur et d'une revalorisation maîtrisée à $0,3 \%$.
+revalorisation des retraites. Concernant les retraites de base, la revalorisation maitrisée appliquée en 2019 ( $+0,3 \%$ ) est reconduite en 2020 à l'exception des pensions dont le niveau mensuel est inférieur à 2000 euros, qui sont revalorisées à l'inflation, conformément à la loi de financement de la Sécurité Sociale pour 2020. Les retraites complémentaires de l'AGIRC-ARRCO suivraient principalement l'extension en année pleine de la revalorisation de novembre 2019 (+1\%). Enfin, les prestations familiales resteraient assez stables en 2020, du fait d'un effet démographie peu porteur et d'une revalorisation maitrisée à $0,3 \%$.
 Les dépenses des ASSO ralentiraient en 2021 ( $+1,2 \%$ après $+6,2 \%$ ). Les prestations d'emploi et formation professionnelle reculeraient fortement, essentiellement par contrecoup des mesures d'activité partielle de 2020 : seuls 2,2 Md€ d'activité partielle - essentiellement liées au dispositif d'activité partielle de longue durée (APLD) - seraient à la charge de l'Unédic en 2021. Malgré un fort rebond de la croissance économique, les prestations d'allocation chômage resteraient quasi stables (avec 85000 destructions d'emplois salariés en moyenne annuelle en 2021).
 En revanche, les dépenses de santé (prestations et transferts) augmenteraient en 2021. Si le niveau des dépenses de Covid-19 de 2020 ne serait pas reconduit à la même hauteur en 2021 (avec un nouveau quantum de $4,3 \mathrm{Md} €$, au titre notamment des tests réalisés en ville, des besoins en masques et des provisions pour vaccination), l'effet des mesures annoncées à l'issue du Ségur de la santé ( $7,3 \mathrm{Md} €$ hors investissement, voir encadré 13) tirerait les dépenses à la hausse.
 En 2021, comme en 2020, les prestations vieillesse et famille seraient contenues, leur revalorisation automatique restant limitée compte tenu de la faible inflation prévue pour 2020.
@@ -2276,7 +2276,7 @@ de salariés travaillant à mi-temps en moyenne. Au pic d'utilisation du disposi
 Face à la situation sanitaire exceptionnelle, le Gouvernement a adopté diverses mesures d'urgence en matière d'assurance chômage. Les allocations pour les demandeurs d'emplois indemnisés dont la fin de droit serait survenue entre le $1^{\text {er }}$ mars et le 31 mai ont été prolongées jusqu'au 30 juin au plus tard. Cette mesure représente un coût d'environ $1 / 2$ Md€ en 2020 et aurait concerné au moins 240000 personnes entre le $1^{\text {er }}$ mars et le 31 mai 2020. La période de référence au cours de laquelle est recherchée la durée minimale d'affiliation requise pour ouvrir ou recharger un droit a été automatiquement allongée de 3 mois. Les conditions d'ouverture de droit ont été aménagées pour certains salariés démissionnaires entre le $1^{\text {er }}$ mars et le 31 mai 2020. Enfin, le Président de la République a annoncé le 6 mai 2020 la prolongation des droits au chômage des intermittents du spectacle jusqu'au 31 août 2021 afin de tenir compte à la fois de la période d'arrêt de l'activité du secteur culturel, mais également des conditions progressives de reprise.
 Le Gouvernement a également fait le choix de reporter l'entrée en vigueur du second volet de la réforme de l'assurance chômage et d'engager une concertation avec les partenaires sociaux sur l'adaptation de certaines de ces dispositions pour tenir compte des conséquences de la crise sanitaire. Cette réforme, conçue pour favoriser le retour à l'emploi durable et lutter contre la précarité, devait entrer en vigueur progressivement. Les objectifs de cette réforme étaient, du côté des salariés, de renforcer les incitations au retour à un emploi stable et de limiter la permittence ; et du côté des entreprises, de lutter contre le recours excessif aux contrats courts. Pour répondre à ces objectifs, la réforme était composée de 3 mesures principales concernant l'indemnisation, et de la mesure dite «bonus-malus » à compter de 2021 concernant les contributions :
 
-- L'allongement des durées d'affiliation minimales requises pour ouvrir et recharger un droit à l'assurance chômage mis en place le $1^{\text {er }}$ novembre 2019. La réforme avait porté la condition d'éligibilité pour ouvrir un droit à l'assurance chômage à 6 mois sur 24 , contre 4 mois sur 28 auparavant, et la condition pour recharger un droit à 6 mois, contre 1 mois auparavant. En réponse à la crise, le décret $n^{\circ} 2020-929$ du 29 juillet 2020 a ramené temporairement la condition d'affiliation minimale pour l'éligibilité et le rechargement à 4 mois sur 24 à compter du $1^{\text {er }}$ août et jusqu'au 31 décembre 2020.
+- L'allongement des durées d'affiliation minimales requises pour ouvrir et recharger un droit à l'assurance chômage mis en place le $1^{\text {er }}$ novembre 2019. La réforme avait porté la condition d'éligibilité pour ouvrir un droit à l'assurance chômage à 6 mois sur 24, contre 4 mois sur 28 auparavant, et la condition pour recharger un droit à 6 mois, contre 1 mois auparavant. En réponse à la crise, le décret $n^{\circ} 2020-929$ du 29 juillet 2020 a ramené temporairement la condition d'affiliation minimale pour l'éligibilité et le rechargement à 4 mois sur 24 à compter du $1^{\text {er }}$ août et jusqu'au 31 décembre 2020.
 - Le nouveau mode de calcul du salaire journalier de référence (SJR) servant de base à la détermination du montant d'allocation. L'objectif de cette mesure était de tenir compte du rythme de travail avant chômage en se basant sur le revenu moyen de l'intéressé et non plus sur les seuls jours travaillés, pour limiter les cas où le revenu mensuel moyen perçu durant la période précédant le chômage est inférieur à l'allocation chômage mensuelle, tout en conservant au bénéficiaire le même capital de droits avant et après la réforme. Suite à la crise, cette mesure qui devait initialement entrer en vigueur le $1^{\text {er }}$ avril 2020 a été reportée au $1^{\text {er }}$ janvier 2021.
 - La mesure de dégressivité au bout de 6 mois pour les cadres. La réforme prévoyait une réduction de $30 \%$ des allocations chômage au bout de six mois pour les salaires de référence mensuels supérieurs à 4500 € bruts, en excluant les séniors (plus de 56 ans). Cette mesure était entrée en vigueur au $1^{\text {er }}$ novembre 2019 pour une première application pratique initialement prévue le $1^{\text {er }}$ mai 2020. Sa mise en œuvre a été reportée au $1^{\text {er }}$ janvier 2021 par le décret du 29 juillet 2020.
 
@@ -2370,9 +2370,7 @@ Les engagements hors bilan des administrations publiques correspondent à des en
 Concernant les provisions pour litiges, ces dernières s'établissent fin 2019 à $23,4 \mathrm{Md} €$, soit $0,1 \mathrm{Md} €$ de plus qu'en 2018.
 Les garanties de l'État recouvrent une large gamme d'interventions ayant vocation à soutenir ou préserver l'activité économique ou assurer un financement à certains agents économiques dans
 les cas où l'intervention du marché apparaît insuffisante. Il s'agit de garanties octroyées dans le cadre d'accords bien définis, parmi lesquelles on trouve notamment les dettes garanties par l'État, les garanties liées à des missions d'intérêt général (mécanismes d'assurance via la caisse centrale de réassurance, garanties accordées à la BPI Assurance Export pour le soutien à l'exportation, garanties de protection des épargnants, etc.), les garanties de passif (engagement au titre de la quote-part française au capital appelable du MES) ainsi que les engagements financiers de l'État (projets de cofinancement, aide au développement). Le risque d'appel de ces garanties est en général limité. De plus, pour limiter l'utilisation de ce type d'instruments, les nouvelles garanties de l'État ne peuvent être autorisées que par une loi de finances comme défini dans la Loi organique relative aux lois de finances (LOLF).
-
-
-## D'après le Compte Général de l'État 2019 publié en mai 2020, en 2019, le stock total de garanties accordées par l'État dans le cadre d'accords bien définis portant sur des emprunts (c'est-à-dire l'ensemble des dettes garanties par l'État) s'est établi à 205,4 Md€, après 206,7 Md€ en 2018 (-1,3 Md€). Il convient de noter que la dette de l'Unedic, qui est une administration publique, est déjà incluse dans la dette publique au sens de Maastricht. Par ailleurs, à la suite d'une décision d'Eurostat du 27 janvier 2011, les montants prêtés par le FESF dans le cadre de programmes d'assistance financière sont déjà rattachés directement à la dette maastrichtienne des États membres apportant leurs garanties aux émissions du FESF, au prorata de celles-ci.
+D'après le Compte Général de l'État 2019 publié en mai 2020, en 2019, le stock total de garanties accordées par l'État dans le cadre d'accords bien définis portant sur des emprunts (c'est-à-dire l'ensemble des dettes garanties par l'État) s'est établi à 205,4 Md€, après 206,7 Md€ en 2018 (-1,3 Md€). Il convient de noter que la dette de l'Unedic, qui est une administration publique, est déjà incluse dans la dette publique au sens de Maastricht. Par ailleurs, à la suite d'une décision d'Eurostat du 27 janvier 2011, les montants prêtés par le FESF dans le cadre de programmes d'assistance financière sont déjà rattachés directement à la dette maastrichtienne des États membres apportant leurs garanties aux émissions du FESF, au prorata de celles-ci.
 [138]
 En 2020, de nombreux dispositifs de garanties ont été mis en place ou renforcés dans le cadre de la crise sanitaire pour assurer la trésorerie des entreprises et la continuité de l'activité ou encore assurer le financement des initiatives au niveau européen Support to mitigate Unemployment Risks in an Emergency (SURE) et Pan-European Guarantee Fund (PEGF). C'est notamment le cas du dispositif de prêt garanti par l'État (PGE), dispositif exceptionnel de garanties permettant de soutenir le financement bancaire des entreprises, à hauteur d'un plafond pouvant aller jusqu'à $300 \mathrm{Md} €$, pour un montant de prêts accordés de $120,7 \mathrm{Md} €$ au 18 septembre. C'est également le cas des programmes de réassurance publique sur les encours d'assurance-crédit ou de créditsexport pour respectivement 10 et $5 \mathrm{Md} €$. Enfin, les programmes européens SURE et PEGF ont bénéficié de $41 / 2 \mathrm{Md} €$ chacun de garanties française. Pris dans leur ensemble, ces dispositifs pourront représenter jusqu'à $3271 / 2$ Md€ d'engagements contingents.
 Dans le compte de prévision sous-jacent au PLF 2021, des pertes brutes prévisionnelles de 2,5 Md€ ont été intégrées au titre des dispositifs PGE et PEGF pour les années 2020 et 2021, en effet sur le solde en comptabilité nationale.
@@ -2548,12 +2546,12 @@ Pour déterminer si les mesures mises en place au moment du confinement ont bien
 
 Face à l'hétérogénéité des chocs subis par les secteurs d'activité, le Gouvernement a complété les mesures transversales d'urgence à destination des entreprises (activité partielle, PGE, reports ou annulation des créances fiscales et sociales, fonds de solidarité) par plusieurs plans de soutien sectoriels en PLFR3 en amont du Plan de relance : plan tourisme (18 Md€), plan automobile (8 Md€), plan aéronautique (15 $M d €$ ), «plan tech » (1,2 Md€) ${ }^{55}$.
 
-Le secteur du tourisme a d'abord bénéficié des dispositifs de soutien nationaux mis en œuvre dans l'urgence. À titre d'illustration, le secteur de l'hébergement et de la restauration est respectivement le $2^{e}$ bénéficiaire du fonds de solidarité ( $13 \%$ des aides versées soit $705 \mathrm{M} €$ ), le $3^{e}$ bénéficiaire des aides exceptionnelles du Conseil de la protection sociale des travailleurs indépendants ( $21 \%$ des aides versées soit 198 M€) et le $2^{e}$ bénéficiaire de l'activité partielle (près de $18 \%$ du nombre d'heures indemnisées sur la période de mars à juillet, soit 305 M d'heures au 7 septembre 2020). L'impact de la crise a également justifié le déploiement par les pouvoirs publics de dispositifs spécifiques et adaptés au secteur, qui bénéficie d'extensions particulières des mesures de soutien : prolongation du fonds de solidarité jusqu'à la fin de l'année 2020 avec des extensions des plafonds et critères d'éligibilité, création d'un PGE saisonnier, extension du dispositif d'activité partielle jusqu'à la fin de l'année, exonérations de cotisations pour les TPE et PME du secteur, etc.
+Le secteur du tourisme a d'abord bénéficié des dispositifs de soutien nationaux mis en œuvre dans l'urgence. À titre d'illustration, le secteur de l'hébergement et de la restauration est respectivement le $2^{e}$ bénéficiaire du fonds de solidarité ( $13 \%$ des aides versées soit 705 M€), le $3^{e}$ bénéficiaire des aides exceptionnelles du Conseil de la protection sociale des travailleurs indépendants ( $21 \%$ des aides versées soit 198 M€) et le $2^{e}$ bénéficiaire de l'activité partielle (près de $18 \%$ du nombre d'heures indemnisées sur la période de mars à juillet, soit 305 M d'heures au 7 septembre 2020). L'impact de la crise a également justifié le déploiement par les pouvoirs publics de dispositifs spécifiques et adaptés au secteur, qui bénéficie d'extensions particulières des mesures de soutien : prolongation du fonds de solidarité jusqu'à la fin de l'année 2020 avec des extensions des plafonds et critères d'éligibilité, création d'un PGE saisonnier, extension du dispositif d'activité partielle jusqu'à la fin de l'année, exonérations de cotisations pour les TPE et PME du secteur, etc.
 
-Le plan de soutien à l'automobile de 8 Md€ s'inscrit dans le cadre d'un engagement collectif de l'ensemble des entreprises de la filière, en particulier des constructeurs et grands équipementiers. Le plan couvre trois objectifs ambitieux : (i) Renouveler le parc automobile français en faveur des véhicules propres en augmentant le bonus écologique pour les véhicules électriques jusqu'à $7000 €$, en créant un bonus écologique de $2000 €$ pour les véhicules hybrides rechargeables, et en renforçant la prime à la conversion jusqu'à $5000 €$. En parallèle, le déploiement des bornes électriques est accéléré pour atteindre l'objectif de 100000 bornes, dès 2021. (ii) Investir et innover pour produire les véhicules de demain grâce à la création du fonds d'avenir pour l'automobile doté de $1 \mathrm{Md} €$ destiné à la modernisation et la numérisation des chaînes de production, à la transformation écologique de la filière automobile et à l'innovation. (iii) Soutenir les entreprises en difficulté et protéger les salariés grâce à un plan massif de développement des compétences.
+Le plan de soutien à l'automobile de 8 Md€ s'inscrit dans le cadre d'un engagement collectif de l'ensemble des entreprises de la filière, en particulier des constructeurs et grands équipementiers. Le plan couvre trois objectifs ambitieux : (i) Renouveler le parc automobile français en faveur des véhicules propres en augmentant le bonus écologique pour les véhicules électriques jusqu'à $7000 €$, en créant un bonus écologique de $2000 €$ pour les véhicules hybrides rechargeables, et en renforçant la prime à la conversion jusqu'à $5000 €$. En parallèle, le déploiement des bornes électriques est accéléré pour atteindre l'objectif de 100000 bornes, dès 2021. (ii) Investir et innover pour produire les véhicules de demain grâce à la création du fonds d'avenir pour l'automobile doté de 1 Md€ destiné à la modernisation et la numérisation des chaînes de production, à la transformation écologique de la filière automobile et à l'innovation. (iii) Soutenir les entreprises en difficulté et protéger les salariés grâce à un plan massif de développement des compétences.
 
-Le plan de soutien au secteur aérien représente plus de $15 \mathrm{Md} €$ d'aides, d'investissements et de prêts et garanties répartis autour de trois objectifs : (i) Répondre à l'urgence en soutenant les entreprises en difficulté et protéger leurs salariés grâce à l'aménagement et au renforcement des dispositifs de soutien à l'export et à l'évolution des prêts garantis par l'État et du dispositif d'activité partielle. (ii) Investir dans les PME et les ETI pour accompagner la transformation de la filière via les fonds d'investissement en fonds propres pour l'aéronautique et de soutien à la modernisation. (iii) Investir pour concevoir et produire en France les appareils de demain grâce au renforcement de l'aide publique à la R\&D du secteur en continuant à travailler sur la réduction de la consommation en carburant, l'électrification des appareils et la transition vers des carburants neutres en carbone comme l'hydrogène.
-La période du confinement s'étant traduite par une baisse des levées de fonds des startups consécutive à un comportement attentiste des investisseurs privés en capital-risque, le Gouvernement a mis au point un «Plan Tech» spécialement conçu pour soutenir les startups afin de (i) faire face à la baisse de levées de fonds et de soutenir la trésorerie et les fonds propres des startups (Prêts garantis par l'État, fonds relais French Tech Bridge, remboursement anticipé du CIR et crédits de TVA, versement accéléré d'aides à l'innovation dans le cadre du PIA, offre de prêts de $100 \mathrm{M} €$ garantis par l'État pour les start-ups prometteuses ayant rencontré des difficultés conjoncturelles, création du fonds French Tech Accélération 2), (ii) appuyer le renforcement de dispositifs d'aide à l'innovation (rechargement du fonds d'investissement «Programme de soutien à l'innovation majeure », dotation supplémentaire du concours i-Nov, nouvelle
+Le plan de soutien au secteur aérien représente plus de 15 Md€ d'aides, d'investissements et de prêts et garanties répartis autour de trois objectifs : (i) Répondre à l'urgence en soutenant les entreprises en difficulté et protéger leurs salariés grâce à l'aménagement et au renforcement des dispositifs de soutien à l'export et à l'évolution des prêts garantis par l'État et du dispositif d'activité partielle. (ii) Investir dans les PME et les ETI pour accompagner la transformation de la filière via les fonds d'investissement en fonds propres pour l'aéronautique et de soutien à la modernisation. (iii) Investir pour concevoir et produire en France les appareils de demain grâce au renforcement de l'aide publique à la R\&D du secteur en continuant à travailler sur la réduction de la consommation en carburant, l'électrification des appareils et la transition vers des carburants neutres en carbone comme l'hydrogène.
+La période du confinement s'étant traduite par une baisse des levées de fonds des startups consécutive à un comportement attentiste des investisseurs privés en capital-risque, le Gouvernement a mis au point un «Plan Tech» spécialement conçu pour soutenir les startups afin de (i) faire face à la baisse de levées de fonds et de soutenir la trésorerie et les fonds propres des startups (Prêts garantis par l'État, fonds relais French Tech Bridge, remboursement anticipé du CIR et crédits de TVA, versement accéléré d'aides à l'innovation dans le cadre du PIA, offre de prêts de 100 M€ garantis par l'État pour les start-ups prometteuses ayant rencontré des difficultés conjoncturelles, création du fonds French Tech Accélération 2), (ii) appuyer le renforcement de dispositifs d'aide à l'innovation (rechargement du fonds d'investissement «Programme de soutien à l'innovation majeure », dotation supplémentaire du concours i-Nov, nouvelle
 
 [^0]
 [^0]:    ${ }^{55}$ La LFR3 porte également des crédits en faveur du secteur culturel pour 1,3 Md€.
@@ -2793,15 +2791,15 @@ Au 4 septembre 2020, 119,7 Md€ de PGE avaient été accordés, à plus de 5747
 [163]
 1.4. L'augmentation massive de la dette brute des entreprises a principalement alimenté la trésorerie des entreprises, la hausse de la dette nette restant contenue à ce stade
 
-La dette nouvelle a pour l'instant largement alimenté une progression simultanée de la trésorerie des entreprises. La trésorerie a augmenté de près de 170 Md€ sur les 5 mois de mars
-à juillet 2020, ce qui reflète quasi exclusivement la hausse des dépôts à vue ( 151 Md€). L'encours des dépôts rémunérés et les OPC monétaires ont respectivement augmenté de $6 \mathrm{Md} €$ et $13 \mathrm{Md} €$. En retranchant ce chiffre des $175 \mathrm{Md} €$ de dette nouvelle, l'augmentation de la dette nette n'a ainsi été que de $5,8 \mathrm{Md} €$ entre mars et juillet, un rythme inférieur à la moyenne constatée avant crise (hausse de $4 \mathrm{Md} €$ par mois de l'endettement net sur la période janvier 2017-février 2020).
+La dette nouvelle a pour l'instant largement alimenté une progression simultanée de la trésorerie des entreprises. La trésorerie a augmenté de près de $170 \mathrm{Md} €$ sur les 5 mois de mars
+à juillet 2020, ce qui reflète quasi exclusivement la hausse des dépôts à vue ( $151 \mathrm{Md} €$ ). L'encours des dépôts rémunérés et les OPC monétaires ont respectivement augmenté de $6 \mathrm{Md} €$ et $13 \mathrm{Md} €$. En retranchant ce chiffre des $175 \mathrm{Md} €$ de dette nouvelle, l'augmentation de la dette nette n'a ainsi été que de $5,8 \mathrm{Md} €$ entre mars et juillet, un rythme inférieur à la moyenne constatée avant crise (hausse de $4 \mathrm{Md} €$ par mois de l'endettement net sur la période janvier 2017-février 2020).
 
 Graphique 3 : Ventilation de la hausse de la dette des entreprises sur la période mars-juillet 2020 (en Md€)
 ![img-38.jpeg](img-38.jpeg)
 
 Source : Banque de France
 
-Cet important volant de trésorerie devrait en partie être résorbé au cours des mois à venir. Une explication simple de l'écart entre dette brute et dette nette est le décalage temporel entre les entrées et les sorties de fonds des entreprises: par exemple, la trésorerie sera utilisée pour payer les salaires après la période de prise en charge à $100 \%$ par le dispositif d'activité partielle, ou pour régler les impôts et les cotisations sociales, dont les échéances entre mars et juin (août pour les travailleurs indépendants) ont pu être reportées de trois mois ${ }^{6970}$. Il est toutefois probable que le
+Cet important volant de trésorerie devrait en partie être résorbé au cours des mois à venir. Une explication simple de l'écart entre dette brute et dette nette est le décalage temporel entre les entrées et les sorties de fonds des entreprises : par exemple, la trésorerie sera utilisée pour payer les salaires après la période de prise en charge à $100 \%$ par le dispositif d'activité partielle, ou pour régler les impôts et les cotisations sociales, dont les échéances entre mars et juin (août pour les travailleurs indépendants) ont pu être reportées de trois mois ${ }^{6970}$. Il est toutefois probable que le
 
 [^0]recours à l'endettement externe reflète aussi dans certains cas un comportement de précaution: dans un contexte d'incertitude sur la durée et la sévérité de la crise, les entreprises ont profité de la possibilité d'accéder au crédit pour constituer des réserves de trésorerie qui pourraient s'avérer finalement supérieures à leurs besoins. Dans ce cas, la trésorerie pourrait en partie être utilisée pour rembourser de la dette une fois l'incertitude résorbée, en particulier les PGE à l'issue de la période initiale de 12 mois.
 
@@ -2919,7 +2917,7 @@ Le Gouvernement a mis en place un dispositif exceptionnel d'activité partielle 
 
 Au $1^{\text {er }}$ juin, afin d'accompagner la reprise de l'activité économique après la levée du confinement strict, les conditions de prise en charge de l'indemnité ont été revues : l'indemnité versée aux salariés est restée inchangée, mais la prise en charge publique a baissé par le biais d'un reste à charge employeur de $10 \%$ du salaire brut (avec plancher de prise en charge publique intégrale au Smic net). Ce resserrement a concerné l'ensemble des secteurs, excepté ceux durablement contraints par les mesures sanitaires (notamment tourisme, hôtels, cafés, restaurants, culture, événementiel).
 
-[^0]L'activité partielle a permis de faire face au choc sans précédent sur l'activité. Au 1er trimestre 2020, le volume d'heures travaillées a diminué d'environ 375 millions d'heures par rapport au quatrième trimestre 2019. On estime que parmi ces heures, environ 300 millions pourraient provenir de salariés placés en activité partielle ( $80 \%$ ). Au deuxième trimestre 2020, l'activité partielle absorberait près des trois quarts de la baisse des heures travaillées par rapport au premier trimestre (cf. graphique 3). À titre de comparaison, pendant la crise de 2009, le volume d'heures travaillées avait diminué d'environ 135 millions d'heures dont 80 millions provenaient de salariés placés en activité partielle. Les mécanismes de flexibilité interne, dont en particulier l'activité partielle, ont permis que les destructions d'emploi représentent une faible part de la baisse des heures travaillées au $1^{\text {er }}$ semestre 2020. Par ailleurs, la littérature économique confirme l'efficacité de l'activité partielle pour préserver l'emploi : pendant la crise de 2008-2009, 20 \% des emplois placés en activité partielle en France auraient autrement été détruits avant la fin 2009 (cf. Cahuc et al. ${ }^{78}$ ) $^{79}$, alors que la générosité du dispositif était moindre qu'actuellement.
+[^0]L'activité partielle a permis de faire face au choc sans précédent sur l'activité. Au $1^{\text {er }}$ trimestre 2020, le volume d'heures travaillées a diminué d'environ 375 millions d'heures par rapport au quatrième trimestre 2019. On estime que parmi ces heures, environ 300 millions pourraient provenir de salariés placés en activité partielle ( $80 \%$ ). Au deuxième trimestre 2020, l'activité partielle absorberait près des trois quarts de la baisse des heures travaillées par rapport au premier trimestre (cf. graphique 3). À titre de comparaison, pendant la crise de 2009, le volume d'heures travaillées avait diminué d'environ 135 millions d'heures dont 80 millions provenaient de salariés placés en activité partielle. Les mécanismes de flexibilité interne, dont en particulier l'activité partielle, ont permis que les destructions d'emploi représentent une faible part de la baisse des heures travaillées au $1^{\text {er }}$ semestre 2020. Par ailleurs, la littérature économique confirme l'efficacité de l'activité partielle pour préserver l'emploi : pendant la crise de 2008-2009, 20 \% des emplois placés en activité partielle en France auraient autrement été détruits avant la fin 2009 (cf. Cahuc et al. ${ }^{78}$ ) $^{79}$, alors que la générosité du dispositif était moindre qu'actuellement.
 
 En pratique, le recours à l'activité partielle s'effectue en deux temps : d'abord l'entreprise dépose une demande d'autorisation préalable pour couvrir ses salariés durant une période donnée, puis elle dépose une demande d'indemnisation pour les salariés effectivement placés en activité partielle.
 
@@ -3235,15 +3233,13 @@ Visant à assurer une continuité de l'activité économique productive, une pol
 [^0]:    ${ }^{104}$ ONU, Division de la statistique, 5th revision of the Classification by Broad Economic Categories (BEC)
 [188]
 Une délimitation du périmètre des secteurs (ou produits) pour lesquels la puissance publique doit jouer un rôle directif pour garantir la sécurisation de leur approvisionnement est nécessaire préalablement à l'élaboration de cette stratégie. En effet, de nombreuses entreprises prennent en compte spontanément le risque opérationnel lié à une rupture de leurs approvisionnements en intrants. Dans d'autres secteurs, ou pour certaines productions spécifiques, l'intérêt public justifie l'intervention de l'État, y compris éventuellement financière, en raison des externalités négatives pour l'économie et la société résultant d'une matérialisation des risques, et qui dépassent le champ des risques internalisés par l'entreprise. L'identification de ces secteurs (ou produits) qualifiables de «critiques» ou d'« essentiels à la vie de la Nation» et exigeant un approvisionnement continu en toutes circonstances pour assurer certaines fonctions vitales est donc fondamental. À ce titre, on peut citer les secteurs critiques ciblés dans l'appel à projet lancé par le Gouvernement le 12 août dernier : santé, agroalimentaire, électronique et certains intrants industriels dont la rupture d'approvisionnement pourrait avoir un effet domino sur le tissu industriel national ou européen (chimie, métaux et matières premières).
+4.1. Une réflexion sur la sécurisation de nos approvisionnements devrait prendre en compte l'échelle européenne et ne pas aboutir à une fermeture indifférenciée aux échanges
 
-### 4.1. Une réflexion sur la sécurisation de nos approvisionnements devrait prendre en compte l'échelle européenne et ne pas aboutir à une fermeture indifférenciée aux échanges
-
-Au-delà des stratégies nationales, l'UE apparaît comme un échelon géographique pertinent pour déployer une stratégie d'ensemble de sécurisation des approvisionnements et de résilience des chaînes de valeur, de par l'espace de libre-échange qu'elle constitue, la profondeur et la variété de son tissu productif, la compétitivité de ses territoires pour une large gamme de secteurs et de productions, et la qualité de ses transports internes. Face à la montée du protectionnisme dans le monde, le marché unique européen représente en outre un havre de sécurité économique pour les entreprises et pour les consommateurs. L'interdépendance forte des chaînes de valeur européennes crée entre les États membres une communauté d'intérêts à défendre, invitant à un diagnostic partagé sur les fragilités d'approvisionnement de chaque pays et de l'UE dans son ensemble vis-à-vis de l'extérieur de l'UE.
+Au-delà des stratégies nationales, I'UE apparaît comme un échelon géographique pertinent pour déployer une stratégie d'ensemble de sécurisation des approvisionnements et de résilience des chaînes de valeur, de par l'espace de libre-échange qu'elle constitue, la profondeur et la variété de son tissu productif, la compétitivité de ses territoires pour une large gamme de secteurs et de productions, et la qualité de ses transports internes. Face à la montée du protectionnisme dans le monde, le marché unique européen représente en outre un havre de sécurité économique pour les entreprises et pour les consommateurs. L'interdépendance forte des chaînes de valeur européennes crée entre les États membres une communauté d'intérêts à défendre, invitant à un diagnostic partagé sur les fragilités d'approvisionnement de chaque pays et de l'UE dans son ensemble vis-à-vis de l'extérieur de l'UE.
 Les enjeux associés aux chaînes de valeur européennes invitent aussi à la préservation d'un cadre commercial multilatéral stable, ce qui nécessite notamment de lutter contre les mesures protectionnistes qui entravent les échanges et menacent nos approvisionnements et nos débouchés à l'export, et contre la concurrence déloyale. La règle doit rester celle du maintien d'un cadre ouvert (notamment aux investissements di-
 rects étrangers entrants et sortants) et la préservation d'un cadre de concurrence équitable, notamment en matière de subventions et d'entreprises d'État. Certains comportements non-coopératifs parmi nos grands partenaires observés à l'occasion de la crise (notamment ÉtatsUnis, Chine et Inde) appellent également l'UE à adopter une approche plus stratégique des rapports commerciaux croisés, notamment sur les biens critiques, avec une considération particulière sur les leviers permettant de prévenir ces comportements.
 En cohérence avec ces principes, la France contribue activement aux travaux de la Commission européenne et à la concertation entre États membres, dans le cadre de la stratégie européenne " d'autonomie stratégique ouverte " initiée par la Commission européenne, qui doit notamment permettre d'établir un diagnostic partagé au niveau européen sur notre dépendance vis-à-vis de l'extérieur.
-
-### 4.2. Encourager un diagnostic public/privé pour mettre en évidence les pistes de sécurisation : diversification, stockage
+4.2. Encourager un diagnostic public/privé pour mettre en évidence les pistes de sécurisation : diversification, stockage
 
 Pour la grande majorité des secteurs économiques, qui répondent aux règles ordinaires de l'économie de marché, la crise devrait inciter les entreprises à elles-mêmes mieux prendre en compte les risques qui pèsent sur leur chaîne d'approvisionnement (risques sanitaire, protectionniste, environnemental) et à identifier des moyens de sécurisation. Cela peut passer par
 [189]
@@ -3316,271 +3312,346 @@ The experimental setup involved a **laser source** with a laser source. The lase
 
 ## 3.2. Data Collection
 
-The data was collected at the quantum level using the **QNQI** software. The data was analyzed using statistical methods and the quantum entanglement and entanglement methods were analyzed using statistical methods and the quantum entanglement and entanglement methods were analyzed using statistical methods.
+The data was collected at the quantum level using the **QNQI** software. The data was analyzed using the **QSQI** software.
 
 # 4. Results and Discussion
 
-## 4.1. Quantum Entanglement
+## 4.1. Quantum Mechanics and Quantum Entanglement
 
-The quantum entanglement was observed in the quantum states of the particles. The results indicated that the quantum state can be described by the **Schrödinger equation**, which describes the time evolution of a quantum system. The quantum state can be described by the **Schrödinger equation**, which describes the time evolution of a quantum system.
+The quantum mechanics of quantum systems was analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.2. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum states, which are described by the **Schrödinger equation**:
+## 4.2. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement of particles at the quantum level was analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.3. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.3. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement of particles at the quantum level was analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.4. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.4. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement of particles at the quantum level was analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.5. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.5. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement of particles at the quantum level was analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.6. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.6. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement of particles at the quantum level was analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.7. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.7. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement of particles at the quantum level was analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.8. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.8. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement of particles at the quantum level was analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.9. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.9. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement of particles at the quantum level was analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.10. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.10. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.11. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.11. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.12. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.12. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.13. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.13. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.14. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.14. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.15. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.15. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.16. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.16. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.17. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.17. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.18. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.18. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.19. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.19. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.20. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.20. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.21. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.21. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.22. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.22. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.23. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.23. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.24. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.24. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.25. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.25. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.26. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.26. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.27. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.27. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.28. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.28. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.29. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.29. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.30. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.30. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.31. Quantum Entanglement and Entanglement
+|  **Quantum entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  |
+|  1 | 0 | 1 | 0 | 0 | 0 | 0 | 1  |
+|  2 | 0 | 2 | 0 | 0 | 0 | 0 | 2  |
+|  3 | 0 | 3 | 0 | 0 | 0 | 0 | 3  |
 
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
+## 4.31. Quantum Entanglement and Entanglement Cryptography
 
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
+The quantum entanglement and entanglement cryptography were analyzed using the **Schrödinger equation**. The results are summarized in the following table:
 
-## 4.32. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.33. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.34. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.35. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.36. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.37. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.38. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.39. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.40. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.41. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.42. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.43. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha})$$
-
-## 4.44. Quantum Entanglement and Entanglement
-
-The quantum entanglement and entanglement results in the following quantum entanglement and entanglement methods, which are described by the **Schrödinger equation**:
-
-$$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, \mathbf{\alpha}) = \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) + \hat{H} \Psi(\mathbf{r}, \mathbf{\alpha}) +
+|  **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement** | **Entanglement**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 [193]
 # Annexe méthodologique
 [194]
@@ -3966,7 +4037,8 @@ Tableau 4 : Commerce extérieur de la France
 |  | 2018 | 2019 | 2020 | 2021 |
 |  | Niveau en Md€ | Variation annuelle | Variation annuelle | Variation annuelle |
 | RESSOURCES |  |  |  |  |
-| Salaires bruts <br> - Cotisations sociales salariés | 919,8 116,9 | 2,9 0,0 | $-5,7$ $-4,5$ | 5,2 6,1 |
+| Salaires bruts | 919,8 | 2,9 | $-5,7$ | 5,2 |
+| - Cotisations sociales salariés | 116,9 | 0,0 | $-4,5$ | 6,1 |
 | Salaires nets | 802,8 | 3,3 | $-5,9$ | 5,1 |
 | Revenu mixte (principalement des entrepreneurs individuels) | 123,5 | 0,8 | $-4,5$ | 4,3 |
 | Excédent brut d'exploitation (hors entrepreneurs individuels) | 187,7 | 0,0 | 0,1 | 2,5 |
@@ -4176,8 +4248,8 @@ Note : dépense et recettes en SEC 2010 (y.c. compris crédits d'impôts pour la
 
 | Tableau 19 - Prévisions de recettes et dépenses des administrations publiques |  |  |  |  |
 | :--: | :--: | :--: | :--: | :--: |
-|  | Code SEC | 2019 | 2020 | 2021 |
-| Administrations publiques (S.13) |  | \% du PIB | \% du PIB | \% du PIB |
+| Administrations publiques (S.13) | Code SEC | 2019 | 2020 | 2021 |
+|  |  | \% du PIB | \% du PIB | \% du PIB |
 | 1. Recettes totales (brutes des crédits d'impôts) |  | 52,6 | 53,4 | 52,5 |
 | dont |  |  |  |  |
 | 1.1. Taxes et impôts sur production | D. 2 | 16,8 | 17,3 | 16,6 |
@@ -4216,7 +4288,7 @@ Note : dépense et recettes en SEC 2010 (y.c. compris crédits d'impôts pour la
 | 8. Agrégat règle en dépense (=1-2-3-4-[5-6]-7) | 1279,2 | 52,7 | 58,6 | 57,0 |
 | 9. Effet des mesures discrétionnaires en recettes (brut des CI, hors mesures ponctuelles et temporaires) | $-26,0$ | $-1,1$ | $-0,3$ | $-0,5$ |
 | 10. Hausses de recettes automatiquement prévues par la loi | 0,0 | 0,0 | 0,0 | 0,0 |
-| 11. Agrégat net règle en dépense ( $=8-9$-10) | 1305,2 | 53,8 | 58,9 | 57,5 |
+| 11. Agrégat net règle en dépense (= 8-9-10) | 1305,2 | 53,8 | 58,9 | 57,5 |
 
 [^0]
 [^0]:    Note : le volet préventif du Pacte de stabilité prévoit que la croissance en volume de la dépense des administrations publiques, nette des mesures nouvelles en recettes, doit, en fonction de la position du pays par rapport à son objectif de moyen terme (OMT), "ne pas dépasser un taux de référence [ou un taux inférieur pour les pays qui n'ont pas atteint leur OMT] pour la croissance potentielle du PIB à moyen terme, sauf si ce dépassement est compensé par des mesures discrétionnaires en matière de recettes" (Règlement 1466/97 amendé). Cette règle, qui s'insère dans une évaluation globale prenant pour référence le solde structurel, permet de se concentrer sur les composantes directement pilotables par le législateur au sein de l'ajustement structurel. En particulier, le champ considéré est la dépense des administrations publiques, hors charges d'intérêt et dépenses conjoncturelles de chômage, et nette des mesures nouvelles en recettes.
@@ -4245,7 +4317,7 @@ Note : dépense et recettes en SEC 2010 (y.c. compris crédits d'impôts pour la
 | Prorogation CITE |  |  | $-0,5$ |
 | Autres mesures |  | $-0,1$ | $-0,0$ |
 | Loi du 24 juillet 2019 | 1,9 | $-1,5$ | $-0,1$ |
-| Report de la baisse du taux d'IS de 331/2 à $31 \%$ pour les entreprises de plus de 250 M de CA | 1,7 | $-1,6$ | $-0,1$ |
+| Report de la baisse du taux d'IS de $331 / 2$ à $31 \%$ pour les entreprises de plus de 250 M de CA | 1,7 | $-1,6$ | $-0,1$ |
 | Création de la taxe sur certains services numériques | 0,3 | 0,1 |  |
 | MUES | $-1,0$ | $-0,8$ | $-0,3$ |
 | Défiscalisation des heures supplémentaires | $-1,1$ | $-1,0$ | $-0,4$ |
@@ -4521,44 +4593,44 @@ Source : Insee, bases 2014, 2010, 2005, 2000 et 1995 des comptes nationaux.
 [227]
 Tableau 3 : Part des dépenses publiques dans le PIB (en milliards d'euros et en points de PIB)
 
-|  Années | Administrations publiques (1) |  |  |  |  | État |  |  |  | Organismes divers d'administration centrale |  | Administrations publiques locales |  |  |  | Administrations de sécurité sociale  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |  | dont |  |  |  |  | dont : |  |  |  |  | dont : |  |  |  |   |
-|   | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | Prestations (D62 + D63 partie) | Intérêts (D41) | FCBF (P51) | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | Intérêts (D41) | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | FBCF (P51) | Total des dépenses | dont prestations sociales et transferts sociaux (D62 + D63 partie)  |
-|  en milliards d'euros |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2016 | 1264,3 | 111,8 | 284,0 | 579,6 | 41,1 | 75,1 | 479,2 | 22,6 | 121,3 | 35,1 | 80,9 | 248,9 | 50,8 | 79,7 | 40,3 | 585,0  |
-|  2017 | 1298,0 | 115,0 | 290,9 | 589,7 | 39,7 | 76,4 | 497,1 | 23,8 | 124,2 | 34,2 | 81,3 | 254,2 | 51,9 | 81,5 | 42,6 | 596,6  |
-|  2018 | 1314,6 | 116,8 | 293,8 | 600,4 | 40,3 | 80,4 | 497,5 | 24,1 | 126,4 | 34,8 | 79,2 | 259,4 | 52,6 | 81,6 | 46,0 | 608,7  |
-|  2019 | 1347,9 | 119,5 | 297,5 | 616,6 | 35,3 | 88,7 | 502,3 | 25,0 | 128,2 | 30,2 | 89,1 | 271,1 | 53,6 | 83,0 | 53,0 | 621,2  |
-|  en points de PIB |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  1992 | 52,6 | 5,3 | 12,4 | 21,3 | 3,0 | 4,7 | 23,7 | 2,1 | 6,7 | 2,1 | 3,4 | 9,5 | 1,5 | 2,5 | 2,6 | 22,2  |
-|  1993 | 55,2 | 5,7 | 13,0 | 22,4 | 3,2 | 4,6 | 25,4 | 2,5 | 7,1 | 2,3 | 3,5 | 9,6 | 1,6 | 2,5 | 2,4 | 23,1  |
-|  1994 | 54,6 | 5,3 | 13,1 | 22,3 | 3,3 | 4,5 | 24,8 | 2,0 | 7,1 | 2,4 | 3,2 | 9,8 | 1,7 | 2,6 | 2,4 | 23,0  |
-|  1995 | 54,8 | 5,1 | 13,2 | 22,3 | 3,4 | 4,2 | 23,9 | 1,6 | 7,1 | 2,6 | 3,9 | 9,7 | 1,8 | 2,6 | 2,3 | 23,2  |
-|  1996 | 54,9 | 5,4 | 13,4 | 22,5 | 3,6 | 4,1 | 24,2 | 1,7 | 7,2 | 2,6 | 3,4 | 10,0 | 1,9 | 2,7 | 2,1 | 23,5  |
-|  1997 | 54,5 | 5,4 | 13,3 | 22,6 | 3,5 | 3,8 | 24,6 | 1,8 | 7,1 | 2,7 | 3,3 | 9,6 | 2,0 | 2,7 | 1,9 | 23,3  |
-|  1998 | 52,9 | 4,8 | 13,1 | 22,2 | 3,4 | 3,7 | 23,2 | 1,3 | 7,0 | 2,6 | 3,2 | 9,4 | 2,0 | 2,7 | 1,9 | 23,0  |
-|  1999 | 52,6 | 4,8 | 13,1 | 22,1 | 3,0 | 3,8 | 23,4 | 1,2 | 6,9 | 2,5 | 3,1 | 9,5 | 2,0 | 2,8 | 2,1 | 22,8  |
-|  2000 | 51,7 | 4,8 | 12,9 | 21,6 | 2,9 | 3,9 | 22,4 | 1,2 | 6,7 | 2,4 | 3,1 | 9,6 | 2,1 | 2,8 | 2,2 | 22,4  |
-|  2001 | 51,7 | 4,6 | 12,9 | 21,8 | 3,0 | 3,9 | 22,4 | 1,2 | 6,7 | 2,4 | 3,3 | 9,5 | 1,9 | 2,9 | 2,2 | 22,6  |
-|  2002 | 52,8 | 4,8 | 13,0 | 22,3 | 3,0 | 3,8 | 23,0 | 1,2 | 6,7 | 2,5 | 3,5 | 9,8 | 2,1 | 2,9 | 2,1 | 23,1  |
-|  2003 | 53,3 | 4,8 | 13,1 | 22,8 | 2,8 | 3,9 | 22,6 | 1,1 | 6,7 | 2,4 | 3,4 | 10,1 | 2,1 | 3,0 | 2,1 | 23,7  |
-|  2004 | 53,0 | 4,9 | 12,9 | 22,8 | 2,8 | 4,0 | 22,8 | 1,1 | 6,5 | 2,3 | 3,2 | 10,6 | 2,1 | 3,0 | 2,2 | 23,9  |
-|  2005 | 53,3 | 4,9 | 12,8 | 23,0 | 2,7 | 4,0 | 22,6 | 1,2 | 6,4 | 2,3 | 3,3 | 10,7 | 2,2 | 3,0 | 2,3 | 24,2  |
-|  2006 | 52,9 | 4,8 | 12,6 | 23,0 | 2,6 | 3,9 | 21,4 | 1,1 | 6,2 | 2,1 | 3,2 | 10,8 | 2,2 | 3,0 | 2,3 | 23,8  |
-|  2007 | 52,6 | 4,7 | 12,4 | 22,9 | 2,7 | 3,9 | 20,5 | 1,1 | 6,0 | 2,1 | 3,5 | 11,0 | 2,1 | 3,1 | 2,4 | 23,9  |
-|  2008 | 53,3 | 4,7 | 12,4 | 23,2 | 2,9 | 3,9 | 21,1 | 1,1 | 5,9 | 2,3 | 3,2 | 11,2 | 2,1 | 3,2 | 2,4 | 23,9  |
-|  2009 | 57,2 | 5,1 | 13,1 | 25,1 | 2,5 | 4,3 | 22,4 | 1,1 | 6,1 | 2,0 | 3,8 | 12,0 | 2,3 | 3,5 | 2,4 | 25,7  |
-|  2010 | 56,9 | 5,1 | 13,0 | 25,1 | 2,5 | 4,2 | 24,2 | 1,0 | 5,9 | 2,1 | 4,1 | 11,5 | 2,3 | 3,5 | 2,2 | 25,9  |
-|  2011 | 56,3 | 5,1 | 12,8 | 25,0 | 2,7 | 4,0 | 21,7 | 1,0 | 5,7 | 2,2 | 3,9 | 11,5 | 2,3 | 3,4 | 2,2 | 25,9  |
-|  2012 | 57,1 | 5,1 | 12,9 | 25,5 | 2,6 | 4,0 | 21,7 | 1,0 | 5,7 | 2,1 | 4,0 | 11,7 | 2,4 | 3,5 | 2,3 | 26,4  |
-|  2013 | 57,2 | 5,2 | 12,9 | 25,9 | 2,3 | 4,0 | 21,6 | 1,0 | 5,6 | 1,9 | 4,0 | 11,9 | 2,4 | 3,5 | 2,4 | 26,6  |
-|  2014 | 57,2 | 5,1 | 13,0 | 26,1 | 2,2 | 3,7 | 21,6 | 0,9 | 5,6 | 1,8 | 4,1 | 11,8 | 2,4 | 3,6 | 2,1 | 26,7  |
-|  2015 | 56,8 | 5,1 | 12,8 | 25,9 | 2,0 | 3,4 | 21,2 | 1,0 | 5,4 | 1,7 | 4,1 | 11,4 | 2,3 | 3,6 | 1,9 | 26,3  |
-|  2016 | 56,7 | 5,0 | 12,7 | 25,9 | 1,8 | 3,4 | 21,5 | 1,0 | 5,4 | 1,6 | 3,6 | 11,1 | 2,3 | 3,6 | 1,8 | 26,2  |
-|  2017 | 56,5 | 5,0 | 12,7 | 25,7 | 1,7 | 3,3 | 21,6 | 1,0 | 5,4 | 1,5 | 3,5 | 11,1 | 2,3 | 3,5 | 1,9 | 26,0  |
-|  2018 | 55,7 | 4,9 | 12,4 | 25,4 | 1,7 | 3,4 | 21,1 | 1,0 | 5,4 | 1,5 | 3,4 | 11,0 | 2,2 | 3,5 | 2,0 | 25,8  |
-|  2019 | 55,6 | 4,9 | 12,3 | 25,4 | 1,5 | 3,7 | 20,7 | 1,0 | 5,3 | 1,2 | 3,7 | 11,2 | 2,2 | 3,4 | 2,2 | 25,6  |
+|  Années | Administrations publiques (1) |  |  |  |  | État |  |  |  | Organismes divers d'administration centrale |  | Administrations publiques locales |  |  |  | Administrations de sécurité sociale |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  | dont |  |  |  |  | dont : |  |  |  |  | dont : |  |  |  |  | dont prestations sociales et transferts sociaux  |
+|   | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | Prestations (D62 + D63 partie) | Intérêts (D41) | FCBF (P51) | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | Intérêts (D41) | Total des dépenses | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | FBCF (P51) | Total des dépenses | (D62 + D63 partie)  |
+|  en milliards d'euros |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2016 | 1264,3 | 111,8 | 284,0 | 579,6 | 41,1 | 75,1 | 479,2 | 22,6 | 121,3 | 35,1 | 80,9 | 248,9 | 50,8 | 79,7 | 40,3 | 585,0 | 448,7  |
+|  2017 | 1298,0 | 115,0 | 290,9 | 589,7 | 39,7 | 76,4 | 497,1 | 23,8 | 124,2 | 34,2 | 81,3 | 254,2 | 51,9 | 81,5 | 42,6 | 596,6 | 456,5  |
+|  2018 | 1314,6 | 116,8 | 293,8 | 600,4 | 40,3 | 80,4 | 497,5 | 24,1 | 126,4 | 34,8 | 79,2 | 259,4 | 52,6 | 81,6 | 46,0 | 608,7 | 466,5  |
+|  2019 | 1347,9 | 119,5 | 297,5 | 616,6 | 35,3 | 88,7 | 502,3 | 25,0 | 128,2 | 30,2 | 89,1 | 271,1 | 53,6 | 83,0 | 53,0 | 621,2 | 477,4  |
+|  en points de PIB |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  1992 | 52,6 | 5,3 | 12,4 | 21,3 | 3,0 | 4,7 | 23,7 | 2,1 | 6,7 | 2,1 | 3,4 | 9,5 | 1,5 | 2,5 | 2,6 | 22,2 | 16,7  |
+|  1993 | 55,2 | 5,7 | 13,0 | 22,4 | 3,2 | 4,6 | 25,4 | 2,5 | 7,1 | 2,3 | 3,5 | 9,6 | 1,6 | 2,5 | 2,4 | 23,1 | 17,4  |
+|  1994 | 54,6 | 5,3 | 13,1 | 22,3 | 3,3 | 4,5 | 24,8 | 2,0 | 7,1 | 2,4 | 3,2 | 9,8 | 1,7 | 2,6 | 2,4 | 23,0 | 17,2  |
+|  1995 | 54,8 | 5,1 | 13,2 | 22,3 | 3,4 | 4,2 | 23,9 | 1,6 | 7,1 | 2,6 | 3,9 | 9,7 | 1,8 | 2,6 | 2,3 | 23,2 | 17,3  |
+|  1996 | 54,9 | 5,4 | 13,4 | 22,5 | 3,6 | 4,1 | 24,2 | 1,7 | 7,2 | 2,6 | 3,4 | 10,0 | 1,9 | 2,7 | 2,1 | 23,5 | 17,6  |
+|  1997 | 54,5 | 5,4 | 13,3 | 22,6 | 3,5 | 3,8 | 24,6 | 1,8 | 7,1 | 2,7 | 3,3 | 9,6 | 2,0 | 2,7 | 1,9 | 23,3 | 17,5  |
+|  1998 | 52,9 | 4,8 | 13,1 | 22,2 | 3,4 | 3,7 | 23,2 | 1,3 | 7,0 | 2,6 | 3,2 | 9,4 | 2,0 | 2,7 | 1,9 | 23,0 | 17,3  |
+|  1999 | 52,6 | 4,8 | 13,1 | 22,1 | 3,0 | 3,8 | 23,4 | 1,2 | 6,9 | 2,5 | 3,1 | 9,5 | 2,0 | 2,8 | 2,1 | 22,8 | 17,1  |
+|  2000 | 51,7 | 4,8 | 12,9 | 21,6 | 2,9 | 3,9 | 22,4 | 1,2 | 6,7 | 2,4 | 3,1 | 9,6 | 2,1 | 2,8 | 2,2 | 22,4 | 16,9  |
+|  2001 | 51,7 | 4,6 | 12,9 | 21,8 | 3,0 | 3,9 | 22,4 | 1,2 | 6,7 | 2,4 | 3,3 | 9,5 | 1,9 | 2,9 | 2,2 | 22,6 | 17,1  |
+|  2002 | 52,8 | 4,8 | 13,0 | 22,3 | 3,0 | 3,8 | 23,0 | 1,2 | 6,7 | 2,5 | 3,5 | 9,8 | 2,1 | 2,9 | 2,1 | 23,1 | 17,5  |
+|  2003 | 53,3 | 4,8 | 13,1 | 22,8 | 2,8 | 3,9 | 22,6 | 1,1 | 6,7 | 2,4 | 3,4 | 10,1 | 2,1 | 3,0 | 2,1 | 23,7 | 17,9  |
+|  2004 | 53,0 | 4,9 | 12,9 | 22,8 | 2,8 | 4,0 | 22,8 | 1,1 | 6,5 | 2,3 | 3,2 | 10,6 | 2,1 | 3,0 | 2,2 | 23,9 | 18,0  |
+|  2005 | 53,3 | 4,9 | 12,8 | 23,0 | 2,7 | 4,0 | 22,6 | 1,2 | 6,4 | 2,3 | 3,3 | 10,7 | 2,2 | 3,0 | 2,3 | 24,2 | 18,2  |
+|  2006 | 52,9 | 4,8 | 12,6 | 23,0 | 2,6 | 3,9 | 21,4 | 1,1 | 6,2 | 2,1 | 3,2 | 10,8 | 2,2 | 3,0 | 2,3 | 23,8 | 17,9  |
+|  2007 | 52,6 | 4,7 | 12,4 | 22,9 | 2,7 | 3,9 | 20,5 | 1,1 | 6,0 | 2,1 | 3,5 | 11,0 | 2,1 | 3,1 | 2,4 | 23,9 | 17,8  |
+|  2008 | 53,3 | 4,7 | 12,4 | 23,2 | 2,9 | 3,9 | 21,1 | 1,1 | 5,9 | 2,3 | 3,2 | 11,2 | 2,1 | 3,2 | 2,4 | 23,9 | 18,0  |
+|  2009 | 57,2 | 5,1 | 13,1 | 25,1 | 2,5 | 4,3 | 22,4 | 1,1 | 6,1 | 2,0 | 3,8 | 12,0 | 2,3 | 3,5 | 2,4 | 25,7 | 19,5  |
+|  2010 | 56,9 | 5,1 | 13,0 | 25,1 | 2,5 | 4,2 | 24,2 | 1,0 | 5,9 | 2,1 | 4,1 | 11,5 | 2,3 | 3,5 | 2,2 | 25,9 | 19,6  |
+|  2011 | 56,3 | 5,1 | 12,8 | 25,0 | 2,7 | 4,0 | 21,7 | 1,0 | 5,7 | 2,2 | 3,9 | 11,5 | 2,3 | 3,4 | 2,2 | 25,9 | 19,6  |
+|  2012 | 57,1 | 5,1 | 12,9 | 25,5 | 2,6 | 4,0 | 21,7 | 1,0 | 5,7 | 2,1 | 4,0 | 11,7 | 2,4 | 3,5 | 2,3 | 26,4 | 20,0  |
+|  2013 | 57,2 | 5,2 | 12,9 | 25,9 | 2,3 | 4,0 | 21,6 | 1,0 | 5,6 | 1,9 | 4,0 | 11,9 | 2,4 | 3,5 | 2,4 | 26,6 | 20,2  |
+|  2014 | 57,2 | 5,1 | 13,0 | 26,1 | 2,2 | 3,7 | 21,6 | 0,9 | 5,6 | 1,8 | 4,1 | 11,8 | 2,4 | 3,6 | 2,1 | 26,7 | 20,4  |
+|  2015 | 56,8 | 5,1 | 12,8 | 25,9 | 2,0 | 3,4 | 21,2 | 1,0 | 5,4 | 1,7 | 4,1 | 11,4 | 2,3 | 3,6 | 1,9 | 26,3 | 20,2  |
+|  2016 | 56,7 | 5,0 | 12,7 | 25,9 | 1,8 | 3,4 | 21,5 | 1,0 | 5,4 | 1,6 | 3,6 | 11,1 | 2,3 | 3,6 | 1,8 | 26,2 | 20,1  |
+|  2017 | 56,5 | 5,0 | 12,7 | 25,7 | 1,7 | 3,3 | 21,6 | 1,0 | 5,4 | 1,5 | 3,5 | 11,1 | 2,3 | 3,5 | 1,9 | 26,0 | 19,9  |
+|  2018 | 55,7 | 4,9 | 12,4 | 25,4 | 1,7 | 3,4 | 21,1 | 1,0 | 5,4 | 1,5 | 3,4 | 11,0 | 2,2 | 3,5 | 2,0 | 25,8 | 19,8  |
+|  2019 | 55,6 | 4,9 | 12,3 | 25,4 | 1,5 | 3,7 | 20,7 | 1,0 | 5,3 | 1,2 | 3,7 | 11,2 | 2,2 | 3,4 | 2,2 | 25,6 | 19,7  |
 
 Source : Insee, base 2014 des comptes nationaux, calculs DG Trésor (1) Total des postes de l'État, des ODAC, des APUL et des ASSO consolidés au niveau des APU
 [228]
@@ -4840,18 +4912,18 @@ Tableau 11 - Lois de finances initiales (LPI) et exécution budgétaire (hors FM
 |  | 2006(2) |  |  | $-39,0$ | $-39,0$ | $-42,5$ | 269,3 | 226,8 | 267,9 | $-65,8$ | 24,8 | 3,6 |
 |  | 2007(3) | $-42,0$ |  | $-38,4$ | $-38,4$ | $-38,2$ | 266,8 | 228,6 | 266,7 | $-66,8$ | 28,7 | 3,8 |
 |  | 2007(4) |  |  | $-34,7$ | $-34,7$ | $-38,2$ | 266,8 | 228,6 | 266,7 | $-66,8$ | 28,7 | 3,8 |
-|  | 2008 | $-41,7$ |  | $-56,3$ | $-56,3$ | $-57,0$ | 275,0 | 218,0 | 260,0 | $-69,9$ | 28,0 | 3,2 |
-|  | 2009 | $-67,0$ |  | $-138,0$ | $-138,0$ | $-129,9$ | 290,9 | 161,0 | 214,3 | $-76,2$ | 19,5 | 3,5 |
-|  | 2010 | $-117,4$ |  | $-148,8$ | $-148,8$ | $-150,8$ | 322,7 | 171,9 | 253,6 | $-102,9$ | 18,2 | 3,1 |
-|  | 2011 | $-91,6$ |  | $-90,7$ | $-90,7$ | $-90,1$ | 291,3 | 201,2 | 255,0 | $-74,1$ | 16,4 | 3,8 |
-|  | 2012 | $-78,7$ |  | $-87,2$ | $-87,2$ | $-88,2$ | 299,5 | 211,4 | 268,4 | $-74,6$ | 14,1 | 3,5 |
-|  | 2013 | $-62,3$ |  | $-74,9$ | $-74,9$ | $-75,4$ | 298,6 | 223,2 | 284,0 | $-78,0$ | 13,7 | 3,5 |
-|  | 2014 | $-82,6$ |  | $-85,6$ | $-85,6$ | $-85,7$ | 302,9 | 217,2 | 274,3 | $-74,8$ | 13,9 | 3,7 |
-|  | 2015 (5) | $-74,4$ |  | $-70,5$ | $-70,5$ | $-72,1$ | 301,6 | 229,4 | 280,1 | $-70,2$ | 14,4 | 5,1 |
-|  | 2016 | $-72,3$ |  | $-69,1$ | $-69,1$ | $-75,9$ | 314,4 | 238,5 | 284,1 | $-65,5$ | 16,2 | 3,6 |
-|  | 2017 | $-77,8$ |  | $-67,8$ | $-67,8$ | $-73,3$ | 326,8 | 253,4 | 295,6 | $-60,2$ | 13,8 | 4,1 |
-|  | 2018 | $-85,7$ |  | $-76,1$ | $-76,1$ | $-76,9$ | 329,7 | 252,8 | 295,4 | $-61,0$ | 13,9 | 4,5 |
-|  | 2019 | $-107,7$ |  | $-92,7$ | $-92,7$ | $-92,9$ | 330,3 | 239,2 | 281,3 | $-61,9$ | 14,0 | 5,8 |
+|  | 2008 |  | $-41,7$ |  | $-56,3$ | $-57,0$ | 275,0 | 218,0 | 260,0 | $-69,9$ | 28,0 | 3,2 |
+|  | 2009 |  | $-67,0$ |  | $-138,0$ | $-128,9$ | 290,9 | 161,0 | 214,3 | $-76,2$ | 19,5 | 3,5 |
+|  | 2010 |  | $-117,4$ |  | $-148,8$ | $-150,8$ | 322,7 | 171,9 | 253,6 | $-102,9$ | 18,2 | 3,1 |
+|  | 2011 |  | $-91,6$ |  | $-90,7$ | $-90,1$ | 291,3 | 201,2 | 255,0 | $-74,1$ | 16,4 | 3,8 |
+|  | 2012 |  | $-78,7$ |  | $-87,2$ | $-88,2$ | 299,5 | 211,4 | 268,4 | $-74,6$ | 14,1 | 3,5 |
+|  | 2013 |  | $-62,3$ |  | $-74,9$ | $-75,4$ | 298,6 | 223,2 | 284,0 | $-78,0$ | 13,7 | 3,5 |
+|  | 2014 |  | $-82,6$ |  | $-85,6$ | $-85,7$ | 302,9 | 217,2 | 274,3 | $-74,8$ | 13,9 | 3,7 |
+|  | 2015 (5) |  | $-74,4$ |  | $-70,5$ | $-72,1$ | 301,6 | 229,4 | 280,1 | $-70,2$ | 14,4 | 5,1 |
+|  | 2016 |  | $-72,3$ |  | $-69,1$ | $-75,9$ | 314,4 | 238,5 | 284,1 | $-65,5$ | 16,2 | 3,6 |
+|  | 2017 |  | $-77,8$ |  | $-67,8$ | $-73,3$ | 326,8 | 253,4 | 295,6 | $-60,2$ | 13,8 | 4,1 |
+|  | 2018 |  | $-85,7$ |  | $-76,1$ | $-76,9$ | 329,7 | 252,8 | 295,4 | $-61,0$ | 13,9 | 4,5 |
+|  | 2019 |  | $-107,7$ |  | $-92,7$ | $-92,9$ | 330,3 | 239,2 | 281,3 | $-61,9$ | 14,0 | 5,8 |
 
 (1) Hors mesure de régularisation des pensions; (2) Y.c. mesure de régularisation des pensions.
 (3) Hors recettes "cession de participation EDF"; (4) Y.c. recettes "cession de participation EDF".
@@ -4859,7 +4931,7 @@ Tableau 11 - Lois de finances initiales (LPI) et exécution budgétaire (hors FM
 
 # Part dans le PIB 
 
-## Base 2000 des comptes nationaux
+Base 2000 des comptes nationaux
 
 | 1979 | $-0,6$ | $-1,5$ | $-1,5$ | $-1,1$ | 18,5 | 17,4 | 18,3 | $-1,9$ | 1,0 | 0,7 | $-0,4$ |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -4886,7 +4958,7 @@ Tableau 11 - Lois de finances initiales (LPI) et exécution budgétaire (hors FM
 | 2000 | $-2,3$ | $-2,0$ | $-2,0$ | $-2,0$ | 17,6 | 15,5 | 16,7 | $-3,0$ | 1,9 | 0,4 | 0,0 |
 | 2001 | $-1,9$ | $-2,2$ | $-2,2$ | $-2,1$ | 18,1 | 15,8 | 16,5 | $-3,1$ | 2,3 | 0,3 | 0,0 |
 
-## Base 2010 des comptes nationaux
+Base 2010 des comptes nationaux
 
 | 2002 | $-1,9$ | $-3,1$ | $-3,1$ | $-3,1$ | 17,1 | 14,0 | 15,1 | $-3,1$ | 2,1 | 0,3 | 0,0 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -4907,12 +4979,17 @@ Tableau 11 - Lois de finances initiales (LPI) et exécution budgétaire (hors FM
 | 2015 | $-3,4$ | $-3,2$ | $-3,2$ | $-3,3$ | 13,7 | 10,5 | 12,8 | $-3,2$ | 0,7 | 0,2 | 0,1 |
 | 2016 | $-3,2$ | $-3,1$ | $-3,1$ | $-3,4$ | 14,1 | 10,7 | 12,7 | $-2,9$ | 0,7 | 0,2 | 0,3 |
 
-## Base 2014 des comptes nationaux
+Base 2014 des comptes nationaux
 
 | 2017 | $-3,4$ | $-3,0$ | $-3,0$ | $-3,2$ | 14,3 | 11,1 | 12,9 | $-2,6$ | 0,6 | 0,2 | 0,2 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 2018 | $-3,6$ | $-3,2$ | $-3,2$ | $-3,3$ | 14,0 | 10,7 | 12,6 | $-2,6$ | 0,6 | 0,2 | 0,0 |
 | 2019 | $-4,4$ | $-3,8$ | $-3,8$ | $-3,8$ | 13,6 | 9,9 | 11,6 | $-2,6$ | 0,6 | 0,2 | 0,2 |
+
+(1) Hors mesure de régularisation des pensions; (2) Y.c. mesure de régularisation des pensions.
+(3) Hors recettes "cession de participation EDF"; (4) Y.c. recettes "cession de participation EDF".
+
+Sources : Projets de loi de règlement pour chaque année, Direction du Budget, Insee, calculs DG Trésor. Le Fonds de Stabilisation des Changes (FSC) est géré par la Banque de France pour le compte de l'État. Depuis 1936, date de la modification du statut de la Banque de France en vue de sa participation au Système européen de banques centrales, le FSC ne détient plus d'actifs en devises étrangères.
 [236]
 Tableau 12 : Bilan de l'État en comptabilité générale (approche patrimoniale) (En milliards d'euros)
 

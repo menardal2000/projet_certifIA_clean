@@ -90,7 +90,7 @@ $(+3,6 \%)$. Cette croissance soutenue en 2022 s'inscrit dans la continuité du 
 Le pouvoir d'achat des ménages a été préservé en 2022. Le pouvoir d'achat des ménages, c'est-à-dire leur revenu corrigé de l'inflation, a augmenté de $0,2 \%$ par rapport à 2021, malgré la forte hausse des prix de l'énergie importée et la perte de richesse que cela implique pour la nation. Cette hausse contraste avec les pertes de pouvoir d'achat observées en moyenne dans la zone euro ( $-0,1 \%$ ). Les mesures de soutien en France auraient permis de prendre en charge plus de la moitié des pertes de revenu réel engendrées par le choc énergétique en 2022 (cf. Encadré 1).
 La bonne dynamique du marché du travail témoigne également de la résilience de I'activité (cf. Graphique 3). Le chômage est proche de son niveau le plus bas en quarante ans ( $7,2 \%$ au $2^{\text {ème }}$ trimestre 2023), en baisse pour toutes les catégories d'âge par rapport à son niveau pré-crise sanitaire, tandis que le taux d'emploi atteint son plus haut niveau depuis 1975 ( $68,6 \%$ au $2^{\text {ème }}$ trimestre 2023).
 [7]
-Graphique 1: Comparaison de l'évolution du PIB dans les principaux pays de la zone euro
+Graphique 1 : Comparaison de l'évolution du PIB dans les principaux pays de la zone euro
 ![img-1.jpeg](img-1.jpeg)
 
 Source : Eurostat
@@ -316,7 +316,7 @@ Enfin, un soutien financier sera également apporté aux ménages les plus modes
 
 Dans la continuité de l'investissement inédit réalisé dans le cadre du Ségur de la santé, I'accès et la qualité des soins seront améliorés par la poursuite de la transformation et du renforcement de notre système de santé.
 
-Près de trois ans après le début de la crise sanitaire, qui a souligné notre vulnérabilité à un évènement épidémique de grande ampleur, le Gouvernement est pleinement mobilisé en faveur de la modernisation de notre système de santé. Cette mobilisation s'est traduite par un effort financier sans précédent avec une augmentation des dépenses d'assurance maladie (hors covid) de plus de 46 Md€ (soit $+23 \%$ ) depuis 2019 pour atteindre près de $247 \mathrm{Md} €$ en 2023. Les mesures prises visent d'abord à alléger les démarches administratives pour les soignants et à garantir l'accès à la santé pour tous les Français, où qu'ils vivent sur le territoire, pour lutter contre les déserts médicaux. L'objectif est aussi de refonder notre système de santé et de l'adapter aux nouvelles attentes de chacun, à l'image du remboursement « $100 \%$ santé » des prothèses dentaires et auditives.
+Près de trois ans après le début de la crise sanitaire, qui a souligné notre vulnérabilité à un évènement épidémique de grande ampleur, le Gouvernement est pleinement mobilisé en faveur de la modernisation de notre système de santé. Cette mobilisation s'est traduite par un effort financier sans précédent avec une augmentation des dépenses d'assurance maladie (hors covid) de plus de 46 Md€ (soit $+23 \%$ ) depuis 2019 pour atteindre près de $247 \mathrm{Md} €$ en 2023. Les mesures prises visent d'abord à alléger les démarches administratives pour les soignants et à garantir l'accès à la santé pour tous les Français, où qu'ils vivent sur le territoire, pour lutter contre les déserts médicaux. L'objectif est aussi de refonder notre système de santé et de l'adapter aux nouvelles attentes de chacun, à l'image du remboursement « $100 \%$ santé» des prothèses dentaires et auditives.
 [21]
 Le bilan de «Ma santé 2022», suivi d'une concertation en ligne et d'un tour des régions, a permis de finaliser une nouvelle feuille de route 2023-2027 articulée autour de quatre grands axes : (i) développer la prévention, (ii) redonner du temps aux professionnels en allégeant la charge administrative et améliorer la prise en charge, (iii) améliorer l'accès à la santé, et (iv) déployer un cadre propice pour développer les usages et l'innovation numériques.
 
@@ -412,7 +412,7 @@ Dans le secteur du logement, où les besoins d'investissement sont parmi les plu
 [27]
 Le Gouvernement a engagé une planification écologique rigoureuse, déclinée au sein du projet « France Nation Verte».
 
-Le Gouvernement a lancé le projet « France Nation Verte», qui constitue la feuille de route française pour répondre aux urgences climatiques, énergétiques et environnementales et accélérer nos efforts. En lien avec le chantier de réindustrialisation, l'objectif est aussi de renforcer - grâce à la transition écologique - la souveraineté tant énergétique, qu'industrielle et alimentaire du pays. Ce plan d'actions «France Nation Verte» mobilise l'ensemble des acteurs publics et privés autour de plusieurs priorités. La future Stratégie Française Energie-Climat (SFEC) sera la feuille de route actualisée de la France pour réduire ses émissions de gaz à effet de serre (GES), atteindre la neutralité climatique en 2050 et assurer l'adaptation au changement climatique. Elle sera constituée de quatre documents de programmation : la 1ère Loi de Programmation Energie Climat (LPEC), introduite par la Loi Energie Climat de 2019, qui devra actualiser les objectifs nationaux de réduction des émissions de GES, de consommation finale d'énergie, de déploiement des énergies renouvelables, de diversité du mix et de rénovation thermique des logements ; la 3ème Stratégie Nationale BasCarbone (SNBC3), feuille de route française de la politique d'atténuation du changement climatique, avec notamment des budgets carbone par secteur par période de cinq ans ; la 3ème Programmation Pluriannuelle de l'Energie (PPE3), outil de pilotage de la politique énergétique française, élaborée en cohérence avec la SNBC3 et qui couvrira la période 20242033 ; et enfin le 3ème Plan National d'Adaptation au Changement Climatique (PNACC3), visant à limiter les impacts du changement climatique sur les activités socioéconomiques et la nature. La LPEC sera déclinée dans les trois autres textes programmatiques devant être adoptés en 2024.
+Le Gouvernement a lancé le projet « France Nation Verte», qui constitue la feuille de route française pour répondre aux urgences climatiques, énergétiques et environnementales et accélérer nos efforts. En lien avec le chantier de réindustrialisation, I'objectif est aussi de renforcer - grâce à la transition écologique - la souveraineté tant énergétique, qu'industrielle et alimentaire du pays. Ce plan d'actions «France Nation Verte» mobilise l'ensemble des acteurs publics et privés autour de plusieurs priorités. La future Stratégie Française Energie-Climat (SFEC) sera la feuille de route actualisée de la France pour réduire ses émissions de gaz à effet de serre (GES), atteindre la neutralité climatique en 2050 et assurer l'adaptation au changement climatique. Elle sera constituée de quatre documents de programmation : la 1ère Loi de Programmation Energie Climat (LPEC), introduite par la Loi Energie Climat de 2019, qui devra actualiser les objectifs nationaux de réduction des émissions de GES, de consommation finale d'énergie, de déploiement des énergies renouvelables, de diversité du mix et de rénovation thermique des logements ; la 3ème Stratégie Nationale BasCarbone (SNBC3), feuille de route française de la politique d'atténuation du changement climatique, avec notamment des budgets carbone par secteur par période de cinq ans ; la 3ème Programmation Pluriannuelle de l'Energie (PPE3), outil de pilotage de la politique énergétique française, élaborée en cohérence avec la SNBC3 et qui couvrira la période 20242033 ; et enfin le 3ème Plan National d'Adaptation au Changement Climatique (PNACC3), visant à limiter les impacts du changement climatique sur les activités socioéconomiques et la nature. La LPEC sera déclinée dans les trois autres textes programmatiques devant être adoptés en 2024.
 
 Effectif depuis début janvier 2023, le Fonds vert apporte des financements inédits pour assurer la mise en œuvre de cette feuille de route au niveau des territoires. Doté de 2,5 Md€ de crédits déconcentrés aux préfets, il est destiné à financer des projets présentés par les collectivités territoriales et leurs partenaires
 publics ou privés dans trois domaines: la performance environnementale -à l'image de la rénovation énergétique des bâtiments publics, en particulier des écoles -, l'adaptation du territoire au changement climatique - par exemple avec la prévention des inondations et la renaturation des villes - et l'amélioration du cadre de vie - recyclage des friches notamment.
@@ -861,7 +861,7 @@ En 2024, I'emploi salarié marchand redémarrerait progressivement, dans un cont
 En lien avec la reprise de l'activité, les créations d'emploi salarié marchand augmenteraient progressivement au cours de l'année pour un total +135000 emplois entre fin 2023 et fin 2024 (+95 000 en moyenne annuelle). Outre I'activité, I'emploi serait également soutenu par les effets des mesures mises en œuvre en vue de I'atteinte de l'objectif de plein emploi (déploiement de l'apprentissage, réforme des retraites, réforme de la contracyclicité de I'assurance chômage notamment).
 Au total, I'emploi progresserait de +195000 postes en glissement annuel sur l'année 2024 (correspondant à +155000 postes en moyenne annuelle), dont +175000 emplois salariés (+135 000 en moyenne annuelle).
 [52]
-| Tableau 1 : Prévisions d'emploi 2023-2024 <br> (en placement annuel, en milliers)* |  |  |  |  |
+| Tableau 1 : Prévisions d'emploi 2023-2024 (en placement annuel, en milliers)* |  |  |  |  |
 | :--: | :--: | :--: | :--: | :--: |
 |  | 2021 | 2022 | 2023 | 2024 |
 | Emploi salarié agricole | 5 | 5 | 0 | 5 |
@@ -874,7 +874,7 @@ Au total, I'emploi progresserait de +195000 postes en glissement annuel sur l'an
 Sources : Estel (Insee), prévisions DG Trésor pour le PLF 2024. Champ France entière.
 *Les données d'emploi étant présentées en arrondi, la somme des lignes d'une colonne peut ne pas coïncider avec le total indiqué.
 
-| Tableau 2 : Prévisions d'emploi 2023-2024 <br> (en moyenne annuelle, en milliers)* |  |  |  |  |
+| Tableau 2 : Prévisions d'emploi 2023-2024 (en moyenne annuelle, en milliers)* |  |  |  |  |
 | :--: | :--: | :--: | :--: | :--: |
 |  | 2021 | 2022 | 2023 | 2024 |
 | Emploi salarié agricole | 10 | 0 | 5 | 0 |
@@ -981,16 +981,31 @@ Croissance potentielle et effective
 ![img-20.jpeg](img-20.jpeg)
 
 Sources: Insee, estimations et prévisions PLF 2024.
-Tableau 1 : Principaux indicateurs du scénario économique 2020-2027
 
-| (Croissance annuelle en \%) | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 |
-| :-- | :--: | :--: | :--: | :--: | :--: | :--: |
-| PIB (volume) | 2,5 | 1,0 | 1,4 | 1,7 | 1,7 | 1,8 |
-| Déflateur du PIB | 3,0 | 5,7 | 2,5 | 1,8 | 1,6 | 1,6 |
-| IPC (hors tabac) | 5,3 | 4,8 | 2,5 | 2,0 | 1,75 | 1,75 |
-| Masse salariale (branches marchandes non <br> agricoles, valeur) | 9,3 | 6,5 | 3,6 | 3,4 | 3,4 | 3,4 |
-| PIB potentiel (volume) | 1,25 | 1,35 | 1,35 | 1,35 | 1,35 | 1,35 |
-| Écart de production (\% du PIB potentiel) | $-0,9$ | $-1,2$ | $-1,1$ | $-0,8$ | $-0,4$ | 0,0 |
+## Tableau 1 : Principaux indicateurs du scénario économique 2020-2027
+
+(Croissance annuelle en \%)
+
+PIB (volume)
+Déflateur du PIB
+IPC (hors tabac)
+Masse salariale (branches marchandes non agricoles, valeur)
+PIB potentiel (volume)
+Écart de production (\% du PIB potentiel)
+2022
+2023
+2024
+2025
+2026
+2027
+
+| 2,5 | 1,0 | 1,4 | 1,7 | 1,7 | 1,8 |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 3,0 | 5,7 | 2,5 | 1,8 | 1,6 | 1,6 |
+| 5,3 | 4,8 | 2,5 | 2,0 | 1,75 | 1,75 |
+| 9,3 | 6,5 | 3,6 | 3,4 | 3,4 | 3,4 |
+| 1,25 | 1,35 | 1,35 | 1,35 | 1,35 | 1,35 |
+| -0,9 | $-1,2$ | $-1,1$ | $-0,8$ | $-0,4$ | 0,0 |
 
 Sources: Insee, prévisions PLF 2024.
 [57]
@@ -1102,7 +1117,7 @@ Pour faire face à la crise de la Covid-19, le Gouvernement a mis en place des m
 
 Pour compléter ces mesures de soutien d'urgence, le Gouvernement a présenté en septembre 2020 le plan France Relance de $100 \mathrm{Md} €$ dont le déploiement a fortement accéléré en 2021 et 2022, avant de ralentir en 2023. Au total, les mesures avec effet sur le solde public avant financements européens atteindraient 12,3 Md€ en 2023 et 7,7 Md€ en 2024, après 19,7 Md€ en 2022. À ces montants, s'ajoute une baisse d'environ $10 \mathrm{Md} €$ pérenne au titre de la baisse des impôts sur la production.
 
-Les financements européens s'élèveraient à 40,3 Md€ de subventions pour l'ensemble de France Relance, intégrant 2,8 Md€ au titre du plan Repower EU, présenté par la Commission européenne en mai 2022. Ces flux sont enregistrés comme des recettes hors prélèvements obligatoires, avec un écart entre la comptabilité nationale en droits constatés et la comptabilité de caisse en raison du délai attendu entre la réalisation des dépenses financées par l'UE et le versement effectif des fonds associés.
+Les financements européens s'élèveraient à $40,3 \mathrm{Md} €$ de subventions pour l'ensemble de France Relance, intégrant $2,8 \mathrm{Md} €$ au titre du plan Repower EU, présenté par la Commission européenne en mai 2022. Ces flux sont enregistrés comme des recettes hors prélèvements obligatoires, avec un écart entre la comptabilité nationale en droits constatés et la comptabilité de caisse en raison du délai attendu entre la réalisation des dépenses financées par l'UE et le versement effectif des fonds associés.
 [63]
 | Plan de Relance (PNRR, y c Repower EU) <br> (Md€) | 2020 | 2021 | 2022 | 2023 | 2024 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -1191,7 +1206,7 @@ En 2022, la croissance de la dépense publique (hors crédits d'impôt) s'est é
 La dépense de l'État (hors crédits d'impôt) a ainsi crû de $7,5 \%$ en valeur par rapport à 2021 (après $+1 \%$ en 2021, y compris transferts). Cette
 entreprises face aux conséquences du choc d'inflation ( $+29 \mathrm{Md} €$ de coût net en plus par rapport à 2021), (ii) par la hausse de la charge de la dette et (iii) par les baisses de prélèvements obligatoires en particulier la suppression de la redevance audiovisuelle et la poursuite des trajectoires de baisse du taux d'impôt sur les sociétés et de suppression de la taxe d'habitation sur les résidences principales)
 Au total, le déficit 2022 a été porté principalement par les administrations publiques centrales ( $-5,2 \%$ du PIB), le solde des administrations publiques locales étant à l'équilibre, et celui des administrations de sécurité sociale excédentaire à hauteur de 0,4\% du PIB. Ces données correspondent à la dernière mise à jour des comptes des administrations publiques par l'Insee publiée fin août, qui a conduit à réviser légèrement en baisse le solde public 2022 par rapport aux données publiées en mai dernier ${ }^{32}(-4,8 \%$ du PIB contre $-4,7 \%$ précédemment).
-croissance en valeur est principalement portée (i) par la hausse de la dépense d'intérêt de l'État en raison de l'effet de l'inflation sur les titres de dette indexés. La formation brute de capital fixe connaît également une hausse ( $+23 \%$, après $2,1 \%$ en 2021) du fait de l'investissement en matériel militaire et en patrimoine immobilier de l'État. La rémunération des salariés s'inscrit en hausse ( $+3,7 \%$ ) sous l'effet de la revalorisation du point d'indice de 3,5\% au 1er juillet 2022. Les dépenses de consommations intermédiaires $(+8,1 \%)$ sont également orientées à la hausse dans un contexte d'inflation. Les subventions sont restées stables après une hausse de 10,9\% en 2021. Cette stabilité masque une augmentation des subventions en lien avec les mesures de soutien face à l'inflation, augmentation qui est compensée par une extinction progressive des dispositifs liés à la crise sanitaire. Les prestations
+croissance en valeur est principalement portée (i) par la hausse de la dépense d'intérêt de l'État en raison de l'effet de l'inflation sur les titres de dette indexés. La formation brute de capital fixe connaît également une hausse ( $+23 \%$, après $2,1 \%$ en 2021) du fait de l'investissement en matériel militaire et en patrimoine immobilier de l'État. La rémunération des salariés s'inscrit en hausse ( $+3,7 \%$ ) sous l'effet de la revalorisation du point d'indice de 3,5\% au 1er juillet 2022. Les dépenses de consommations intermédiaires ( $+8,1 \%$ ) sont également orientées à la hausse dans un contexte d'inflation. Les subventions sont restées stables après une hausse de 10,9\% en 2021. Cette stabilité masque une augmentation des subventions en lien avec les mesures de soutien face à l'inflation, augmentation qui est compensée par une extinction progressive des dispositifs liés à la crise sanitaire. Les prestations
 
 [^0]
 [^0]:    ${ }^{32}$ Insee, Les comptes de la Nation en 2022, 31 mai 2023
@@ -1563,10 +1578,9 @@ Tableau 15 : Principales mesures en prélèvements obligatoires entre 2018 et 20
 |  Évolution spontanée des PO (2) | $8,7 \%$ | $4,0 \%$ | $4,2 \%$  |
 |  Élasticité des PO au PIB (2) / (1) | 1,6 | 0,6 | 1,1  |
 
-Tableau 18 : Évolution du taux de prélèvements obligatoires en 2023
-
-|   | État | ODAC | ASSO | APUL | UE | Total  |
+|  Tableau 18 : Évolution du taux de prélèvements obligatoires en 2023 |  |  |  |  |  |   |
 | --- | --- | --- | --- | --- | --- | --- |
+|   | État | ODAC | ASSO | APUL | UE | Total  |
 |  Montants en Md€ | 342,6 | 19,8 | 694,7 | 176,9 | 7,1 | 1241,1  |
 |  Taux de PO (en \% de PIB) | $12,2 \%$ | $0,7 \%$ | $24,7 \%$ | $6,3 \%$ | $0,3 \%$ | $44,0 \%$  |
 |  Évolution du taux de PO | $-0,7 \%$ | $0,0 \%$ | $-0,3 \%$ | $-0,3 \%$ | $-0,0 \%$ | $-1,3 \%$  |
@@ -1575,10 +1589,9 @@ Tableau 18 : Évolution du taux de prélèvements obligatoires en 2023
 |  - Mesures nouvelles | $-0,2 \%$ | $0,0 \%$ | $-0,0 \%$ | $0,0 \%$ | $-0,0 \%$ | $-0,1 \%$  |
 |  - Mesures de transfert | $0,1 \%$ | $0,0 \%$ | $-0,0 \%$ | $-0,0 \%$ | $0,0 \%$ | $0,0 \%$  |
 
-Tableau 19 : Évolution du taux de prélèvements obligatoires en 2024
-
-|   | État | ODAC | ASSO | APUL | UE | Total  |
+|  Tableau 19 : Évolution du taux de prélèvements obligatoires en 2024 |  |  |  |  |  |   |
 | --- | --- | --- | --- | --- | --- | --- |
+|   | État | ODAC | ASSO | APUL | UE | Total  |
 |  Montants en Md€ | 361,4 | 21,1 | 721,4 | 183,5 | 4,7 | 1292,2  |
 |  Taux de PO (en \% de PIB) | $12,3 \%$ | $0,7 \%$ | $24,6 \%$ | $6,3 \%$ | $0,2 \%$ | $44,1 \%$  |
 |  Évolution du taux de PO | $0,2 \%$ | $0,0 \%$ | $-0,0 \%$ | $-0,0 \%$ | $-0,1 \%$ | $0,1 \%$  |
@@ -1719,15 +1732,15 @@ Tableau 22 : Solde budgétaire
 
 ## Le solde de l'État
 
-En 2023, le solde budgétaire révisé s'établirait à -172,1 Md€, soit une dégradation de 7,1 Md€ par rapport à la prévision de la loi de finances initiale (-164,9 Md€), principalement sous l'effet des évolutions suivantes (montants en écart à la LFI 2023) :
+En 2023, le solde budgétaire révisé s'établirait à -172,1 Md€, soit une dégradation de 7,1 Md€ par rapport à la prévision de la loi de finances initiale ( $-164,9 \mathrm{Md} €$ ), principalement sous l'effet des évolutions suivantes (montants en écart à la LFI 2023) :
 
 - La hausse de la charge de la dette (+ 3,8 Md€) sous l'effet conjugué de la hausse de l'inflation, pour l'essentiel, et de la hausse des taux d'intérêt ;
-- La baisse des recettes non fiscales (-5,0 Md€), notamment en lien avec la révision du niveau de dividendes perçus (-3,5 Md€) ainsi que la révision du montant et du calendrier de versement de la Facilité pour la Reprise et la Résilience par l'Union européenne (-2,1 Md€), du fait d'un lissage dans le temps des versements, à enveloppe globale toutefois inchangée en pluriannuel ;
+- La baisse des recettes non fiscales ( $-5,0 \mathrm{Md} €$ ), notamment en lien avec la révision du niveau de dividendes perçus ( $-3,5 \mathrm{Md} €$ ) ainsi que la révision du montant et du calendrier de versement de la Facilité pour la Reprise et la Résilience par l'Union européenne ( $-2,1 \mathrm{Md} €$ ), du fait d'un lissage dans le temps des versements, à enveloppe globale toutefois inchangée en pluriannuel ;
 - La baisse du solde des comptes spéciaux (- 2,2 Md€), principalement celui du compte
 d'affectation spéciale «Participations financières de l'État».
 Ces mouvements sont principalement atténués par:
 - La hausse des recettes fiscales nettes ( $+3,9 \mathrm{Md} €$ ), principalement soutenue par l'impôt sur les sociétés ( $+6,0 \mathrm{Md} €$ ), l'impôt sur le revenu ( $+3,3 \mathrm{Md} €$ ) et la TVA ( $+1,6 \mathrm{Md} €$ );
-- La baisse des prélèvements sur recettes au profit des collectivités locales (-1,1 Md€), en raison de la résilience accrue des collectivités locales à l'inflation, limitant le recours aux dispositifs du soutien face à la hausse des prix de l'énergie, et au profit de l'Union européenne ( $-0,6 \mathrm{Md} €$ ).
+- La baisse des prélèvements sur recettes au profit des collectivités locales ( $-1,1 \mathrm{Md} €$ ), en raison de la résilience accrue des collectivités locales à l'inflation, limitant le recours aux dispositifs du soutien face à la hausse des prix de l'énergie, et au profit de l'Union européenne ( $-0,6 \mathrm{Md} €$ ).
 [91]
 En 2024, le solde budgétaire s'établirait à -144,5 Md€, en amélioration significative de $+27,6 \mathrm{Md} €$ par rapport à la prévision révisée pour 2023.
 Celle-ci s'explique notamment par les éléments suivants (en écart au révisé 2023) :
@@ -1742,20 +1755,19 @@ Md€) et de la TVA ( $+4,1 \mathrm{Md} €$ ), du fait de la résilience de la 
 - L'amélioration du solde des comptes spéciaux ( $+0,6 \mathrm{Md} €$ ), notamment sous l'effet du contrecoup de la diminution temporaire, en 2023, du solde du compte « Participations financières de l'État» en 2023, qui revient à l'équilibre en 2024.
 Ces mouvements sont partiellement atténués par:
 - Une augmentation des crédits des ministères de $+11,2 \mathrm{Md} €$ entre 2023 et 2024 pour financer les priorités gouvernementales, notamment la planification écologique, le renforcement du régalien conformément aux lois de programmation, et l'effet en année pleine des mesures du rendez-vous salarial et de revalorisations des enseignants, sur le champ de l'Éducation nationale ;
-- La baisse des recettes non-fiscales (-3,3 Md€), principalement en raison de la chronique de versements de la Facilité pour la Reprise et la Résilience par l'Union européenne, estimée à ce stade à $7,5 \mathrm{Md} €$, contre un versement estimé à 10,3 Md€ pour 2023.
+- La baisse des recettes non-fiscales (-3,3 Md€), principalement en raison de la chronique de versements de la Facilité pour la Reprise et la Résilience par I'Union européenne, estimée à ce stade à $7,5 \mathrm{Md} €$, contre un versement estimé à $10,3 \mathrm{Md} €$ pour 2023.
 [92]
 ## Évolution des dépenses de l'État
 
 En 2024, les dépenses de l'État (Périmètre des dépenses de l'État, tel que défini dans le PLFPF 2023-2027) s'élèvent à $490,9 \mathrm{Md} €$, en baisse, à champ constant 2024, par rapport à la LFI pour 2023, de -5,2 Md€.
 Cette évolution reflète I'objectif de redressement progressif des finances publiques, avec une réduction du déficit public à $2,7 \%$ en 2027, et la réduction année après année de notre endettement en part de PIB dans un contexte de sortie des crises sanitaire, énergétique et de l'inflation.
-Ces objectifs seront atteints grâce à la sortie des mesures de soutien face à la crise énergétique ( $-15,2 \mathrm{Md} €$ ), à la fin des dispositifs exceptionnels de relance ( $-3,0 \mathrm{Md} €$ ) et au strict respect des différentes lois de programmation sectorielles. Ils seront également atteints par la mise en œuvre de mesures d'économies identifiées dans le cadre des revues de dépenses. Cet exercice vise une plus grande efficience de la dépense publique et permettra de générer des économies sur des dispositifs ciblés.
-L'évolution des dépenses de l'État intègre les moyens nécessaires au financement de la planification écologique, avec un effort budgétaire inédit, au renforcement de I'Éducation (+3,9 Md€ par rapport à la LFI 2023), à la poursuite du réarmement des fonctions régaliennes engagé dès 2017 (+3,3 Md€ sur la mission «Défense» par rapport à la LFI 2023), dans le respect des lois de programmation, et à
-
-I'accélération du déploiement des moyens de la mission «Investir pour la France de 2030» (+1,6 Md€). Dès le budget 2024, enfin, I'objectif du plein emploi est soutenu par le lancement de France Travail et une hausse des crédits de la mission «Travail et emploi» (+1,7 Md€ par rapport à la LFI 2023).
+Ces objectifs seront atteints grâce à la sortie des mesures de soutien face à la crise énergétique (-15,2 Md€), à la fin des dispositifs exceptionnels de relance ( $-3,0 \mathrm{Md} €$ ) et au strict respect des différentes lois de programmation sectorielles. Ils seront également atteints par la mise en œuvre de mesures d'économies identifiées dans le cadre des revues de dépenses. Cet exercice vise une plus grande efficience de la dépense publique et permettra de générer des économies sur des dispositifs ciblés.
+L'évolution des dépenses de l'État intègre les moyens nécessaires au financement de la planification écologique, avec un effort budgétaire inédit, au renforcement de l'Éducation (+3,9 Md€ par rapport à la LFI 2023), à la poursuite du réarmement des fonctions régaliennes engagé dès 2017 (+3,3 Md€ sur la mission «Défense» par rapport à la LFI 2023), dans le respect des lois de programmation, et à
+l'accélération du déploiement des moyens de la mission «Investir pour la France de 2030» (+1,6 Md€). Dès le budget 2024, enfin, I'objectif du plein emploi est soutenu par le lancement de France Travail et une hausse des crédits de la mission «Travail et emploi» (+1,7 Md€ par rapport à la LFI 2023).
 Hors crédits budgétaires des ministères, les autres évolutions notables par rapport à la LFI 2023 concernent :
 
 - parmi les diminutions, le prélèvement sur recettes au profit de l'Union européenne (-3,4 Md€ par rapport à la LFI 2023) et le prélèvement sur recettes au profit des collectivités territoriales ( $-0,7 \mathrm{Md} €$ par rapport à la LFI 2023, du fait de la décroissance des seuls dispositifs exceptionnels);
-- parmi les augmentations, les dépenses des budgets annexes et comptes spéciaux ( $+3,6 \mathrm{Md} €$ par rapport à la LFI 2023), notamment en raison de la dynamique des dépenses du CAS «Pensions» ( $+3,4 \mathrm{Md} €$ ), ainsi que des taxes et recettes affectées ( $+1,6$ Md€ par rapport à la LFI 2023), notamment en raison de la dynamique des dépenses de la mission «Écologie, développement et mobilité durables » ( $+1 \mathrm{Md} €$ ) et de la mission «Travail et emploi» ( $+0,6 \mathrm{Md} €$ ), en lien avec le financement de la planification écologique et avec l'objectif de plein-emploi.
+- parmi les augmentations, les dépenses des budgets annexes et comptes spéciaux (+3,6 Md€ par rapport à la LFI 2023), notamment en raison de la dynamique des dépenses du CAS «Pensions» (+3,4 Md€), ainsi que des taxes et recettes affectées (+1,6 Md€ par rapport à la LFI 2023), notamment en raison de la dynamique des dépenses de la mission «Écologie, développement et mobilité durables » (+1 Md€) et de la mission «Travail et emploi » (+0,6 Md€), en lien avec le financement de la planification écologique et avec l'objectif de plein-emploi.
 
 Tableau 23 : Évolution des dépenses de l'État
 
@@ -1768,7 +1780,7 @@ Tableau 23 : Évolution des dépenses de l'État
 | Prélèvement au profit des collectivités territoriales | 45,6 | 44,8 |
 | Prélèvement au profit de l'Union européenne | 25,0 | 21,6 |
 | Retraitement des flux internes à l'État, dont not. T3 CAS | $-6,0$ | $-6,0$ |
-| Total Périmètre des dépenses de l'État (PDE) | 496,1 | 490,9 |
+| Total Périmètre des dépenses de l'État (PD€) | 496,1 | 490,9 |
 [93]
 # Évolution des recettes de l'État 
 
@@ -1991,7 +2003,7 @@ En 2023, le solde des administrations de sécurité sociale (ASSO) serait toujou
 En 2024, le solde des ASSO diminuerait (à $17,3 \mathrm{Md} €$ ), sous l'effet notamment, du côté des dépenses, de la dynamique des prestations vieillesse ( $+6,4 \%$ ) s'expliquant par le haut niveau de revalorisation en lien avec l'inflation 2023, et
 
 [^1]
-[^0]:    ${ }^{39}$ A champ constant, les recettes locales progresseraient de $2,8 \%$ en 2023 et de $3,5 \%$ en 2024. L'évolution des recettes locales à champ constant est calculée après retraitement de la recentralisation par l'État du financement du revenu de solidarité active (RSA) des départements expérimentateurs volontaires (l'Ariège en 2023). En outre, la rebudgétisation
+[^0]:    ${ }^{39}$ A champ constant, les recettes locales progresseraient de $2,8 \%$ en 2023 et de 3,5\% en 2024. L'évolution des recettes locales à champ constant est calculée après retraitement de la recentralisation par l'État du financement du revenu de solidarité active (RSA) des départements expérimentateurs volontaires (l'Ariège en 2023). En outre, la rebudgétisation
 
 [^1]:    progressive au sein du budget général de l'État des rémunérations des accompagnants des élèves en situation de handicap en poste dans les établissements publics locaux d'enseignement (ODAL) constitue une mesure de périmètre, en dépenses et en recettes des APUL, en 2023 et en 2024.
 [103]
@@ -2154,7 +2166,7 @@ La Commission européenne prévoit, pour 2023, un solde public légèrement sup�
 
 Cette différence sur les anticipations de recettes est partiellement compensée par les prévisions sur le ratio de dépenses publiques rapportées au PIB. Celui-ci baisserait d'1 point dans les prévisions de la Commission contre 1,8 point dans celles du Gouvernement, en raison de la baisse attendue de la dépense en volume.
 S'agissant de 2024, les prévisions de croissance de la Commission et du Gouvernement sont très proches, ce qui contribue à la proximité des prévisions de solde public.
-Les prévisions de la Commission seront mises à jour en novembre 2023. Ces prévisions couvriront les années 2023 à 2025, avec pour l'année 2024 une prise en compte des mesures présentées dans le présent PLF et pour l'année 2025 un scénario construit sur la base d'hypothèses «à politiques inchangées».
+Les prévisions de la Commission seront mises à jour en novembre 2023. Ces prévisions couvriront les années 2023 à 2025, avec pour I'année 2024 une prise en compte des mesures présentées dans le présent PLF et pour l'année 2025 un scénario construit sur la base d'hypothèses «à politiques inchangées».
 
 Tableau 32 : Comparaison de la trajectoire avec les prévisions de printemps 2023 de la Commission européenne
 
@@ -2241,7 +2253,7 @@ Programme national de maîtrise des arrêts de travail lancé par la Caisse nati
 - Mieux lutter contre les fraudes à l'international
 - Agir plus collectivement pour être plus efficaces  |
 [120]
-|  Recommandation | Sous-recommandation | Mesures | Fait | En cours/à venir  |
+|  Recommandation | Sous-recommandation | Mesures | Fait | En cours/a venir  |
 | --- | --- | --- | --- | --- |
 |   |  |  |  | - Approfondir la relation de confiance pour les usagers de bonne foi  |
 |   | Continuer d'améliorer les conditions-cadres afin de faciliter l'investissement et l'innovation | Loi $n^{\circ}$ 2022-1726 du 30 décembre 2022 de finances pour 2023
@@ -2415,7 +2427,7 @@ Généralisation de «Devoirs faits» pour tous les élèves de sixième à comp
 Revalorisation de l'allocation de rentrée scolaire en avril 2023 ( $+5,6 \%$ ). Plus de cinq millions d'enfants, entre 6 et 18 ans, bénéficient d'une allocation entre 398 et 434 euros. |   |
 |   |  | Renforcement de l'orientation des élèves | Pour les formations professionnelles, les données d'insertion et de poursuite d'études après la formation ont été mises en ligne afin d'améliorer l'information dans la phase d'orientation (plateforme InserJeunes et Insersup pour l'enseignement supérieur).
 Depuis la rentrée scolaire 2023, une activité «découverte des métiers» est généralisée à tous les collégiens de la 5 e à la 3 e. |   |
-|   |  | Soutien de l'innovation pédagogique | 3 M€ de crédits à l'appui de projets pédagogiques innovants proposés par les écoles ont été alloués dans le cadre de « Marseille en grand » pour mieux prendre en compte les besoins de chaque école/établissement. En 2023, 82 écoles soit $17 \%$ des écoles marseillaises sont engagées dans le dispositif. |   |
+|   |  | Soutien de l'innovation pédagogique | 3 M€ de crédits à l'appui de projets pédagogiques innovants proposés par les écoles ont été alloués dans le cadre de «Marseille en grand » pour mieux prendre en compte les besoins de chaque école/établissement. En 2023, 82 écoles soit $17 \%$ des écoles marseillaises sont engagées dans le dispositif. |   |
 [129]
 |  Recommandation | Sous-recommandation | Mesures | Fait | En cours/a venir  |
 | --- | --- | --- | --- | --- |
@@ -2543,7 +2555,7 @@ Pour les projets industriels d'intérêt national majeur, une procédure excepti
 |   |  |  |  | procédure dérogatoire concernera les projets de très grandes usines, qui seront identifiés par décret.  |
 |   |  | Loi $n^{\circ}$ 2023-175 du 10 mars 2023 relative à l'accélération de la production d'énergies renouvelables | Cf. supra
 La loi simplifie les procédures d'autorisation des projets d'énergies renouvelables. Il permet également de mobiliser les espaces déjà artificialisés pour le développement des énergies renouvelables. |   |
-|  CSR $n^{\circ} 4$ | Intensifier les efforts politiques visant à fournir et à acquérir les aptitudes et les compétences nécessaires à la transition écologique | Volet «Formation» du plan France 2030 | Le plan soutient l'émergence de talents et accélère l'adaptation des formations aux besoins de compétences des nouvelles filières et des métiers d'avenir. Il alloue 2,5 Md€ pour atteindre cette ambition. L'appel à manifestation d'intérêt «Compétences et Métiers d'Avenir» mobilise par exemple 700 M€ à ce titre, pour sa première vague. |   |
+|  CSR n ${ }^{\circ} 4$ | Intensifier les efforts politiques visant à fournir et à acquérir les aptitudes et les compétences nécessaires à la transition écologique | Volet «Formation» du plan France 2030 | Le plan soutient l'émergence de talents et accélère l'adaptation des formations aux besoins de compétences des nouvelles filières et des métiers d'avenir. Il alloue 2,5 Md€ pour atteindre cette ambition. L'appel à manifestation d'intérêt «Compétences et Métiers d'Avenir» mobilise par exemple 700 M€ à ce titre, pour sa première vague. |   |
 |   |  | Réforme de l'orientation |  | Cf. supra  |
 |   |  | Réforme de la formation professionnelle |  | Cf. supra  |
 |   |  | Plan de formation des agents publics à la transition écologique | Formation initiée en 2022 de l'encadrement supérieur de l'Etat aux enjeux de la transition écologique
@@ -2632,7 +2644,7 @@ Les administrations publiques, notamment l'État, versent directement des presta
 
 ## Les prélèvements sur recettes
 
-Les comptables nationaux considèrent la majorité des prélèvements sur recettes (PSR) comme des dépenses. Par exemple la «quatrième ressource» versée à l'Union européenne (UE) entre dans cette catégorie. Avec le passage au SEC 2010, le mode de comptabilisation des prélèvements sur recette au profit de l'Union européenne a été substantiellement revu: les ressources propres de l'UE basées sur la TVA et le RNB sont désormais comptabilisées à part au sein d'un nouveau code de dépense de comptabilité nationale (D76). Le montant des prélèvements obligatoires au profit de l'UE s'en trouve modifié: ceux-ci sont diminués de plus de 3 Md€ au profit de la TVA perçue par l'État et transférée à l'Union européenne au sein du nouveau code D76.
+Les comptables nationaux considèrent la majorité des prélèvements sur recettes (PSR) comme des dépenses. Par exemple la «quatrième ressource» versée à l'Union européenne (UE) entre dans cette catégorie. Avec le passage au SEC 2010, le mode de comptabilisation des prélèvements sur recette au profit de l'Union européenne a été substantiellement revu: les ressources propres de I'UE basées sur la TVA et le RNB sont désormais comptabilisées à part au sein d'un nouveau code de dépense de comptabilité nationale (D76). Le montant des prélèvements obligatoires au profit de l'UE s'en trouve modifié: ceux-ci sont diminués de plus de 3 Md€ au profit de la TVA perçue par l'État et transférée à l'Union européenne au sein du nouveau code D76.
 Ainsi, les conventions qui conduisent la comptabilité nationale à s'écarter d'une comptabilité de caisse concernent les quatre sous-secteurs composant les administrations publiques. Elles expliquent, entre autres, la différence qui existe entre le solde budgétaire de l'État et sa capacité de financement au sens de la comptabilité nationale. La liste de ces retraitements est appelée « clé de passage».
 [146]
 ## Les crédits d'impôt
@@ -3004,7 +3016,7 @@ du solde structurel correspond alors à deux termes :
 
 | Tableau 10 : Environnement international - prix à la consommation |  |  |  |  |
 | :-- | --: | --: | --: | --: |
-|  |  | 2022 | 2023 | 2024 |
+|  |  |  | 2022 | 2023 |
 | France (indice des prix à la consommation) | 5,2 | 4,9 | 2,6 |  |
 | Royaume-Uni | 9,1 | 7,6 | 3,3 |  |
 | Zone Euro | 8,4 | 5,4 | 2,9 |  |
@@ -3363,7 +3375,7 @@ Tableau 21 : Ensemble des mesures nouvelles en prélèvements obligatoires sur l
 
 Le règlement UE $n^{\circ} 473 / 2013$, partie intégrante du «two-pack» et auquel il est aussi fait référence sous le nom de « règlement Ferreira » dispose dans son article 10 paragraphe 3 :
 «En ce qui concerne les administrations publiques et leurs sous-secteurs, l'État membre présente régulièrement à la Commission et au comité économique et financier un rapport sur l'exécution budgétaire infra-annuelle, l'incidence budgétaire des mesures discrétionnaires prises du côté des dépenses comme des recettes, les objectifs en matière de dépenses et de recettes publiques, ainsi que sur les mesures adoptées et la nature de celles envisagées pour atteindre les objectifs fixés. Ce rapport est rendu public. »
-Le règlement délégué $n^{\circ} 877 / 2013$ de la Commission européenne du 27 juin 2013 a précisé le format attendu des publications ${ }^{a}$, sous la forme des tableaux présentés en annexe. Les données sous-jacentes ont été rendues publiques par les différentes administrations publiques concernées conformément à l'article $3.2^{\circ}$ de la directive 2011/85/UE du 8 novembre 2011 sur les exigences applicables aux cadres budgétaires des États membres, directive incluse dans le «six-pack».
+Le règlement délégué $n^{\circ} 877 / 2013$ de la Commission européenne du 27 juin 2013 a précisé le format attendu des publications ${ }^{6}$, sous la forme des tableaux présentés en annexe. Les données sous-jacentes ont été rendues publiques par les différentes administrations publiques concernées conformément à l'article $3.2^{\circ}$ de la directive 2011/85/UE du 8 novembre 2011 sur les exigences applicables aux cadres budgétaires des États membres, directive incluse dans le «six-pack».
 Les tableaux ci-dessous présentent les principales données disponibles, en comptabilité de caisse (Tableau 24) ou en comptabilité nationale (Tableau 25) et dont le détail est donné en annexe.
 Les données disponibles doivent être analysées avec prudence. Notamment, les données par soussecteur sont indiquées en comptabilité de caisse (sauf pour les administrations de sécurité sociale) : elles ne permettent pas de consolider le compte des administrations publiques. Enfin, l'enregistrement des dépenses et des recettes n'est pas régulier au cours de l'année. De fait, le niveau de solde atteint à un moment de l'année ne donne que des indications très partielles sur celui qui sera observé en fin d'année.
 
@@ -3443,7 +3455,7 @@ Tableau 1: Capacité (+) ou besoin (-) de financement des administrations publiq
 | 2018 | $-66,0$ | $-2,6$ | 2,7 | 11,7 | $-54,1$ |
 | 2019 | $-85,7$ | $-2,4$ | $-1,1$ | 14,5 | $-74,7$ |
 | 2020 | -179,9 | 21,0 | $-3,5$ | $-45,8$ | -208,2 |
-| 2021 | -142,5 | $-1,5$ | $-0,8$ | $-17,2$ | -162,1 |
+| 2021 | $-142,5$ | $-1,5$ | $-0,8$ | $-17,2$ | -162,1 |
 | 2022 | -149,6 | 12 | 0,8 | 10,0 | -126,8 |
 | en points de PIB |  |  |  |  |  |
 | 1982 | $-1,6$ | 0,1 | $-1,3$ | $-0,1$ | $-2,8$ |
@@ -3589,49 +3601,49 @@ Source : Insee, base 2014 des comptes nationaux, calculs DG Trésor (1) Total de
 [177]
 TABLEAUX DES FINANCES PUBLIQUES JUSQU'EN 2022 Tableau 4 : Part des prélèvements obligatoires dans le PIB (en milliards d'euros et en points de PIB)
 
-|  Année | État |  |  |  |  |  | Administrations publiques locales |  |  |  |  |  |  |  |  |  |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Taxe sur la valeur ajoutée | TICPE | Impôt sur le revenu (1) | Impôt sur les sociétés (1) | Autres (2) | Total | $\begin{gathered} \text { CET + } \ \text { IFER (3) } \end{gathered}$ | Taxes foncières | Taxe d'habitation | Autres (4) | Total | CSG (5) | Cotisations sociales (6) | Autres (7) | Total | ODAC | Union Européenne  |
-|   | Niveau en milliards d'euros (base 2014) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2020 | 113,3 | 14,2 | 74,4 | 37,0 | 44,2 | 283,2 | 23,6 | 36,6 | 10,5 | 82,9 | 153,5 | 121,4 | 333,2 | 109,6 | 564,3 | 20,5 | 5,1  |
-|  2021 | 94,2 | 17,7 | 79,8 | 45,8 | 70,4 | 307,9 | 14,3 | 35,7 | 2,5 | 110,4 | 162,8 | 131,5 | 361,7 | 120,0 | 613,3 | 18,6 | 5,6  |
-|  2022 | 102,8 | 18,0 | 89,1 | 59,8 | 70,6 | 340,3 | 16,7 | 37,6 | 2,5 | 116,3 | 173,0 | 141,8 | 387,8 | 128,8 | 658,4 | 17,6 | 7,7  |
-|  En points de PIB (base 2000) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  1992 | 6,5 | 1,5 | 4,0 | 1,3 | 2,6 | 15,9 | 1,5 | 0,9 | 0,6 | 1,9 | 5,0 | 0,6 | 18,3 | 0,4 | 19,2 | 0,4 | 0,9  |
-|  1993 | 6,5 | 1,6 | 4,0 | 1,4 | 2,4 | 15,9 | 1,4 | 1,0 | 0,7 | 2,2 | 5,2 | 0,8 | 18,5 | 0,6 | 19,8 | 0,4 | 0,8  |
-|  1994 | 7,3 | 1,9 | 3,7 | 1,8 | 1,3 | 16,0 | 1,4 | 1,0 | 0,7 | 2,2 | 5,4 | 1,2 | 18,2 | 0,7 | 20,1 | 0,4 | 0,8  |
-|  1995 | 6,8 | 1,8 | 3,6 | 1,9 | 1,9 | 15,9 | 1,4 | 1,0 | 0,7 | 2,2 | 5,4 | 1,2 | 18,1 | 0,8 | 20,2 | 0,4 | 0,8  |
-|  1996 | 7,2 | 1,8 | 3,5 | 2,0 | 2,1 | 16,7 | 1,5 | 1,1 | 0,7 | 2,3 | 5,6 | 1,2 | 18,2 | 0,9 | 20,3 | 0,6 | 0,7  |
-|  1997 | 7,2 | 1,8 | 3,2 | 2,3 | 2,3 | 16,8 | 1,5 | 1,1 | 0,7 | 2,3 | 5,7 | 1,8 | 17,6 | 0,9 | 20,3 | 0,7 | 0,7  |
-|  1998 | 7,1 | 1,8 | 3,2 | 2,4 | 2,1 | 16,7 | 1,5 | 1,1 | 0,7 | 2,3 | 5,6 | 3,9 | 15,5 | 1,0 | 20,4 | 0,7 | 0,6  |
-|  1999 | 7,2 | 1,8 | 3,4 | 2,7 | 2,4 | 17,4 | 1,4 | 1,1 | 0,7 | 2,3 | 5,5 | 4,0 | 15,7 | 1,0 | 20,7 | 0,7 | 0,6  |
-|  2000 | 6,9 | 1,7 | 3,4 | 2,6 | 2,0 | 16,5 | 1,3 | 1,1 | 0,6 | 2,2 | 5,2 | 4,1 | 15,6 | 1,5 | 21,1 | 0,7 | 0,6  |
-|  En points de PIB (base 2005) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2001 | 6,8 | 1,5 | 3,2 | 3,0 | 1,7 | 16,2 | 1,3 | 1,1 | 0,6 | 2,0 | 5,0 | 4,1 | 15,6 | 2,0 | 21,8 | 0,3 | 0,6  |
-|  2002 | 6,8 | 1,5 | 3,0 | 2,5 | 1,7 | 15,5 | 1,2 | 1,1 | 0,6 | 2,1 | 4,9 | 4,0 | 15,7 | 2,1 | 21,8 | 0,5 | 0,5  |
-|  2003 | 6,9 | 1,5 | 3,0 | 2,3 | 1,6 | 15,2 | 1,2 | 1,1 | 0,6 | 2,1 | 5,0 | 4,0 | 15,9 | 2,0 | 22,0 | 0,5 | 0,3  |
-|  2004 | 7,1 | 1,2 | 2,9 | 2,5 | 2,7 | 16,3 | 1,2 | 1,1 | 0,6 | 2,4 | 5,3 | 4,0 | 15,8 | 1,2 | 20,9 | 0,5 | 0,2  |
-|  2005 | 7,2 | 1,1 | 2,9 | 2,4 | 2,6 | 16,2 | 1,2 | 1,2 | 0,7 | 2,5 | 5,5 | 4,2 | 15,9 | 1,3 | 21,4 | 0,5 | 0,3  |
-|  2006 | 6,8 | 1,0 | 2,9 | 2,7 | 1,7 | 15,2 | 1,2 | 1,2 | 0,7 | 2,6 | 5,6 | 4,3 | 15,8 | 2,4 | 22,5 | 0,5 | 0,3  |
-|  2007 | 6,7 | 0,9 | 2,6 | 2,7 | 1,5 | 14,4 | 1,2 | 1,2 | 0,7 | 2,7 | 5,7 | 4,3 | 15,7 | 2,5 | 22,4 | 0,6 | 0,3  |
-|  2008 | 6,5 | 0,8 | 2,6 | 2,6 | 1,3 | 13,8 | 1,1 | 1,2 | 0,7 | 2,9 | 5,8 | 4,4 | 15,7 | 2,7 | 22,8 | 0,5 | 0,3  |
-|  2009 | 6,3 | 0,7 | 2,4 | 1,1 | 1,1 | 11,6 | 1,1 | 1,3 | 0,7 | 2,9 | 6,0 | 4,2 | 15,8 | 2,8 | 22,8 | 0,5 | 0,1  |
-|  En points de PIB (base 2010) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2009 | 6,3 | 0,7 | 2,4 | 1,1 | 1,1 | 11,6 | 1,1 | 1,3 | 0,7 | 2,9 | 6,0 | 4,2 | 15,8 | 2,8 | 22,8 | 0,5 | 0,1  |
-|  2010 | 6,3 | 0,7 | 2,4 | 1,7 | 2,6 | 13,6 | 0,0 | 1,3 | 0,8 | 2,4 | 4,5 | 4,2 | 15,7 | 2,7 | 22,5 | 0,6 | 0,1  |
-|  2011 | 6,3 | 0,6 | 2,5 | 2,1 | 1,4 | 12,9 | 0,8 | 1,3 | 0,8 | 2,9 | 5,8 | 4,3 | 15,8 | 3,1 | 23,2 | 0,6 | 0,1  |
-|  2012 | 6,3 | 0,6 | 2,9 | 2,0 | 1,7 | 13,6 | 0,9 | 1,4 | 0,8 | 2,8 | 5,9 | 4,4 | 16,0 | 3,2 | 23,6 | 0,6 | 0,1  |
-|  2013 | 6,2 | 0,6 | 3,2 | 2,1 | 1,9 | 14,1 | 0,9 | 1,4 | 0,8 | 2,7 | 5,9 | 4,4 | 16,3 | 3,3 | 24,0 | 0,7 | 0,1  |
-|  2014 | 6,4 | 0,6 | 3,3 | 1,7 | 1,7 | 13,6 | 0,9 | 1,4 | 0,8 | 2,7 | 6,0 | 4,4 | 16,5 | 3,4 | 24,3 | 0,7 | 0,1  |
-|  2015 | 6,4 | 0,6 | 3,2 | 1,4 | 1,8 | 13,4 | 0,9 | 1,4 | 0,8 | 2,8 | 6,1 | 4,4 | 16,3 | 3,4 | 24,1 | 0,8 | 0,1  |
-|  2016 | 6,4 | 0,7 | 3,3 | 1,4 | 2,0 | 13,7 | 1,0 | 1,5 | 0,8 | 2,9 | 6,2 | 4,4 | 16,3 | 3,4 | 24,0 | 0,5 | 0,1  |
-|  En points de PIB (base 2014) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2017 | 6,6 | 0,7 | 3,2 | 1,5 | 2,1 | 14,1 | 0,9 | 1,5 | 0,8 | 3,0 | 6,2 | 4,3 | 16,3 | 3,3 | 24,0 | 0,6 | 0,2  |
-|  2018 | 6,6 | 0,8 | 3,1 | 1,2 | 1,9 | 13,6 | 0,9 | 1,5 | 0,7 | 3,2 | 6,4 | 5,3 | 15,7 | 3,1 | 24,0 | 0,5 | 0,2  |
-|  2019 | 5,1 | 0,7 | 3,1 | 1,3 | 2,2 | 12,5 | 1,0 | 1,5 | 0,6 | 3,4 | 6,4 | 5,2 | 14,5 | 4,3 | 24,0 | 0,8 | 0,2  |
-|  2020 | 4,9 | 0,6 | 3,2 | 1,6 | 1,9 | 12,2 | 1,0 | 1,6 | 0,5 | 3,6 | 6,6 | 5,2 | 14,4 | 4,7 | 24,3 | 0,9 | 0,2  |
-|  2021 | 3,8 | 0,7 | 3,2 | 1,8 | 2,8 | 12,3 | 0,6 | 1,4 | 0,1 | 4,4 | 6,5 | 5,3 | 14,5 | 4,8 | 24,5 | 0,7 | 0,2  |
-|  2022 | 3,9 | 0,7 | 3,4 | 2,3 | 2,7 | 12,9 | 0,6 | 1,4 | 0,1 | 4,4 | 6,6 | 5,4 | 14,7 | 4,9 | 24,9 | 0,7 | 0,3  |
+|  Année | État |  |  |  |  |  | Administrations publiques locales |  |  |  |  |  |  |  |  |  |  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Taxe sur la valeur ajoutée | TICPE | Impôt sur le revenu (1) | Impôt sur les sociétés (1) | Autres (2) | Total | $\begin{gathered} \text { CET + } \ \text { IFER (3) } \end{gathered}$ | Taxes foncières | Taxe d'habitation | Autres (4) | Total | CSG (5) |  |  |  |  |  |   |
+|   |  |  |  |  |  |  |  | Niveau en milliards d'euros (base 2014) |  |  |  |  |  |  |  |  |  |   |
+|  2020 | 113,3 | 14,2 | 74,4 | 37,0 | 44,2 | 283,2 | 23,6 | 36,6 | 10,5 | 82,9 | 153,5 | 121,4 | 333,2 |  | 109,6 | 564,3 | 20,5 | 5,1  |
+|  2021 | 94,2 | 17,7 | 79,8 | 45,8 | 70,4 | 307,9 | 14,3 | 35,7 | 2,5 | 110,4 | 162,8 | 131,5 | 361,7 |  | 120,0 | 613,3 | 18,6 | 5,6  |
+|  2022 | 102,8 | 18,0 | 89,1 | 59,8 | 70,6 | 340,3 | 16,7 | 37,6 | 2,5 | 116,3 | 173,0 | 141,8 | 387,8 |  | 128,8 | 658,4 | 17,6 | 7,7  |
+|  En points de PIB (base 2000) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  1992 | 6,5 | 1,5 | 4,0 | 1,3 | 2,6 | 15,9 | 1,5 | 0,9 | 0,6 | 1,9 | 5,0 | 0,6 | 18,3 |  | 0,4 | 19,2 | 0,4 | 0,9  |
+|  1993 | 6,5 | 1,6 | 4,0 | 1,4 | 2,4 | 15,9 | 1,4 | 1,0 | 0,7 | 2,2 | 5,2 | 0,8 | 18,5 |  | 0,6 | 19,8 | 0,4 | 0,8  |
+|  1994 | 7,3 | 1,9 | 3,7 | 1,8 | 1,3 | 16,0 | 1,4 | 1,0 | 0,7 | 2,2 | 5,4 | 1,2 | 18,2 |  | 0,7 | 20,1 | 0,4 | 0,8  |
+|  1995 | 6,8 | 1,8 | 3,6 | 1,9 | 1,9 | 15,9 | 1,4 | 1,0 | 0,7 | 2,2 | 5,4 | 1,2 | 18,1 |  | 0,8 | 20,2 | 0,4 | 0,8  |
+|  1996 | 7,2 | 1,8 | 3,5 | 2,0 | 2,1 | 16,7 | 1,5 | 1,1 | 0,7 | 2,3 | 5,6 | 1,2 | 18,2 |  | 0,9 | 20,3 | 0,6 | 0,7  |
+|  1997 | 7,2 | 1,8 | 3,2 | 2,3 | 2,3 | 16,8 | 1,5 | 1,1 | 0,7 | 2,3 | 5,7 | 1,8 | 17,6 |  | 0,9 | 20,3 | 0,7 | 0,7  |
+|  1998 | 7,1 | 1,8 | 3,2 | 2,4 | 2,1 | 16,7 | 1,5 | 1,1 | 0,7 | 2,3 | 5,6 | 3,9 | 15,5 |  | 1,0 | 20,4 | 0,7 | 0,6  |
+|  1999 | 7,2 | 1,8 | 3,4 | 2,7 | 2,4 | 17,4 | 1,4 | 1,1 | 0,7 | 2,3 | 5,5 | 4,0 | 15,7 |  | 1,0 | 20,7 | 0,7 | 0,6  |
+|  2000 | 6,9 | 1,7 | 3,4 | 2,6 | 2,0 | 16,5 | 1,3 | 1,1 | 0,6 | 2,2 | 5,2 | 4,1 | 15,6 |  | 1,5 | 21,1 | 0,7 | 0,6  |
+|  En points de PIB (base 2005) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2001 | 6,8 | 1,5 | 3,2 | 3,0 | 1,7 | 16,2 | 1,3 | 1,1 | 0,6 | 2,0 | 5,0 | 4,1 | 15,6 |  | 2,0 | 21,8 | 0,3 | 0,6  |
+|  2002 | 6,8 | 1,5 | 3,0 | 2,5 | 1,7 | 15,5 | 1,2 | 1,1 | 0,6 | 2,1 | 4,9 | 4,0 | 15,7 |  | 2,1 | 21,8 | 0,5 | 0,5  |
+|  2003 | 6,9 | 1,5 | 3,0 | 2,3 | 1,6 | 15,2 | 1,2 | 1,1 | 0,6 | 2,1 | 5,0 | 4,0 | 15,9 |  | 2,0 | 22,0 | 0,5 | 0,3  |
+|  2004 | 7,1 | 1,2 | 2,9 | 2,5 | 2,7 | 16,3 | 1,2 | 1,1 | 0,6 | 2,4 | 5,3 | 4,0 | 15,8 |  | 1,2 | 20,9 | 0,5 | 0,2  |
+|  2005 | 7,2 | 1,1 | 2,9 | 2,4 | 2,6 | 16,2 | 1,2 | 1,2 | 0,7 | 2,5 | 5,5 | 4,2 | 15,9 |  | 1,3 | 21,4 | 0,5 | 0,3  |
+|  2006 | 6,8 | 1,0 | 2,9 | 2,7 | 1,7 | 15,2 | 1,2 | 1,2 | 0,7 | 2,6 | 5,6 | 4,3 | 15,8 |  | 2,4 | 22,5 | 0,5 | 0,3  |
+|  2007 | 6,7 | 0,9 | 2,6 | 2,7 | 1,5 | 14,4 | 1,2 | 1,2 | 0,7 | 2,7 | 5,7 | 4,3 | 15,7 |  | 2,5 | 22,4 | 0,6 | 0,3  |
+|  2008 | 6,5 | 0,8 | 2,6 | 2,6 | 1,3 | 13,8 | 1,1 | 1,2 | 0,7 | 2,9 | 5,8 | 4,4 | 15,7 |  | 2,7 | 22,8 | 0,5 | 0,3  |
+|  2009 | 6,3 | 0,7 | 2,4 | 1,1 | 1,1 | 11,6 | 1,1 | 1,3 | 0,7 | 2,9 | 6,0 | 4,2 | 15,8 |  | 2,8 | 22,8 | 0,5 | 0,1  |
+|  En points de PIB (base 2010) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2009 | 6,3 | 0,7 | 2,4 | 1,1 | 1,1 | 11,6 | 1,1 | 1,3 | 0,7 | 2,9 | 6,0 | 4,2 | 15,8 |  | 2,8 | 22,8 | 0,5 | 0,1  |
+|  2010 | 6,3 | 0,7 | 2,4 | 1,7 | 2,6 | 13,6 | 0,0 | 1,3 | 0,8 | 2,4 | 4,5 | 4,2 | 15,7 |  | 2,7 | 22,5 | 0,6 | 0,1  |
+|  2011 | 6,3 | 0,6 | 2,5 | 2,1 | 1,4 | 12,9 | 0,8 | 1,3 | 0,8 | 2,9 | 5,8 | 4,3 | 15,8 |  | 3,1 | 23,2 | 0,6 | 0,1  |
+|  2012 | 6,3 | 0,6 | 2,9 | 2,0 | 1,7 | 13,6 | 0,9 | 1,4 | 0,8 | 2,8 | 5,9 | 4,4 | 16,0 |  | 3,2 | 23,6 | 0,6 | 0,1  |
+|  2013 | 6,2 | 0,6 | 3,2 | 2,1 | 1,9 | 14,1 | 0,9 | 1,4 | 0,8 | 2,7 | 5,9 | 4,4 | 16,3 |  | 3,3 | 24,0 | 0,7 | 0,1  |
+|  2014 | 6,4 | 0,6 | 3,3 | 1,7 | 1,7 | 13,6 | 0,9 | 1,4 | 0,8 | 2,7 | 6,0 | 4,4 | 16,5 |  | 3,4 | 24,3 | 0,7 | 0,1  |
+|  2015 | 6,4 | 0,6 | 3,2 | 1,4 | 1,8 | 13,4 | 0,9 | 1,4 | 0,8 | 2,8 | 6,1 | 4,4 | 16,3 |  | 3,4 | 24,1 | 0,8 | 0,1  |
+|  2016 | 6,4 | 0,7 | 3,3 | 1,4 | 2,0 | 13,7 | 1,0 | 1,5 | 0,8 | 2,9 | 6,2 | 4,4 | 16,3 |  | 3,4 | 24,0 | 0,5 | 0,1  |
+|  En points de PIB (base 2014) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2017 | 6,6 | 0,7 | 3,2 | 1,5 | 2,1 | 14,1 | 0,9 | 1,5 | 0,8 | 3,0 | 6,2 | 4,3 | 16,3 |  | 3,3 | 24,0 | 0,6 | 0,2  |
+|  2018 | 6,6 | 0,8 | 3,1 | 1,2 | 1,9 | 13,6 | 0,9 | 1,5 | 0,7 | 3,2 | 6,4 | 5,3 | 15,7 |  | 3,1 | 24,0 | 0,5 | 0,2  |
+|  2019 | 5,1 | 0,7 | 3,1 | 1,3 | 2,2 | 12,5 | 1,0 | 1,5 | 0,6 | 3,4 | 6,4 | 5,2 | 14,5 |  | 4,3 | 24,0 | 0,8 | 0,2  |
+|  2020 | 4,9 | 0,6 | 3,2 | 1,6 | 1,9 | 12,2 | 1,0 | 1,6 | 0,5 | 3,6 | 6,6 | 5,2 | 14,4 |  | 4,7 | 24,3 | 0,9 | 0,2  |
+|  2021 | 3,8 | 0,7 | 3,2 | 1,8 | 2,8 | 12,3 | 0,6 | 1,4 | 0,1 | 4,4 | 6,5 | 5,3 | 14,5 |  | 4,8 | 24,5 | 0,7 | 0,2  |
+|  2022 | 3,9 | 0,7 | 3,4 | 2,3 | 2,7 | 12,9 | 0,6 | 1,4 | 0,1 | 4,4 | 6,6 | 5,4 | 14,7 |  | 4,9 | 24,9 | 0,7 | 0,3  |
 
 Source : Insee, bases 2014, 2010, 2005 et 2000 des comptes nationaux, calculs DG Trésor. (1) Déduction faite des crédits d'impôts budgétaires ; (2) Déduction faite des transferts fiscaux de l'État aux collectivités locales et à la sécurité sociale et des impôts dus non recouvrables. (3) Jusqu'en 2010, les collectivités locales percevaient la taxe professionnelle ; (4) Principalement la fiscalité indirecte locale et les transferts de recettes fiscales en provenance de l'État. (5) Y.c. rendement du prélèvement au fil de l'eau de la part en euro des contrats d'assurance-vie multi-supports ; (6) Déduction faite des cotisations dues non recouvrables ; (7) Notamment TVA transférée, taxe sur les salaires et prélèvements sur tabacs et alcools.
 [178]

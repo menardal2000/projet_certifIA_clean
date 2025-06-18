@@ -66,16 +66,17 @@ La stratégie économique conduite en France ces dernières années vise à favo
 [8]
 ![img-2.jpeg](img-2.jpeg)
 
-Source : Insee
-2. La stratégie de politique économique du Gouvernement vise à renforcer nos facteurs de compétitivité pour garantir notre souveraineté et la résilience de notre modèle économique et social
+*Source : Insee*
+
+### 2. La stratégie de politique économique du Gouvernement vise à renforcer nos facteurs de compétitivité pour garantir notre souveraineté et la résilience de notre modèle économique et social
+
 Pour faire face à la double dette budgétaire et écologique, accroître la résilience de l'économie française face aux chocs et répondre aux défis structurels persistants, la stratégie de politique économique du Gouvernement s'articule autour de cinq axes principaux :
 
-- réduire notre dette et notre déficit en garantissant la soutenabilité de nos finances publiques, ce qui implique de réduire nos dépenses publiques mais aussi d'améliorer leur qualité et leur efficacité ainsi que de renforcer la justice fiscale, sociale et environnementale ;
-- réduire la dette écologique en accélérant notre transition écologique et énergétique, pour décarboner nos moyens de production et de consommation afin de faire de la France le leader de l'économie verte en Europe ;
-- favoriser l'emploi et accroître le niveau de vie des Français, en favorisant les hausses
-de salaire au-delà du SMIC, mais aussi en poursuivant de manière mieux ciblée les efforts pour augmenter le taux d'emploi et l'insertion des personnes éloignées de l'emploi;
-- réindustrialiser le pays en renforçant notre compétitivité, l'innovation et la R\&D, et ainsi consolider et amplifier la dynamique en cours;
-- garantir l'accès à des services publics de qualité, ce qui passe par la poursuite des investissements dans l'éducation pour améliorer le capital humain et faire de notre système scolaire un outil de promotion sociale autant qu'un instrument au service de notre économie future, mais aussi dans la santé pour lutter contre les déserts médicaux et contre la pénurie de soignants.
+- *réduire notre dette et notre déficit en garantissant la soutenabilité de nos finances publiques*, ce qui implique de réduire nos dépenses publiques mais aussi d'améliorer leur qualité et leur efficacité ainsi que de renforcer la justice fiscale, sociale et environnementale ;
+- *réduire la dette écologique en accélérant notre transition écologique et énergétique*, pour décarboner nos moyens de production et de consommation afin de faire de la France le leader de l'économie verte en Europe ;
+- *favoriser l'emploi et accroître le niveau de vie des Français*, en favorisant les hausses de salaire au-delà du SMIC, mais aussi en poursuivant de manière mieux ciblée les efforts pour augmenter le taux d'emploi et l'insertion des personnes éloignées de l'emploi ;
+- *réindustrialiser le pays en renforçant notre compétitivité, l'innovation et la R&D*, et ainsi consolider et amplifier la dynamique en cours ;
+- *garantir l'accès à des services publics de qualité*, ce qui passe par la poursuite des investissements dans l'éducation pour améliorer le capital humain et faire de notre système scolaire un outil de promotion sociale autant qu'un instrument au service de notre économie future, mais aussi dans la santé pour lutter contre les déserts médicaux et contre la pénurie de soignants.
 [9]
 a) Réduire notre dette financière et garantir la soutenabilité de nos finances publiques
 Après une succession de crises qui a conduit à mobiliser le levier budgétaire à des fins contracycliques, le Gouvernement est résolu à réduire le déficit public et ainsi reconstituer des marges de manœuvre budgétaires. Ces dernières permettront de faire face aux chocs futurs et d'investir dans des domaines stratégiques pour l'avenir de l'économie française tels que l'éducation, la santé et la transition écologique. Le Gouvernement prend des mesures de redressement pour ramener le déficit à $5 \%$ du PIB en 2025, tout en préservant notre croissance et notre capacité d'investissement. L'objectif est ainsi de remettre le pays sur la bonne trajectoire pour revenir sous le plafond de $3 \%$ en 2029, dans le respect de nos engagements européens (cf. encadré $\mathbf{n}^{\circ} 1$ ).
@@ -177,7 +178,7 @@ Les efforts d'atténuation des émissions portent leurs fruits, et la France a a
 
 Les émissions de gaz à effet de serre ont diminué de $25 \%$ entre 1990 et 2022, et le rythme de baisse s'accélère. Les émissions nettes de GES ont diminué de $2,1 \%$ par an en moyenne entre 2019 et 2022, plus rapidement qu'entre 2010 et 2019 ( $1,3 \%$ par an en moyenne). En 2023, le rythme de décarbonation s'est par ailleurs accéléré selon les données du Citepa, les émissions de GES (hors puits de carbone) ayant baissé de 5,8\% (-22,8 Mt $\mathrm{CO}_{2}$ éq) par rapport à 2022 (cf. graphique $n^{\circ} 3$ ). Ce rythme, compatible avec une trajectoire de décarbonation permettant d'atteindre nos objectifs pour 2030, se poursuit en 2024 avec une baisse des émissions de 3,6\% au premier semestre 2024. Notre objectif de baisse de $50 \%$ des émissions brutes implique une baisse de $28 \%$ entre 2023 et 2030, soit $-4,5 \%$ par an.
 [16]
-Graphique n³ : Évolution des émissions brutes de gaz à effet de serre en France entre 2018 et 2023
+Graphique $n^{\circ} 3$ : Évolution des émissions brutes de gaz à effet de serre en France entre 2018 et 2023
 ![img-3.jpeg](img-3.jpeg)
 
 Source: Citepa, données Secten 2024. Champ : métropole et Outre-mer UE.
@@ -345,7 +346,7 @@ ${ }^{9}$ OCDE, Science, Technology and Innovation scoreboard
 # Encadré n6 : Déploiement du plan France 2030 
 
 France 2030 constitue une politique industrielle verticale et de transformation de l'économie par l'innovation. France 2030 est défini par deux objectifs transversaux consistant à consacrer $50 \%$ de ces dépenses à la décarbonation de l'économie, et $50 \%$ à des acteurs émergents, sans dépenses défavorables à l'environnement.
-Selon le rapport annuel $2023^{10}$ du Secrétariat général pour l'investissement, France 2030 a contribué au financement de 3650 projets pour 4200 organisations bénéficiaires à fin 2023. $56 \%$ des soutiens ont été attribués à des PME et des ETI, $16 \%$ à des grands groupes, et $19 \%$ à des organismes de recherche, collectivités et établissements publics.
+Selon le rapport annuel $2023^{10}$ du Secrétariat général pour l'investissement, France 2030 a contribué au financement de 3650 projets pour 4200 organisations bénéficiaires à fin 2023. 56 \% des soutiens ont été attribués à des PME et des ETI, $16 \%$ à des grands groupes, et $19 \%$ à des organismes de recherche, collectivités et établissements publics.
 Les crédits engagés par France 2030 soutiennent l'activité économique française, tant sur la croissance que sur l'emploi, en soutenant la compétitivité industrielle et les technologies d'avenir. Avec un budget total de plus de $54 \mathrm{Md} €$, le plan soutient le développement de compétences, avec près de 34000 nouvelles places de formation ouvertes depuis 2022. Les résultats se matérialisent également en termes d'innovation avec près de 4621 intentions de dépôts de brevets fin 2023.
 
 Le plan France 2030 complète des stratégies d'investissement sectorielles dans des secteurs stratégiques. Par exemple, Innovation Santé 2030 renforce notre capacité de recherche biomédicale, soutient l'industrialisation des produits de santé sur le territoire français et accompagne la croissance des entreprises du secteur en mobilisant plus de $7 \mathrm{Md} €$ d'ici à 2030 au travers de trois stratégies d'accélération (biothérapie et bioproduction des thérapies innovantes, santé numérique et maladies infectieuses et émergentes). De même, la deuxième phase de la Stratégie nationale pour l'intelligence artificielle consacre 1,5 Md€ sur la période 2021-2025 pour former et accélérer le potentiel de recherche et développement français dans cette révolution technologique (cf. encadré n7). Elle a notamment conduit à la création et au
@@ -505,7 +506,7 @@ L'inflation continuerait sa baisse en 2025, à $+1,8 \%$ en moyenne annuelle, et
 
 La masse salariale décélérerait très légèrement en 2025 ( $+2,8 \%$ ). L'emploi salarié marchand non agricole n'augmenterait que de $+0,1 \%$ en moyenne annuelle, reflétant un rattrapage partiel des pertes de productivité de crise, et le salaire moyen par tête ralentirait encore ( $+2,7 \%$ ), mais moins fortement que les prix.
 
-La croissance mondiale augmenterait en 2025 ( $+3,4 \%$ ). Elle retrouverait ainsi son rythme de croissance de la fin des années 2010 (+3,4 \% en moyenne 2015-2019), soutenue par l'assouplissement monétaire. La croissance serait également plus franche en zone euro ( $+1,4 \%$ ). Cette accélération de l'activité, notamment chez les principaux partenaires de la France, se traduirait par une accélération de la demande mondiale ( $+3,6 \%$ ).
+La croissance mondiale augmenterait en 2025 ( $+3,4 \%$ ). Elle retrouverait ainsi son rythme de croissance de la fin des années 2010 (+3,4\% en moyenne 2015-2019), soutenue par l'assouplissement monétaire. La croissance serait également plus franche en zone euro ( $+1,4 \%$ ). Cette accélération de l'activité, notamment chez les principaux partenaires de la France, se traduirait par une accélération de la demande mondiale ( $+3,6 \%$ ).
 
 À moyen terme, le soutien monétaire, le retour à la normale de l'inflation et un rythme d'ajustement budgétaire moindre permettraient à la croissance de dépasser son potentiel : le PIB progresserait de $+1,4 \%$ en 2026, puis $+1,5 \%$ en 2027 et 2028, année de fermeture de l'écart de production.
 
@@ -708,7 +709,7 @@ Tableau 5 : Comparaison des prévisions du projet de loi de finances et du Conse
 Par rapport au scénario économique du programme de stabilité d'avril 2024, la prévision de croissance est révisée en légère hausse pour 2024 (de $1,0 \%$ à $1,1 \%$ ), et un peu plus fortement à la baisse en 2025 (de $+1,4 \%$ à $+1,1 \%$ ).
 La révision pour l'année 2024 ( $+0,1 \mathrm{pt}$ ) traduit en particulier la prise en compte de l'effet comptable des Jeux olympiques et paralympiques sur l'activité, avec l'enregistrement par I'Insee au $3^{e}$ trimestre des ventes de billets et de droits audiovisuels. Ce traitement n'était pas connu lors de la réalisation du scénario du programme de stabilité. La révision haussière de la croissance est confortée par l'acquis de croissance pour 2024 à l'issue du $2^{\mathrm{e}}$ trimestre ( $+0,9 \%$ ). La composition de la croissance est toutefois différente : I'acquis de croissance reflète essentiellement la contribution des exportations (nette des stocks) et celle de la demande publique.
 La révision pour l'année 2025 (-0,3 pt) reflète trois éléments principaux : la croissance de la consommation et des exportations seraient atténuées par le contrecoup mécanique de
-l'effet positif des Jeux olympiques et paralympiques ; I'actualisation du diagnostic sur le niveau élevé du taux d'épargne (cf. encadré 1) conduit également à retenir une normalisation plus graduelle du comportement de consommation des ménages; enfin, l'ampleur du redressement budgétaire en 2025 est plus conséquent qu'au programme de stabilité, ce qui se traduit par une demande publique moins dynamique.
+l'effet positif des Jeux olympiques et paralympiques ; I'actualisation du diagnostic sur le niveau élevé du taux d'épargne (cf. encadré 1) conduit également à retenir une normalisation plus graduelle du comportement de consommation des ménages ; enfin, l'ampleur du redressement budgétaire en 2025 est plus conséquent qu'au programme de stabilité, ce qui se traduit par une demande publique moins dynamique.
 La prévision d'inflation est révisée à la baisse de $-0,4 \mathrm{pt}$ pour 2024 ( $+2,1 \%$ contre $+2,5 \%$ ) et en légère hausse de $+0,1 \mathrm{pt}$ pour 2025 ( $+1,8 \%$ contre $+1,7 \%$ ). La révision de 2024 reflète un moindre dynamisme des prix, notamment énergétiques et des télécommunications, au printemps et à l'été 2024. La légère révision haussière de 2025 reflète l'effet des revalorisations des tarifs de consultations médicales en décembre 2024 ainsi qu'une prise en compte sur les prix des produits manufacturés de la hausse du coût du fret maritime constaté en 2024.
 [50]
 # Autorité en charge de la production et mention du caractère indépendant des prévisions 
@@ -804,42 +805,42 @@ laquelle s'ajoute la poursuite de la baisse de la TICPE en raison de la baisse d
 
 Les hausses de recettes représentent environ un tiers de l'effort total de consolidation des comptes publics, soit un peu moins de 20 Md€. Dans le cadre du partage de l'effort, une participation au redressement collectif sera demandée aux plus grandes entreprises et aux plus hauts revenus. Il s'agira de hausses de prélèvements obligatoires ciblées et exceptionnelles d'une durée maximale de deux ans afin de ne pas pénaliser la compétitivité, l'investissement, I'emploi et donc la croissance. Ces mesures se matérialiseront notamment par une contribution différentielle applicable à certains contribuables titulaires de hauts revenus et par une contribution exceptionnelle sur les bénéfices des plus grandes entreprises. Elles seront complétées par une réduction de niches fiscales et sociales pour lutter contre les effets d'aubaine. La fiscalité doit également avoir pour but de contribuer à favoriser à la transition écologique. À cette fin, le PLF 2025 portera des mesures de verdissement de la fiscalité afin d'inciter notamment à une plus grande sobriété énergétique et à une réduction du recours aux énergies carbonées.
 [56]
-|  Total de l'effort par rapport au tendanciel (Md€) | 60,6  |
+| Total de l'effort par rapport au tendanciel (Md€) | 60,6 |
 | --- | --- |
-|  Moindres dépenses par rapport au tendanciel (Md€) | 41,3  |
-|  Moindres dépenses de l'Etat et de ses opérateurs par rapport au tendanciel | 21,5  |
-|  Modération des dépenses réalisée à l'occasion des lettres plafonds, par rapport au tendanciel | 15  |
-|  Politiques de l'emploi, dans un contexte de baisse du chômage (aides à l'apprentissage, France Compétences, contrats aidés, emplois francs) | 2,1  |
-|  Aide publique au développement (préserve une hausse de +1,8 Md€ par rapport à 2017) | 1,3  |
-|  Aides aux entreprises (lissage des engagements et des paiements France 2030, rationalisations de dispositifs) | 2,4  |
-|  Recalibrage des aides écologiques (au total les crédits de la mission Ecologie augmentent de $+2,8 \mathrm{Md} €$ ) | 1,9  |
-|  dont primes à l'achat de véhicules électriques, dans un contexte de hausse des parts de marché des véhicules électriques | 0,5  |
-|  dont MaPrimeRénov' (préserve +0,9 Md€ par rapport à 2023) | 1,0  |
-|  dont Fonds vert (niveau d'engagement de 1 Md€ en 2025) | 0,4  |
-|  Application du «dispositif ressources mensuelles » à la prime d'activité | 0,8  |
-|  Effet du schéma d'emplois (-2200 ETP) | 0,1  |
-|  Réduction de dispositifs créés pour la relance et en réponse aux crises | 0,3  |
-|  Autres efforts d'optimisation, de gains de productivité et de lissage des dépenses (modération équivalente à environ $1 \%$ des dépenses de l'Etat) | 6,1  |
-|  Mesures de modération et d'économie complémentaires sur la dépense de l'Etat (par amendement) | 5  |
-|  Mesures complémentaires de modération des dépenses des opérateurs | 1,5  |
-|  Rétablissement des comptes de la sécurité sociale | 14,8  |
-|  Mesures de freinage des dépenses sociales | 10,1  |
-|  Report au 1er juillet de l'indexation des retraites | 3,6  |
-|  Assurance-chômage | 0,4  |
-|  Freinage de la trajectoire ONDAM | 3,8  |
-|  dont maîtrise des prix des produits de santé, et des volumes | 1,4  |
-|  dont ticket modérateur | 1,1  |
-|  dont optimisations des achats à l'hôpital | 0,7  |
-|  dont indemnités journalières (baisse du plafond) | 0,6  |
-|  Réduction du déficit de la CNRACL (hausse de 4 points du taux de cotisation retraites, pour les collectivités et les hôpitaux) | 2,3  |
-|  Réduction de dépenses socio-fiscales profitant aux entreprises : | 4,7  |
-|  Reprofilage des allègements généraux (dans l'esprit du rapport Bozio-Wasmer) | 4,0  |
-|  Réduction de niches sociales | 0,7  |
-|  Modération des dépenses des collectivités locales ( $-0,2 \mathrm{pts}$ de PIB) | 5  |
-|  Mécanisme de résilience des finances locales (environ 450 collectivités concernées) | 3  |
-|  Ecrêtement de la dynamique de TVA en 2025 | 1,2  |
-|  Réduction du FCTVA | 0,8  |
-|  Part de l'effort de consolidation réalisé via un freinage des dépenses | $68 \%$  |
+| Moindres dépenses par rapport au tendanciel (Md€) | 41,3 |
+| Moindres dépenses de l'Etat et de ses opérateurs par rapport au tendanciel | 21,5 |
+| Modération des dépenses réalisée à l'occasion des lettres plafonds, par rapport au tendanciel | 15 |
+| Politiques de l'emploi, dans un contexte de baisse du chômage (aides à l'apprentissage, France Compétences, contrats aidés, emplois francs) | 2,1 |
+| Aide publique au développement (préserve une hausse de +1,8 Md€ par rapport à 2017) | 1,3 |
+| Aides aux entreprises (lissage des engagements et des paiements France 2030, rationalisations de dispositifs) | 2,4 |
+| Recalibrage des aides écologiques (au total les crédits de la mission Ecologie augmentent de $+2,8 \mathrm{Md} €$ ) | 1,9 |
+| dont primes à l'achat de véhicules électriques, dans un contexte de hausse des parts de marché des véhicules électriques | 0,5 |
+| dont MaPrimeRénov' (préserve +0,9 Md€ par rapport à 2023) | 1,0 |
+| dont Fonds vert (niveau d'engagement de 1 Md€ en 2025) | 0,4 |
+| Application du «dispositif ressources mensuelles » à la prime d'activité | 0,8 |
+| Effet du schéma d'emplois (-2200 ETP) | 0,1 |
+| Réduction de dispositifs créés pour la relance et en réponse aux crises | 0,3 |
+| Autres efforts d'optimisation, de gains de productivité et de lissage des dépenses (modération équivalente à environ $1 \%$ des dépenses de l'Etat) | 6,1 |
+| Mesures de modération et d'économie complémentaires sur la dépense de l'Etat (par amendement) | 5 |
+| Mesures complémentaires de modération des dépenses des opérateurs | 1,5 |
+| Rétablissement des comptes de la sécurité sociale | 14,8 |
+| Mesures de freinage des dépenses sociales | 10,1 |
+| Report au 1er juillet de l'indexation des retraites | 3,6 |
+| Assurance-chômage | 0,4 |
+| Freinage de la trajectoire ONDAM | 3,8 |
+| dont maîtrise des prix des produits de santé, et des volumes | 1,4 |
+| dont ticket modérateur | 1,1 |
+| dont optimisations des achats à l'hôpital | 0,7 |
+| dont indemnités journalières (baisse du plafond) | 0,6 |
+| Réduction du déficit de la CNRACL (hausse de 4 points du taux de cotisation retraites, pour les collectivités et les hôpitaux) | 2,3 |
+| Réduction de dépenses socio-fiscales profitant aux entreprises : | 4,7 |
+| Reprofilage des allègements généraux (dans l'esprit du rapport Bozio-Wasmer) | 4,0 |
+| Réduction de niches sociales | 0,7 |
+| Modération des dépenses des collectivités locales ( $-0,2 \mathrm{pts}$ de PIB) | 5 |
+| Mécanisme de résilience des finances locales (environ 450 collectivités concernées) | 3 |
+| Ecrêtement de la dynamique de TVA en 2025 | 1,2 |
+| Réduction du FCTVA | 0,8 |
+| Part de l'effort de consolidation réalisé via un freinage des dépenses | $68 \%$ |
 [57]
 | Hausses de recettes (Md€) | 19,3 |
 | :-- | :--: |

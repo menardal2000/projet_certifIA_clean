@@ -199,7 +199,7 @@ def generate_analysis(annee, input_path):
     document = LangDocument(page_content=content, metadata={"source": input_path})
     
     # Découpage du texte en chunks
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=50)
     chunks = text_splitter.split_documents([document]) 
     
     # Création de la base de données vectorielle

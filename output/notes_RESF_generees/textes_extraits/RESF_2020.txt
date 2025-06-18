@@ -37,7 +37,7 @@ PERSPECTIVES DES FINANCES PUBLIQUES. ..... 83
 Annexe : Comparaison des trajectoires des finances publiques ..... 137
 DOSSIERS THEMATIQUES ..... 141
 LES POLITIQUES POUR LA CONVERGENCE DES TERRITOIRES ..... 142
-Pacte productif 2025 : Anticiper les EVOLutions pour transformer LE TISSU PRODUCTIF FRANÇAIS ..... 164
+Pacte productif 2025 : anticiper les evolutions pour transformer LE TISSU PRODUCTIF FRANÇAIS ..... 164
 ANNEXES ..... 185
 TABLEAU DE SUIVI DES RECOMMANDATIONS DU CONSEIL ..... 187
 ANNEXE METHODOLOGIQUE ..... 215
@@ -154,7 +154,7 @@ Pour que le travail paye mieux, le Gouvernement a pris plusieurs mesures fortes 
 - Le montant maximal de la bonification individuelle de la prime d'activité a été revalorisé de manière pérenne de +90 euros en 2019. Combinée à la hausse réglementaire du SMIC de 1,5 \% au $1^{\text {er }}$ janvier, cela a conduit pour les célibataires bénéficiaires de cette prestation à une hausse des revenus mensuels de 100€ au niveau du SMIC et un décalage du point de sortie de 1,3 à 1,5 SMIC, sans coût supplémentaire pour les entreprises.
 - L'impôt sur le revenu des classes moyennes sera réduit de 5 Md€ dès le $1^{\text {er }}$ janvier 2020. Cet allégement fiscal concerne 17 millions de foyers fiscaux situés dans les deux premières tranches d'imposition, pour un gain d'environ $300 €$ en moyenne par an.
 - Le dispositif de versement volontaire d'une prime exceptionnelle exonérée d'impôts sur le revenu, de cotisations sociales salariales et patronales et de prélèvement sociaux (CSG/CRDS) dans la limite de 1000 € sera reconduit en 2020. Mise en place en fin d'année 2018 jusqu'à fin mars 2019, cette mesure avait permis de verser plus de 2 Md€ de primes à environ 5 millions de salariés. En 2020, l'exonération socio-fiscale de la prime exceptionnelle sera conditionnée à l'existence ou la mise en place par l'entreprise d'un accord d'intéressement avant le 30 juin 2020.
-- Les heures supplémentaires ou complémentaires sont exonérées de cotisations sociales et d'impôt sur le revenu depuis le $1^{\text {er }}$ janvier 2019, dans la limite de $5000 €$ par an.
+- Les heures supplémentaires ou complémentaires sont exonérées de cotisations sociales et d'impôt sur le revenu depuis le 1er janvier 2019, dans la limite de 5000 € par an.
 - Les mesures en faveur du développement de l'intéressement et de la participation contenues dans la loi PACTE permettront d'associer plus largement les salariés aux résultats de l'entreprise et de mieux en partager les bénéfices.
 - Ces mesures viennent compléter une baisse de 20 Md€ de cotisations salariales, et de plus de 2 Md€ des cotisations des travailleurs indépendants compensées par une hausse de la CSG dont l'assiette est plus large.
 
@@ -1366,8 +1366,7 @@ La croissance potentielle augmenterait légèrement à l'horizon 2022 et 2023 gr
 
 [^0]en place du prélèvement forfaitaire unique, réforme de l'impôt de solidarité sur la fortune pour renforcer les incitations à investir dans les entreprises, abaissement de l'impôt sur les sociétés) et l'innovation, réformer l'indemnisation du chômage, la formation professionnelle et l'apprentissage. Les mesures du projet de loi PACTE s'inscrivent dans cette dynamique. Les évaluations externes confirment que les réformes menées sont de nature à soutenir la croissance potentielle. L'OCDE évalue ainsi à 3,2 \% sur l'activité à horizon 10 ans l'impact des réformes entreprises par le Gouvernement.
 Le scénario de croissance potentielle du gouvernement est médian parmi ceux des organisations internationales. Celui de la Commission européenne anticipe une trajectoire entre $+1,3 \%$ en 2020 et $+0,9 \%$ en 2023, alors que le FMI prévoit $+1,5 \%$ de 2020 à 2023. En 2020, le scénario du gouvernement rejoint celui de l'OCDE, à $+1,3 \%$.
-
-L'écart de production retenu pour 2018 (-0,1 \%) est un peu inférieur aux estimations de la Commission Européenne ( $+0,4 \%$ ) et du FMI ( $+0,2 \%$ ), et un peu supérieur à celle de l'OCDE ( $-0,3 \%$ ).
+L'écart de production retenu pour 2018 ( $-0,1 \%$ ) est un peu inférieur aux estimations de la Commission Européenne ( $+0,4 \%$ ) et du FMI ( $+0,2 \%$ ), et un peu supérieur à celle de l'OCDE ( $-0,3 \%$ ).
 
 ## Le scénario de moyen-terme est celui d'une croissance proche de son rythme potentiel.
 
@@ -1485,7 +1484,7 @@ Tableau 4 : Impact sur l'économie française d'une hausse de 100 points de base
 Note de lecture : Une hausse des taux d'intérêt directeurs handicaperait l'activité en limitant l'investissement des entreprises et la profitabilité du capital, en favorisant l'épargne par rapport à la consommation.
 Les variantes des tableaux 1 à 4 sont obtenues avec le modèle Mésange 2017.
 
-# Encadré 1 : Comment utiliser les variantes pour la prévision ? 
+# Encadré 1 : Comment utiliser les variantes pour la prévision? 
 
 Les variantes présentées dans les tableaux 1 à 4 doivent être utilisées avec prudence. Premièrement, les multiplicateurs associés aux variantes dépendent des choix de modélisation retenus, si bien que leur estimation est soumise à de fortes incertitudes. Ainsi les variantes du modèle Mésange ${ }^{(a)}$ (présentées supra), utilisé pour l'évaluation de mesures de politique économique, peuvent par exemple différer de celles du modèle Opale ${ }^{(b)}$, utilisé pour la prévision macroéconomique à l'horizon 1 à 2 ans. Par exemple, l'effet sur le PIB d'une baisse du taux de change de l'euro contre toutes monnaies de $10 \%$ est moins important dans le modèle Opale ( 0,7 pt au bout de 3 ans contre 1,3 pt dans Mésange). L'effet sur le PIB d'une hausse de $10 \$$ du prix du pétrole est plus important dans Mésange que dans Opale ( $-0,2$ pt au bout de 3 ans contre $-0,1 \mathrm{pt}$ ). Les variantes de demande mondiale sont relativement proches dans les deux modèles: $1 \%$ de demande mondiale en plus entraîne un surcroît d'activité de 0,3 pt au bout de 3 ans dans Mésange comme dans Opale.
 
@@ -1668,11 +1667,7 @@ soutenir la croissance spontanée de l'IR. Grâce au prélèvement à la source,
 
 - Les prévisions d'impôts directs locaux pour 2019 se fondent principalement sur les remontées concernant l'évolution des bases et des taux de fiscalité votés. La prévision de droits de mutation à titre onéreux (DMTO), en croissance de $7 \%$ par rapport à 2018, est conforme aux remontées comptables enregistrées à l'été et avec les signaux actuels du marché de l'immobilier, avec un niveau historique des transactions et une poursuite de la hausse des prix.
 des mesures issues du Grand Débat National annoncées le 25 avril, ainsi que d'une adaptation du rythme de la consolidation rendu nécessaire par un contexte macro-économique international moins porteur.
-
-
-## La trajectoire pluriannuelle sous-jacente au PLF
-
-2020 traduit la volonté résolue de réduire significativement le déficit public. Après -2,8 \% du PIB en 2017 et -2,5 \% en 2018, le solde public s'établirait à $-3,1 \%$ en 2019 puis $-2,2 \%$ en 2020 : le déficit nominal ne dépasserait ainsi la barre des $3 \%$ que de façon temporaire, en raison de la bascule du CICE, qui occasionne un double coût de 0,8 point de PIB pour les comptes publics. Le déficit se réduirait ensuite pour atteindre -1,5 \% du PIB en 2022. Après une stabilisation en 2018, et un ressaut en 2019 lié au double coût du CICE, la dette commencerait à refluer progressivement à partir de 2020, passant de $98,8 \%$ en 2019 à $98,7 \%$ du PIB en 2020, puis $97,7 \%$ à l'horizon 2022.
+La trajectoire pluriannuelle sous-jacente au PLF 2020 traduit la volonté résolue de réduire significativement le déficit public. Après -2,8 \% du PIB en 2017 et -2,5 \% en 2018, le solde public s'établirait à $-3,1 \%$ en 2019 puis $-2,2 \%$ en 2020 : le déficit nominal ne dépasserait ainsi la barre des $3 \%$ que de façon temporaire, en raison de la bascule du CICE, qui occasionne un double coût de 0,8 point de PIB pour les comptes publics. Le déficit se réduirait ensuite pour atteindre -1,5 \% du PIB en 2022. Après une stabilisation en 2018, et un ressaut en 2019 lié au double coût du CICE, la dette commencerait à refluer progressivement à partir de 2020, passant de $98,8 \%$ en 2019 à $98,7 \%$ du PIB en 2020, puis $97,7 \%$ à l'horizon 2022.
 [93]
 L'effort de maîtrise des dépenses sera poursuivi sur toute la durée du quinquennat. Cette maîtrise de la dépense publique se traduirait par un effort en dépense de 0,4 point de PIB potentiel par an en moyenne entre 2019 et 2022. Le ratio de dépenses publiques hors crédits d'impôt diminuerait ainsi de près de trois points sur l'ensemble du quinquennat.
 La baisse des dépenses publiques permettra de financer une baisse de plus d'un point de PIB des prélèvements obligatoires entre 2017 et 2022, en faveur des ménages et des entreprises. Ainsi, les prélèvements sur les ménages connaîtront une baisse historique d'environ $27 \mathrm{Md} €$ et ceux pesant sur les entreprises d'environ $13 \mathrm{Md} €$. Depuis 2017, le Gouvernement a fait le choix de diminuer massivement les prélèvements obligatoires pour récompenser le travail, donner du pouvoir d'achat aux Français, libérer les énergies, et favoriser l'investissement productif et la croissance. La suppression intégrale de la taxe d'habitation sur la résidence principale d'ici 2023 permettra de redonner du pouvoir d'achat aux ménages. La défiscalisation et l'exonération de cotisations sociales sur les heures supplémentaires, témoignant de la volonté du Gouvernement de s'assurer que le travail paye, vont dans le même sens, tout comme la baisse de $5 \mathrm{Md} €$ de l'impôt sur le revenu annoncée en avril dernier et mise en œuvre dans le PLF 2020. De fait, l'acte 2 de la politique économique, budgétaire et fiscale du Gouvernement confirme et amplifie ce mouvement. La transformation du crédit d'impôt pour la compétitivité et l'emploi (CICE) en allègement de cotisations pérenne pour les entreprises leur redonnera des marges de manœuvre pour investir et se développer, en améliorant la transpa-
@@ -1765,13 +1760,13 @@ Sous ce jeu d'hypothèses, le déficit aurait été de 2,3 \% en 2020 à politiq
 
 * en \% du PIB nominal.
 
-Note : En 2019, en neutralisant l'impact en dépenses et en recettes de la création de France Compétences, à hauteur de 4,6 Md€, l'effort en dépense atteindrait 0,3 point de PIB tandis que la contribution des mesures nouvelles en recettes et des clés de crédit d'impôt à l'effort structurel serait de $-0,2$ point de PIB. En 2020, cet effort en dépense serait de 0,4 point tandis que les mesures nouvelles en recettes et les clés de crédit d'impôt contribueraient à hauteur de $-0,3$ point.
+Note : En 2019, en neutralisant l'impact en dépenses et en recettes de la création de France Compétences, à hauteur de 4,6 Md€, l'effort en dépense atteindrait 0,3 point de PIB tandis que la contribution des mesures nouvelles en recettes et des clés de crédit d'impôt à l'effort structurel serait de -0,2 point de PIB. En 2020, cet effort en dépense serait de 0,4 point tandis que les mesures nouvelles en recettes et les clés de crédit d'impôt contribueraient à hauteur de -0,3 point.
 
 ## Solde structurel
 
 Les règles budgétaires européennes (dont le Traité sur la stabilité, la coordination et la gouvernance), transcrites en droit français dans la loi organique du 17 décembre 2012, ont pour but de fixer des objectifs d'évolution des finances publiques exprimés en termes de solde structurel, indépendants donc des effets de la conjoncture et des mesures ponctuelles et temporaires.
-En 2019 et 2020, la croissance de l'activité serait respectivement de $1,4 \%$ et $1,3 \%$ en volume, soit légèrement supérieure à son potentiel ces deux années ( $11 / 4 \%$ ) tel que défini dans la loi de programmation des finances publiques 2018-2022, entraînant une légère amélioration du solde conjoncturel qui passerait de 0,0 \% en 2018 et 2019 à $0,1 \%$ en 2020. Pour assurer la soutenabilité des finances publiques et retrouver des marges de manœuvre,
-la stratégie de redressement des finances publiques vise à réduire le déficit structurel, qui a diminué entre 2017 et 2018 ( $-0,1$ point de PIB) et qui continuerait à diminuer en 2019 (une nouvelle fois $-0,1$ point de PIB) et se stabiliserait en 2020.
+En 2019 et 2020, la croissance de l'activité serait respectivement de $1,4 \%$ et $1,3 \%$ en volume, soit légèrement supérieure à son potentiel ces deux années ( $11 / 4 \%$ ) tel que défini dans la loi de programmation des finances publiques 2018-2022, entraînant une légère amélioration du solde conjoncturel qui passerait de 0,0 \% en 2018 et 2019 à 0,1 \% en 2020. Pour assurer la soutenabilité des finances publiques et retrouver des marges de manœuvre,
+la stratégie de redressement des finances publiques vise à réduire le déficit structurel, qui a diminué entre 2017 et 2018 (-0,1 point de PIB) et qui continuerait à diminuer en 2019 (une nouvelle fois $-0,1$ point de PIB) et se stabiliserait en 2020.
 En 2019, le solde public atteindrait $-3,1 \%$, contre $-2,5 \%$ en 2018, principalement en raison de la transformation du CICE, comptabilisée en mesure ponctuelle et temporaire. Sans cette transformation, il serait amélioré de 0,8 point de PIB. L'ajustement structurel de $+0,1$ point serait porté intégralement par un effort en dépense de $+0,3$ point une fois neutralisé l'impact de la création de France Compétences. L'atteinte de cet objectif de solde suppose l'abaissement de 1,5 milliard d'euros de la norme de dépenses pilotables de l'Etat, au-delà du
 [98]
 financement des dépassements identifiés en exécution. A l'inverse, côté recettes, les mesures nouvelles en prélèvements obligatoires ${ }^{39}$ pèseraient sur l'ajustement à hauteur de -0,2 point. Les facteurs non discrétionnaires en recettes ne contribueraient pas à l'évolution du solde, compte tenu d'une progression spontanée des prélèvements obligatoires en ligne avec l'activité, et d'une quasi stabilité du ratio de recettes hors prélèvements obligatoires notamment en lien avec des recettes exceptionnelles permettant de contrer le mouvement de baisse observé ces dernières années ${ }^{40}$.
@@ -1779,11 +1774,11 @@ En 2020, le solde effectif s'améliorerait nettement pour atteindre - $2,2 \%$ d
 la décrue des prélèvements obligatoires, dont les mesures nouvelles conduisent à réduire l'effort structurel de -0,3 point ${ }^{41}$. L'ajustement structurel serait légèrement pénalisé (-0,1 point) par la composante non discrétionnaire des recettes, du fait du faible dynamisme des recettes hors prélèvements obligatoires par rapport à l'activité.
 L'absence d'ajustement structurel en 2020 s'explique à la fois par l'ampleur de la réponse apportée par le Gouvernement à l'urgence sociale ainsi que par un contexte économique moins porteur. Sa conformité avec les règles budgétaires européennes implique que soient également prises en considération les réformes structurelles mises en œuvre par la France depuis le début du quinquennat et celles qui le seront dans les prochaines années.
 
-[^0]${ }^{40}$ Amendes et contentieux notamment.
-${ }^{41}$ En tenant compte de l'évolution du décalage comptable du à la quasi-disparition des créances de CICE en comptabilité nationale à partir de 2020 et une diminution plus progressive des décaissements effectifs.
-
-
+[^0][^1]
 [^0]:    ${ }^{39}$ En tenant compte de l'évolution du décalage comptable s'agissant des crédits d'impôt, qui pèsent davantage sur les prélèvements obligatoires que le niveau du solde public en 2019, année de passage de la créance d'un taux de $7 \%$ sur les salaires 2017 à $6 \%$ sur les salaires 2019.
+
+[^1]:    ${ }^{40}$ Amendes et contentieux notamment.
+    ${ }^{41}$ En tenant compte de l'évolution du décalage comptable du à la quasi-disparition des créances de CICE en comptabilité nationale à partir de 2020 et une diminution plus progressive des décaissements effectifs.
 [99]
 # Encadré 3 : Les mesures ponctuelles et temporaires prises en compte dans l'évaluation du solde structurel 
 
@@ -2191,7 +2186,7 @@ Les recettes budgétaires nettes de TVA de l'État diminueraient de 17,6 \% en 2
 
 ASSO. La croissance spontanée des recettes budgétaires de TVA s'établirait à $3,1 \%$ en ligne avec l'évolution des «emplois taxables».
 En 2020, les recettes budgétaires nettes de TVA reculeraient de 2,4 \% à 126,1 Md€, en raison de la poursuite de la compensation aux ASSO. La croissance spontanée à $2,9 \%$ serait en ligne avec la croissance des «emplois taxables». Les mesures nouvelles hors transfert contribueraient à la baisse, avec notamment en 2020 la fin du report des opérations passées soumises au taux réduit de TVA pour les bailleurs sociaux.
-En 2019, les recettes de la taxe intérieure de consommation sur les produits énergétiques (TICPE) brute pour l'État s'établirait à 13,1 Md€, en baisse de 0,6 Md€ par rapport à 2018. Les recettes de TICPE sont tout d'abord affectées par l'annulation des hausses de fiscalité énergétique en LFI 2019. En outre, les mesures nouvelles de transfert vers le CAS transition énergétique, l'AFTIF et les collectivités territoriales diminuent la part État de la TICPE. La croissance spontanée s'élèverait à 0,4\%.
+En 2019, les recettes de la taxe intérieure de consommation sur les produits énergétiques (TICPE) brute pour l'État s'établirait à 13,1 Md€, en baisse de 0,6 Md€ par rapport à 2018. Les recettes de TICPE sont tout d'abord affectées par l'annulation des hausses de fiscalité énergétique en LFI 2019. En outre, les mesures nouvelles de transfert vers le CAS transition énergétique, l'AFTIF et les collectivités territoriales diminuent la part État de la TICPE. La croissance spontanée s'élèverait à 0,4 \%.
 En 2020, les recettes de la TICPE brute de l'État seraient de 14,5 Md€, soit une hausse de 1,5 Md€ par rapport à 2019. La TICPE brute totale augmenterait uniquement du fait de la suppression progressive du taux réduit pour certains usages du gazole non-routier ( $+0,2 \mathrm{Md} €$ ), tandis que l'annulation des hausses de fiscalité énergétique en LFI 2019 continuerait de peser sur la prévision de recettes. La part de TICPE de l'État augmenterait également en raison de mesures de transfert (dont +1 Md€ dû à des moindres dépenses du CAS transition énergétique, et $+0,4 \mathrm{Md} €$ lié à la recentralisation du RSA de la Réunion).
 Les autres recettes fiscales nettes (autres RFN) constituent un ensemble hétérogène. Elles sont composées i) de recettes brutes pour 61,6 Md€ en 2019, dont les droits de donations et de successions, l'impôt sur la fortune immobilière ou les taxes intérieures de consommation hors TICPE, ii) nettes des remboursements et dégrèvements, à hauteur de 30,2 Md€ qui représentent notamment les contentieux fiscaux, les admissions en non-valeur ou les remboursements et dégrèvements d'impôts locaux.
 [117]
@@ -2218,8 +2213,8 @@ La baisse du produit des autres amendes et condamnations pécuniaires ( $-0,5 \m
 
 En 2020, le solde des comptes spéciaux s'établirait à $0,0 \mathrm{Md} €$, en baisse de $2,2 \mathrm{Md} €$ par rapport à la prévision révisée pour 2019. Cette révision résulte de :
 
-- la dégradation des soldes du compte «prêts aux États étrangers » ( $-0,4 \mathrm{Md} €$ par rapport à la prévision révisée pour 2019) avec la réalisation en 2020 de certaines opérations de prêt initialement prévues en 2019, du «compte d'avance aux collectivités territoriales» ( $-0,4 \mathrm{Md} €$ ), du compte «prêts à des organismes privés» $(-0,3 \mathrm{Md} €$ ), du compte «avances à divers services publics » ( $-0,4 \mathrm{Md} €$ );
-- en outre, le solde des comptes d'affectation spéciale se dégraderait également de 0,8 Md€ sous l'effet du contrecoup ( $-0,3 \mathrm{Md} €$ ) de la cession immobilière exceptionnelle de 2019 ainsi que de la rebudgétisation du compte «Aides à l'acquisition de véhicules propres » ( $-0,3 \mathrm{Md} €$ ).
+- la dégradation des soldes du compte « prêts aux États étrangers » ( $-0,4 \mathrm{Md} €$ par rapport à la prévision révisée pour 2019) avec la réalisation en 2020 de certaines opérations de prêt initialement prévues en 2019, du « compte d'avance aux collectivités territoriales» ( $-0,4 \mathrm{Md} €$ ), du compte «prêts à des organismes privés» $(-0,3 \mathrm{Md} €$ ), du compte «avances à divers services publics » ( $-0,4 \mathrm{Md} €$ );
+- en outre, le solde des comptes d'affectation spéciale se dégraderait également de 0,8 Md€ sous l'effet du contrecoup ( $-0,3 \mathrm{Md} €$ ) de la cession immobilière exceptionnelle de 2019 ainsi que de la rebudgétisation du compte « Aides à l'acquisition de véhicules propres » ( $-0,3 \mathrm{Md} €$ ).
 [118]
 # Encadré 8 : Passage du solde budgétaire au solde en comptabilité nationale 
 
@@ -2267,14 +2262,14 @@ Tableau 22 : Solde des ODAC (y compris investissements d'avenir)
 
 ## Dépenses des ODAC
 
-Les dépenses des ODAC seraient en hausse de 8,3 Md€ entre 2018 et 2019. Cette augmentation est en grande partie liée à la création de France compétences qui devrait probablement être classée par l'Insee au sein du périmètre des ODAC. Le Gouvernement a fait le choix d'anticiper ce traitement dès le PLF 2019. Celle-ci affecte symétriquement les recettes et dépenses du sous-secteur en niveau pour 6,1 Md€ en 2019 (dont PIC) et 9,4 Md€ en 2020. A champ constant, les dépenses augmenteraient de $+2,2 \mathrm{Md} €$, et les principales contributions seraient :
+Les dépenses des ODAC seraient en hausse de 8,3 Md€ entre 2018 et 2019. Cette augmentation est en grande partie liée à la création de France compétences qui devrait probablement être classée par l'Insee au sein du périmètre des ODAC. Le Gouvernement a fait le choix d'anticiper ce traitement dès le PLF 2019. Celle-ci affecte symétriquement les recettes et dépenses du sous-secteur en niveau pour 6,1 Md€ en 2019 (dont PIC) et 9,4 Md€ en 2020. A champ constant, les dépenses augmenteraient de $+2,2 \mathrm{Md} €$, et les principales contributions seraient:
 
 - une augmentation des dépenses des établissements publics de recherche pour $+0,6 \mathrm{Md} €$;
 - la hausse des dépenses du FGTI ( $+0,4 \mathrm{Md} €$ ), liée notamment à l'allongement de la durée moyenne des dossiers d'indemnisation des victimes et à la hausse des recours corporels graves ;
 - une hausse des dépenses de l'Agence de financement des infrastructures de transport de France (AFITF) ( $+0,2 \mathrm{Md} €$ ) ;
 [120]
 - les premières dépenses enregistrées par la société de projet Charles-de-Gaule Express (CDG-X) du fait du lancement des travaux pour un total de 0,3 Md€ (aucune dépense n'avait été enregistrée au compte provisoire 2018);
-- de façon similaire, les premiers décaissements du FII ( $+0,2 \mathrm{Md} €$ ), crée en 2018, apparaîtraient en 2019 à recettes constantes ;
+- de façon similaire, les premiers décaissements du FII (+0,2 Md€), crée en 2018, apparaîtraient en 2019 à recettes constantes ;
 - une augmentation des dépenses d'intervention de l'agence nationale pour l'amélioration de l'habitat (ANAH) de 0,1 Md€ reflétant notamment le lancement du programme « Initiatives copropriétés»;
 - 0,3 Md€ de décaissements supplémentaires au titre des programmes investissements
 
@@ -2292,7 +2287,7 @@ d'avenir, en raison notamment de la montée en charge du troisième volet des PI
 
 Entre 2019 et 2020, les dépenses des ODAC progresseraient de 0,7 Md€ à champ constant, c'est-àdire hors France compétences. Cette hausse serait principalement imputable aux évolutions suivantes:
 
-- une nouvelle augmentation des financements prévus par l'AFITF en 2020 ( $+0,5 \mathrm{Md} €$ ) conformément à la trajectoire retenue lors du projet de loi d'orientation des mobilités (LOM) ;
+- une nouvelle augmentation des financements prévus par l'AFITF en 2020 (+0,5 Md€) conformément à la trajectoire retenue lors du projet de loi d'orientation des mobilités (LOM) ;
 - la rebudgétisation du crédit d'impôt transition énergétique (CITE) et sa transformation en prime forfaitaire aux ménages modestes, versée par l'ANAH ( $+0,4 \mathrm{Md} €$ );
 - une nouvelle hausse ( $+0,2 \mathrm{Md} €$ ) des crédits liés au PIA 3.
 création de France compétences, serait de $+2,5 \mathrm{Md} €$ dont $+0,9 \mathrm{Md} €$ de hausse des recettes associées aux PIA (PIA 3 essentiellement) et $+1,6 \mathrm{Md} €$ imputables aux recettes hors IA:
@@ -2319,11 +2314,13 @@ Les dépenses d'investissement progresseraient en 2019 et en 2020 conformément 
 
 [^0]:    $44+0,7 \%$ au sens de la comptabilité nationale, $+0,2 \%$ en comptabilité générale, sur le champ des seuls budgets principaux des
 [122]
-# Tableau 23 : Dépenses des administrations publiques locales 
+# PERSPECTIVES DE FINANCES PUBLIQUES 
+
+Tableau 23 : Dépenses des administrations publiques locales
 
 |  | Niveaux 2018 |  | Évolution |  |  |
 | :-- | :--: | :--: | :--: | :--: | :--: |
-|  | Md€ | $\%$ | $\mathbf{2 0 1 8}$ | $\mathbf{2 0 1 9}$ | $\mathbf{2 0 2 0}$ |
+|  | Md€ | $\%$ | 2018 | 2019 | 2020 |
 | Total dépenses | 260,4 | $100 \%$ | $2,4 \%$ | $3,2 \%$ | $0,5 \%$ |
 | Dépenses hors investissement* | 203,3 | $78 \%$ | $1,0 \%$ | $1,5 \%$ | $0,7 \%$ |
 | dont consommations intermédiaires hors SIFIM | 49,2 | $19 \%$ | $2,0 \%$ | $2,6 \%$ | $1,3 \%$ |
@@ -2400,7 +2397,7 @@ Les pensions de retraite accélèreraient ( $+2,8 \%$ après $+2,5 \%$ ). En eff
 pour les autres prestations), tandis que dans le même temps, les pensions complémentaires retrouveraient une indexation à l'inflation après plusieurs années de moindre revalorisation (suite aux accords conventionnels de 2013 et 2015).
 A l'inverse, dans le cadre de la réforme engagée par le Gouvernement, des efforts d'économies substantiels interviendraient dans le champ de l'assurance chômage en parallèle de la mise en place de l'universalisation de celle-ci (cf. infra : encadré sur la situation financière de l'assurance chômage). Ainsi, les prestations chômage diminueraient de
 $4,3 \%$ par rapport à 2019, en lien par ailleurs avec l'amélioration du marché du travail.
-Pour 2020, le taux de progression de l'Ondam est fixé par le Gouvernement à 2,3 \% (après 2,5 \% en 2019 et 2,3 \% en LFSS 2018) conformément à la trajectoire fixée dans la loi de programmation des finances publiques. Cette évolution supposerait la réalisation d'un quantum d'économies de l'ordre de 4,2 Md€ documentées par le Gouvernement et permettra notamment de financer le plan en faveur des urgences hospitalières annoncé le 16 septembre 2019.
+Pour 2020, le taux de progression de l'Ondam est fixé par le Gouvernement à $2,3 \%$ (après $2,5 \%$ en 2019 et $2,3 \%$ en LFSS 2018) conformément à la trajectoire fixée dans la loi de programmation des finances publiques. Cette évolution supposerait la réalisation d'un quantum d'économies de l'ordre de 4,2 Md€ documentées par le Gouvernement et permettra notamment de financer le plan en faveur des urgences hospitalières annoncé le 16 septembre 2019.
 
 # Encadré 11 : Ondam 2020, les économies pour maîtriser la progression à 2,3 \% 
 
@@ -2435,7 +2432,6 @@ Tableau 25 : Économies attendues en 2020
 | Contrôle et lutte contre la fraude | 90 |
 | Lutte contre la fraude et dispositifs de contrôle associés | 90 |
 | Gestion dynamique du panier de soins remboursé | 205 |
-|  |  |
 | Total Ondam | 4185 |
 
 # Recettes des ASSO 
@@ -2449,9 +2445,9 @@ En 2020, les recettes des ASSO accéléreraient légèrement ( $+2,6 \%$ après 
 
 Conformément aux orientations du programme présidentiel, à compter de 2019, le crédit d'impôt pour la compétitivité et l'emploi (CICE) ainsi que le crédit d'impôt sur la taxe sur les salaires (CITS) sont transformés en baisse de cotisations sociales pérenne pour les entreprises, améliorant de fait la lisibilité et l'efficacité de la mesure. En outre, afin d'encourager encore davantage l'embauche de nouveaux salariés, le dispositif des allègements généraux est renforcé. Au niveau du Smic, les cotisations et contributions sociales acquittées par les entreprises sont désormais totalement exonérées. Cette transformation et ce renforcement se produisent en deux temps :
 
-- Depuis le 1er janvier, un allègement permanent de cotisations d'assurance maladie de 6 points est entré en vigueur pour les rémunérations inférieures à 2,5 Smic pour se substituer au CICE et au CITS.
+- Depuis le $1^{\text {er }}$ janvier, un allègement permanent de cotisations d'assurance maladie de 6 points est entré en vigueur pour les rémunérations inférieures à 2,5 Smic pour se substituer au CICE et au CITS.
 - Ce nouvel allègement venant réduire les allègements ciblés jusqu'à 1,6 Smic existant auparavant, une exonération dégressive entre 1 et 1,6 Smic des cotisations de retraite complémentaire est venu le compenser.
-- Au 1er octobre, un renforcement supplémentaire de 4 points des allègements généraux entre 1 et 1,6 Smic est instauré. Il porte sur les cotisations patronales d'assurance-chômage et de retraite complémentaire. En 2019, les entreprises cumulent en comptabilité nationale le bénéfice de ces deux mesures avec le CICE versé au titre de l'année 2018, profitant ainsi d'un apport de trésorerie sans précédent à hauteur d'un peu plus de $20 \mathrm{Md} €$.
+- Au $1^{\text {er }}$ octobre, un renforcement supplémentaire de 4 points des allègements généraux entre 1 et 1,6 Smic est instauré. Il porte sur les cotisations patronales d'assurance-chômage et de retraite complémentaire. En 2019, les entreprises cumulent en comptabilité nationale le bénéfice de ces deux mesures avec le CICE versé au titre de l'année 2018, profitant ainsi d'un apport de trésorerie sans précédent à hauteur d'un peu plus de $20 \mathrm{Md} €$.
 [127]
 | Tableau 26 : Solde, recettes et dépenses des administrations de sécurité sociale (ASSO) |  |  |
 | :-- | --: | --: |
@@ -2649,6 +2645,7 @@ Dans ses prévisions de printemps publiées le 7 mai 2019, la Commission europé
 Pour 2019, les prévisions de la Commission étaient en ligne avec celles finalement retenues par le gouvernement pour le PLF 2020 (déficit anticipé à 3,1 \% du PIB). Elles tenaient évidemment compte de la transformation du CICE en allégement pérenne de cotisations, mais également des mesures d'urgence économiques et sociales annoncées fin 2018.
 
 [^0]Pour 2020, le déficit nominal prévu par la Commission serait identique à celui prévu dans ce PLF. La Commission utilise de manière conventionnelle pour ses prévisions à cet horizon une hypothèse dite «à politiques inchangées » qui ne tient compte que des mesures votées dans les lois financières au moment où la prévision est faite. En particulier, ces prévisions n'incluaient pas les mesures annoncées par le Président de la République fin avril, à commencer par la baisse de 5 Md de l'IR. Elles ne tiennent pas non plus compte des dispositions prévues dans le présent PLF pour 2020, notamment concernant l'important effort en dépense. Pour rappel, la prévision de déficit à politiques inchangées présentée dans le présent rapport pour 2020 est de $2,3 \%$, proche de celle retenue par la Commission.
+
 Les prévisions de la Commission seront mises à jour en novembre 2019. Ces prévisions couvriront les années 2019 à 2021, l'année 2020 s'appuyant sur les mesures présentées dans le présent PLF et l'année 2021 étant construite sur la base d'hypothèses «à politiques inchangées».
 
 [^1]
@@ -2676,7 +2673,7 @@ thématiques
 [142]
 # Les politiques pour la convergence des territoires 
 
-Le terme de « territoires » peut recouvrir des unités géographiques, économiques ou institutionnelles différentes (nouvelles ou anciennes régions, départements, zones d'emploi, communes ou $\mathrm{EPCI}^{54}$, quartiers...). La représentation des écarts entre territoires dépend des unités territoriales observées, des caractéristiques observées, de la façon dont les inégalités sont mesurées.
+Le terme de «territoires » peut recouvrir des unités géographiques, économiques ou institutionnelles différentes (nouvelles ou anciennes régions, départements, zones d'emploi, communes ou EPCI ${ }^{54}$, quartiers...). La représentation des écarts entre territoires dépend des unités territoriales observées, des caractéristiques observées, de la façon dont les inégalités sont mesurées.
 Au sein d'un pays, les inégalités économiques entre territoires sont souvent issues de trajectoires différenciées liés à une histoire et à une géographie diverses. Ces inégalités sont par ailleurs plus faibles en France que dans les pays comparables. Pour autant, s'en remettre au laisser-faire face à des situations et des dynamiques territoriales préoccupantes serait inéquitable et inefficace :
 
 - Les inégalités territoriales sont l'une des expressions des inégalités de revenu et de qualité de vie entre les individus. Leur creusement risque d'alimenter un sentiment d'éloignement de la communauté nationale. Il peut aussi signaler une inadéquation des politiques menées ou une inefficacité de longue date au niveau national ou territorial de notre système de redistribution.
@@ -3020,7 +3017,7 @@ b) Part des foyers totalement exonérés de TH
 ![img-31.jpeg](img-31.jpeg)
 
 Source : DGFiP, base de données TH communale, retraitement DG Trésor
-Note de lecture: La zone d'emploi de Perpignan avec un gain moyen de pouvoir d'achat de 2,4 \% et 84,4 \% des foyers exonérés, fait partie des $25 \%$ des zones d'emploi ayant les gains moyens les plus élevés (carte de gauche, en bleu foncé) et des $50 \%$ des zones d'emploi ayant le plus fort taux de foyers exonérés de TH en 2020 (carte de droite).
+Note de lecture: La zone d'emploi de Perpignan avec un gain moyen de pouvoir d'achat de 2,4\% et 84,4\% des foyers exonérés, fait partie des $25 \%$ des zones d'emploi ayant les gains moyens les plus élevés (carte de gauche, en bleu foncé) et des $50 \%$ des zones d'emploi ayant le plus fort taux de foyers exonérés de TH en 2020 (carte de droite).
 Données non disponibles : Les valeurs manquantes correspondent aux communes ayant fusionnées.
 Les zones d'emploi qui gagnent le plus au dégrèvement de la TH, sont les suivantes :
 
@@ -3108,7 +3105,7 @@ Entre 2006 et 2016, l'emploi a évolué favorablement dans l'ensemble des servic
 [^0]électroniques). Les évolutions contrastées de l'emploi industriel et des services marchands ont en outre une forte incidence territoriale (cf. Dossier RESF «les politiques pour la convergence des territoires»). Cependant, depuis 2017, l'économie française crée de nouveau des emplois industriels. Cette mutation du secteur productif tend à se renforcer mutuellement avec le processus de tertiarisation de l'économie engagé à partir du milieu des années 1970 en France comme dans la plupart des économies avancées. Cette évolution structurelle en faveur des secteurs où les gains de productivité
 
 
-[^0]:    102 Les autres matériels de transports sont les matériels de transports hors automobiles ; ils sont majoritairement composés de l'activité aéronautique.
+[^0]:    102 Les autres matériels de transports sont les matériels de transports hors automobiles; ils sont majoritairement composés de l'activité aéronautique.
 [166]
 sont plus faibles a pu contribuer au ralentissement de la productivité.
 (ii) Une productivité élevée, mais qui ralentit en France, comme dans les autres économies avancées depuis la fin des années 1990
@@ -3261,7 +3258,7 @@ En comparaison internationale, la proportion des diplômés de l'enseignement su
 [^0]:    ${ }^{114}$ Les chiffres mentionnés dans ce paragraphe proviennent des données publiées par Eurostat.
 [176]
 comme les services financiers peut être mis en regard avec la perte de vitesse de l'industrie en France : si l'industrie peut être moins attractive en raison d'une compétitivité moindre, une raréfaction de l'emploi spécialisé est de nature à amplifier encore ce mouvement de décrochage industriel, en obérant sa capacité à gagner en productivité et innover.
-Pour répondre aux problèmes de compétences identifiés, la stratégie du gouvernement promeut à la fois un renforcement de la formation initiale, mais aussi le développement des compétences tout au long de la vie, afin de faciliter l'insertion de tous sur le marché du travail, et de répondre aux besoins des secteurs en tension, lesquels évoluent au cours du temps (voir partie « Stratégie de politique économique de la France »).
+Pour répondre aux problèmes de compétences identifiés, la stratégie du gouvernement promeut à la fois un renforcement de la formation initiale, mais aussi le développement des compétences tout au long de la vie, afin de faciliter l'insertion de tous sur le marché du travail, et de répondre aux besoins des secteurs en tension, lesquels évoluent au cours du temps (voir partie «Stratégie de politique économique de la France »).
 (vi) Une simplification de l'environnement des affaires à poursuivre
 La simplification administrative est une priorité de l'action gouvernementale, dans le prolongement de la loi pour la croissance, l'activité et l'égalité des chances économiques. La loi pour un État au Service d'une Société de Confiance (ESSOC) et la loi PACTE ont mis en place de nombreuses mesures visant l'allègement des charges administratives pour la création d'entreprises et pour la vie des ETI/PME. En particulier, les obligations liées aux seuils d'effectifs ont été allégées, et les délais et coûts des liquidations judiciaires réduits.
 Malgré les efforts déjà réalisés, les indicateurs agrégés de régulation des marchés des biens et services ${ }^{115}$ témoignent d'un niveau de réglementation relativement élevé en France par rapport aux autres pays de l'UE. Le Global Competitiveness Report 2018 du Forum Économique Mondial place la France $17^{\text {ème }}$ sur 140 en matière de compétitivité et d'environnement des affaires (Allemagne $3^{\text {ème }}$ ) et en particulier $107^{\text {ème }}$ concernant le critère «charges administratives» (Allemagne $7^{\text {ème }}$ ). Par ailleurs, le niveau global de l'indicateur «Product
@@ -3524,7 +3521,7 @@ ploiement sur 2019-2022 : |
 |  |  | tis | relles voie scolaire/apprentissage; |
 |  |  | Simplification du recours à l'apprentis- | - développement de campus d'excellence avec la |
 |  |  | sage pour les employeurs : facilitation | publication le 13 décembre 2018 du programme |
-|  |  | des ruptures de contrat; possibilité de | investissement d'avenir PIA 3 « Territoires d'inno- |
+|  |  | des ruptures de contrat; possibilité de | investissement d'avenir PIA 3 «Territoires d'inno- |
 |  |  | créer son propre CFA avec des dé- | vation pédagogique » et à la même date du ca- |
 |  |  | marches simplifiées ; création d'une | hier des charges du label avec deux catégories : |
 |  |  | aide unique pour les entreprises de | la catégorie «campus des métiers et des qualifi- |
@@ -3620,6 +3617,12 @@ Le 5 mars 2019, le Premier ministre a annoncé une série de nouvelles mesures v
 - Auto-écoles : Un comparateur en ligne permettra de faire la transparence sur les offres des établissements de la conduite : il informera notamment du taux de réussite, du coût-de la formation et des prestations proposées. Parallèlement, un
 [213]
 |  |  | - **Ouverture des commerces** : La loi du 6 août 2015 susmentionnée a libéralisé l'ouverture des commerces de détail le dimanche, notamment dans les zones touristiques et zones touristiques internationales. Dans les zones touristiques internationales à Paris, le taux d'ouverture dominicale est passé de 17,6 % en septembre 2015 à 32,3 % en février 2018 (+83,5 %). Transport routier de voyageurs : La loi du 6 août 2015 susmentionnée a ouvert à la concurrence le transport intérieur par autocar. À fin 2018, le secteur qui emploie désormais 2500 personnes équivalent temps plein a généré un chiffre d'affaires de 130 M€ (+24 % par rapport à 2017). En 2018, 8,9 millions de passagers ont emprunté ce mode de transport (+26 % par rapport à 2017). Rappel : L'ordonnance n° 2018-361 du 16 mai 2018 relative à la distribution d'assurance et ses décrets d'application ayant transposé la directive 2016/97 du 20 janvier 2016 sur la distribution d'assurances favorisent une meilleure concurrence des pratiques commerciales. |  |  |  |  |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  |  |  |  |  | contrat-type sera rendu obligatoire : visant une meilleure information du consommateur et une plus grande sécurité juridique des professionnels ; il permettra d'alimenter le site de comparaison annoncé (mesure dans le PJLOM). La suppression des règles discriminant les auto-écoles selon leurs modèles économiques (en ligne/physiques) est poursuivie.  |
+|   |  |  |  |  |  | - **Syndics** : La mise en concurrence à l'échéance du contrat sera effective grâce à une meilleure portabilité des contrats et une meilleure information des copropriétaires ; l'imposition de contratstypes obligatoires permettra de rendre les prestations comparables.  |
+|   |  |  |  |  |  | - **La loi du 14 juillet 2019 relative au droit de résiliation sans frais de contrats de complémentaire santé** rend possible la résiliation à tout moment d'un contrat d'assurance santé après sa première année et favorise une meilleure comparaison des contrats. Le nouveau droit de résiliation doit entrer en vigueur au plus tard le 1er décembre 2020 à une date fixée par décret en Conseil d'État.  |
+|   |  |  |  |  |  | - **Laboratoires d'analyse médicale** : Les contraintes limitant la sous-traitance et interdisant les ristournes seront desserrées et les règles prudentielles capitalistiques seront réexaminées.  |
+|   |  |  |  |  |  | - **Vente en ligne de médicaments** : Une concertation est en cours avec les professions de santé, afin de faciliter la vente en ligne (notamment en autorisant le stockage des médicaments sur un autre lieu que l'officine, permettant aux pharmaciens de se regrouper pour ouvrir un portail commun, en assouplissant les règles sur le chiffre  |
 [214]
 |   |  |  | d'affaire conduisant au recrutement de pharma-
 ciens adjoints et en passant d'un régime d'autori-
@@ -3813,7 +3816,7 @@ Pour pouvoir comparer l'évolution des dépenses d'une année sur l'autre, le pr
 Les montants de ces flux croisés entre administrations publiques ne sont pas négligeables. Ainsi en 2018, les transferts de l'État vers les autres APU ont représenté environ $100 \mathrm{Md} €$, soit environ $20 \%$ de
 la dépense totale de l'État. Ces transferts se sont effectués en majorité vers les APUL (à travers les dotations aux collectivités territoriales par exemple) et les ODAC. L'ampleur des transferts croisés entre les autres sous-secteurs (ASSO, APUL et ODAC) est nettement moins importante.
 Consolider la dépense publique consiste à éliminer ces flux croisés entre administrations publiques. Pour étudier la dépense de l'ensemble des administrations publiques, l'on s'intéresse donc à la notion de dépense finale, qui est rattachée à l'entité qui mandate in fine la dépense.
-Pour pouvoir comparer l'évolution des dépenses d'une année sur l'autre, un second retraitement des données est nécessaire: il faut rendre le «périmètre » de la dépense homogène d'une année sur l'autre par sous-secteur. Après retraitement des effets de périmètre, l'évolution de la dépense est ainsi calculée à champ « constant glissant », c'est-à-dire que le taux de croissance de l'année 2018 est calculé sur la base du périmètre de la dépense de l'année 2017.
+Pour pouvoir comparer l'évolution des dépenses d'une année sur l'autre, un second retraitement des données est nécessaire: il faut rendre le «périmètre» de la dépense homogène d'une année sur l'autre par sous-secteur. Après retraitement des effets de périmètre, l'évolution de la dépense est ainsi calculée à champ « constant glissant », c'est-à-dire que le taux de croissance de l'année 2018 est calculé sur la base du périmètre de la dépense de l'année 2017.
 
 Les retraitements concernent ainsi les rattachements au secteur des administrations publiques, comme ce fut le cas de SNCF Réseau à partir de 2016, ou encore, s'agissant de la dépense d'un sous-secteur donné, les transferts de compétence entre sous-secteurs (par exemple, la prise en charge des allocations de logement familiales (ALF) par l'État en 2016 ou le reclassement d'une administration publique d'un sous-secteur vers un autre, comme ce fut le cas en 2014 avec le rattachement à l'État de trois fonds (FNGRA, FNAL, FNSA) anciennement classés au sein des ODAC) ou encore le reclassement de la SGP dans les APUL en 2016 alors que c'était auparavant un ODAC .
 [224]
@@ -4123,7 +4126,7 @@ Tableau 4 : Commerce extérieur de la France
 |  | Niveau | Variation annuelle | Variation annuelle | Variation annuelle |
 | Emplois des personnes physiques - Ensemble de l'économie ${ }^{1}$ - Moyenne annuelle | 28114 | 0,9 | 0,9 | 0,6 |
 | Emplois personnes physiques - France entière, ensemble des secteurs - Moyenne annuelle ${ }^{2}$ - en milliers | 28019 | 245 | 248 | 179 |
-| Emplois salariés personnes physiques - <br> France entière, Secteurs marchands non agricoles (SMNA) Moyenne annuelle ${ }^{2}$ | 16804 | 1,5 | 1,4 | 0,9 |
+| Emplois salariés personnes physiques France entière, Secteurs marchands non agricoles (SMNA) Moyenne annuelle ${ }^{2}$ | 16804 | 1,5 | 1,4 | 0,9 |
 | Emplois salariés personnes physiques - France entière, Secteurs marchands non agricoles (SMNA) - Glissement annuel ${ }^{3}$ en fin d'année - en milliers | 16896 | 167 | 238 | 112 |
 | Rémunérations - Ensemble de l'économie | 1231,9 | 2,8 | 0,8 | 2,3 |
 | Salaire moyen par tête - Branches marchandes non agricoles (BMNA) |  | 1,7 | 1,8 | 1,8 |
@@ -4438,22 +4441,22 @@ Les tableaux ci-dessous présentent les principales données disponibles, en com
 Les données disponibles doivent être analysées avec prudence. Notamment, les données par sous-secteur sont indiquées en comptabilité de caisse (sauf pour les administrations de sécurité sociale) : elles ne permettent pas de consolider le compte des administrations publiques. Enfin, l'enregistrement des dépenses et des recettes n'est pas régulier au cours de l'année. De fait, le niveau de solde atteint à un moment de l'année ne donne que des indications très partielles sur celui qui sera observé en fin d'année.
 
 | Tableau 22 : Solde des sous-secteurs en comptabilité de caisse |  |  |
-| :-- | --: | --: |
+| :-- | :--: | :--: |
 | En MdK | $1^{\text {er }}$ trimestre | $1^{\text {er }}$ semestre |
-| Etat $^{\text {a }}$ | $-40,7$ | $-77,3$ |
-| APUL $^{\text {a }}$ | $-10,0$ | $-3,0$ |
+| Etat $^{a}$ | $-40,7$ | $-77,3$ |
+| APUL $^{a}$ | $-10,0$ | $-3,0$ |
 | dont recettes | 47,2 | 134,5 |
 | dont dépenses | 57,2 | 137,5 |
 | ASSO (maladie de la PUMa, vieillesse des | $-1,8$ | $-3,1$ |
-| $\quad$ régimes alignés, famille, AT-MP, FSV) a | 98,6 | 199,7 |
+| $\quad$ régimes alignés, famille, AT-MP, FSV) ${ }^{\text {a }}$ | 98,6 | 199,7 |
 | dont recettes | 100,4 | 202,9 |
 | dont dépenses |  |  |
 
 Tableau 23 : Données trimestrielles en comptabilité nationale
 
 | En MdK | $1^{\text {er }}$ trimestre | $1^{\text {er }}$ semestre |
-| :-- | --: | --: |
-| Solde public ${ }^{f}$ | $\mathbf{- 2 0 , 9}$ | $\mathbf{- 4 1 , 2}$ |
+| :-- | --: | :--: |
+| Solde public $^{i}$ | $\mathbf{- 2 0 , 9}$ | $\mathbf{- 4 1 , 2}$ |
 | dont recettes | 312,3 | 626,3 |
 | dont dépenses | 333,3 | 667,7 |
 
@@ -4489,7 +4492,7 @@ b) un tableau de correspondance détaillé, indiquant la méthode utilisée pour
 | :--: | :--: | :--: | :--: |
 | En Md€ | Code SEC | Année 2019 |  |
 |  |  | $1^{\text {er }}$ trimestre | $2^{\text {e }}$ trimestre |
-| Capacité ( + ) / besoin (-) de financement |  |  |  |
+| Capacité (+) / besoin (-) de financement |  |  |  |
 | Administrations publiques | S. 13 | $-20,9$ | $-20,3$ |
 | Administrations centrales | S. 1311 |  |  |
 | Administrations d'États fédérés | S. 1312 |  |  |
@@ -4635,44 +4638,44 @@ Source : Insee, bases 2014, 2010, 2005, 2000 et 1995 des comptes nationaux.
 [252]
 Tableau VI.3 : Part des dépenses publiques dans le PIB (en milliards d'euros et en points de PIB)
 
-|  Années | Administrations publiques (1) |  |  |  |  |  | État |  |  | Organismes divers d'administration centrale |  | Administrations publiques locales |  |  |  | Administrations de sécurité sociale  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |  |  | dont : |  |  |  |  | dont : |  |  |  |  |  |  |  |   |
-|   | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | Prestations (D62 + D63 partie) | Intérêts (D41) | FCBF (P51) | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | Intérêts (D41) | Total des dépenses | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | FBCF (P51) | Total des dépenses  |
-|  en milliards d'euros |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  2015 | 1248,7 | 111,4 | 281,3 | 569,2 | 43,8 | 74,9 | 465,7 | 21,7 | 119,8 | 37,0 | 90,1 | 250,5 | 50,9 | 79,1 | 41,7 | 577,6  |
-|  2016 | 1264,3 | 111,8 | 284,0 | 579,6 | 41,1 | 75,1 | 479,2 | 22,6 | 121,3 | 35,1 | 80,9 | 248,9 | 50,8 | 79,7 | 40,3 | 585,0  |
-|  2017 | 1294,0 | 114,9 | 290,8 | 589,7 | 39,8 | 76,7 | 493,0 | 23,8 | 124,2 | 34,2 | 81,2 | 254,3 | 51,8 | 81,5 | 42,7 | 596,6  |
-|  2018 | 1318,6 | 116,5 | 294,2 | 600,4 | 40,3 | 79,9 | 501,0 | 24,1 | 126,5 | 34,8 | 78,5 | 260,4 | 52,6 | 82,1 | 46,3 | 607,9  |
-|  en points de PIB |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  1991 | 51,3 | 5,1 | 12,1 | 20,9 | 2,8 | 4,8 | 23,0 | 2,1 | 6,6 | 2,0 | 3,3 | 9,4 | 1,4 | 2,4 | 2,6 | 21,5  |
-|  1992 | 52,6 | 5,3 | 12,4 | 21,3 | 3,0 | 4,7 | 23,7 | 2,1 | 6,7 | 2,1 | 3,4 | 9,5 | 1,5 | 2,5 | 2,6 | 22,2  |
-|  1993 | 55,2 | 5,7 | 13,0 | 22,4 | 3,2 | 4,6 | 25,4 | 2,5 | 7,1 | 2,3 | 3,5 | 9,6 | 1,6 | 2,5 | 2,4 | 23,1  |
-|  1994 | 54,6 | 5,3 | 13,1 | 22,3 | 3,3 | 4,5 | 24,8 | 2,0 | 7,1 | 2,4 | 3,2 | 9,8 | 1,7 | 2,6 | 2,4 | 23,0  |
-|  1995 | 54,8 | 5,1 | 13,2 | 22,3 | 3,4 | 4,2 | 23,9 | 1,6 | 7,1 | 2,6 | 3,9 | 9,7 | 1,8 | 2,6 | 2,3 | 23,2  |
-|  1996 | 54,9 | 5,4 | 13,4 | 22,5 | 3,6 | 4,1 | 24,2 | 1,7 | 7,2 | 2,6 | 3,4 | 10,0 | 1,9 | 2,7 | 2,1 | 23,5  |
-|  1997 | 54,5 | 5,4 | 13,3 | 22,6 | 3,5 | 3,8 | 24,6 | 1,8 | 7,1 | 2,7 | 3,3 | 9,6 | 2,0 | 2,7 | 1,9 | 23,3  |
-|  1998 | 52,9 | 4,8 | 13,1 | 22,2 | 3,4 | 3,7 | 23,2 | 1,3 | 7,0 | 2,6 | 3,2 | 9,4 | 2,0 | 2,7 | 1,9 | 23,0  |
-|  1999 | 52,6 | 4,8 | 13,1 | 22,1 | 3,0 | 3,8 | 23,4 | 1,2 | 6,9 | 2,5 | 3,1 | 9,5 | 2,0 | 2,8 | 2,1 | 22,8  |
-|  2000 | 51,7 | 4,8 | 12,9 | 21,6 | 2,9 | 3,9 | 22,4 | 1,2 | 6,7 | 2,4 | 3,1 | 9,6 | 2,1 | 2,8 | 2,2 | 22,4  |
-|  2001 | 51,7 | 4,6 | 12,9 | 21,8 | 3,0 | 3,9 | 22,4 | 1,2 | 6,7 | 2,4 | 3,3 | 9,5 | 1,9 | 2,9 | 2,2 | 22,6  |
-|  2002 | 52,8 | 4,8 | 13,0 | 22,3 | 3,0 | 3,8 | 23,0 | 1,2 | 6,7 | 2,5 | 3,5 | 9,8 | 2,1 | 2,9 | 2,1 | 23,1  |
-|  2003 | 53,3 | 4,8 | 13,1 | 22,8 | 2,8 | 3,9 | 22,6 | 1,1 | 6,7 | 2,4 | 3,4 | 10,1 | 2,1 | 3,0 | 2,1 | 23,7  |
-|  2004 | 53,0 | 4,9 | 12,9 | 22,8 | 2,8 | 4,0 | 22,8 | 1,1 | 6,5 | 2,3 | 3,2 | 10,6 | 2,1 | 3,0 | 2,2 | 23,9  |
-|  2005 | 53,3 | 4,9 | 12,8 | 23,0 | 2,7 | 4,0 | 22,6 | 1,2 | 6,4 | 2,3 | 3,3 | 10,7 | 2,2 | 3,0 | 2,3 | 24,2  |
-|  2006 | 52,9 | 4,8 | 12,6 | 23,0 | 2,6 | 3,9 | 21,4 | 1,1 | 6,2 | 2,1 | 3,2 | 10,8 | 2,2 | 3,0 | 2,3 | 23,8  |
-|  2007 | 52,6 | 4,7 | 12,4 | 22,9 | 2,7 | 3,9 | 20,5 | 1,1 | 6,0 | 2,1 | 3,5 | 11,0 | 2,1 | 3,1 | 2,4 | 23,9  |
-|  2008 | 53,3 | 4,7 | 12,4 | 23,2 | 2,9 | 3,9 | 21,1 | 1,1 | 5,9 | 2,3 | 3,2 | 11,2 | 2,1 | 3,2 | 2,4 | 23,9  |
-|  2009 | 57,2 | 5,1 | 13,1 | 25,1 | 2,5 | 4,3 | 22,4 | 1,1 | 6,1 | 2,0 | 3,8 | 12,0 | 2,3 | 3,5 | 2,4 | 25,7  |
-|  2010 | 56,9 | 5,1 | 13,0 | 25,1 | 2,5 | 4,2 | 24,2 | 1,0 | 5,9 | 2,1 | 4,1 | 11,5 | 2,3 | 3,5 | 2,2 | 25,9  |
-|  2011 | 56,3 | 5,1 | 12,8 | 25,0 | 2,7 | 4,0 | 21,7 | 1,0 | 5,7 | 2,2 | 3,9 | 11,5 | 2,3 | 3,4 | 2,2 | 25,9  |
-|  2012 | 57,1 | 5,1 | 12,9 | 25,5 | 2,6 | 4,0 | 21,7 | 1,0 | 5,7 | 2,1 | 4,0 | 11,7 | 2,4 | 3,5 | 2,3 | 26,4  |
-|  2013 | 57,2 | 5,2 | 12,9 | 25,9 | 2,3 | 4,0 | 21,6 | 1,0 | 5,6 | 1,9 | 4,0 | 11,9 | 2,4 | 3,5 | 2,4 | 26,6  |
-|  2014 | 57,2 | 5,1 | 13,0 | 26,1 | 2,2 | 3,7 | 21,6 | 0,9 | 5,6 | 1,8 | 4,1 | 11,8 | 2,4 | 3,6 | 2,1 | 26,7  |
-|  2015 | 56,8 | 5,1 | 12,8 | 25,9 | 2,0 | 3,4 | 21,2 | 1,0 | 5,4 | 1,7 | 4,1 | 11,4 | 2,3 | 3,6 | 1,9 | 26,3  |
-|  2016 | 56,6 | 5,0 | 12,7 | 25,9 | 1,8 | 3,4 | 21,4 | 1,0 | 5,4 | 1,6 | 3,6 | 11,1 | 2,3 | 3,6 | 1,8 | 26,2  |
-|  2017 | 56,4 | 5,0 | 12,7 | 25,7 | 1,7 | 3,3 | 21,5 | 1,0 | 5,4 | 1,5 | 3,5 | 11,1 | 2,3 | 3,6 | 1,9 | 26,0  |
-|  2018 | 56,0 | 4,9 | 12,5 | 25,5 | 1,7 | 3,4 | 21,3 | 1,0 | 5,4 | 1,5 | 3,3 | 11,1 | 2,2 | 3,5 | 2,0 | 25,8  |
+|  Années | Administrations publiques (1) |  |  |  |  |  | État |  |  | Organismes divers d'administration centrale |  | Administrations publiques locales |  |  |  | Administrations de sécurité sociale |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  |  | dont : |  |  |  |  | dont : |  |  |  |  |  |  |  |  |   |
+|   | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | Prestations (D62 + D63 partie) | Intérêts (D41) | FCBF (P51) | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | Intérêts (D41) | Total des dépenses | Total des dépenses | Consommations intermédiaires (P2) | Rémunérations (D1) | FBCF (P51) | Total des dépenses | dont prestations sociales et transferts sociaux (D62 + D63 partie)  |
+|  en milliards d'euros |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  2015 | 1248,7 | 111,4 | 281,3 | 569,2 | 43,8 | 74,9 | 465,7 | 21,7 | 119,8 | 37,0 | 90,1 | 250,5 | 50,9 | 79,1 | 41,7 | 577,6 | 444,9  |
+|  2016 | 1264,3 | 111,8 | 284,0 | 579,6 | 41,1 | 75,1 | 479,2 | 22,6 | 121,3 | 35,1 | 80,9 | 248,9 | 50,8 | 79,7 | 40,3 | 585,0 | 448,7  |
+|  2017 | 1294,0 | 114,9 | 290,8 | 589,7 | 39,8 | 76,7 | 493,0 | 23,8 | 124,2 | 34,2 | 81,2 | 254,3 | 51,8 | 81,5 | 42,7 | 596,6 | 456,5  |
+|  2018 | 1318,6 | 116,5 | 294,2 | 600,4 | 40,3 | 79,9 | 501,0 | 24,1 | 126,5 | 34,8 | 78,5 | 260,4 | 52,6 | 82,1 | 46,3 | 607,9 | 466,3  |
+|  en points de PIB |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  1991 | 51,3 | 5,1 | 12,1 | 20,9 | 2,8 | 4,8 | 23,0 | 2,1 | 6,6 | 2,0 | 3,3 | 9,4 | 1,4 | 2,4 | 2,6 | 21,5 | 16,2  |
+|  1992 | 52,6 | 5,3 | 12,4 | 21,3 | 3,0 | 4,7 | 23,7 | 2,1 | 6,7 | 2,1 | 3,4 | 9,5 | 1,5 | 2,5 | 2,6 | 22,2 | 16,7  |
+|  1993 | 55,2 | 5,7 | 13,0 | 22,4 | 3,2 | 4,6 | 25,4 | 2,5 | 7,1 | 2,3 | 3,5 | 9,6 | 1,6 | 2,5 | 2,4 | 23,1 | 17,4  |
+|  1994 | 54,6 | 5,3 | 13,1 | 22,3 | 3,3 | 4,5 | 24,8 | 2,0 | 7,1 | 2,4 | 3,2 | 9,8 | 1,7 | 2,6 | 2,4 | 23,0 | 17,2  |
+|  1995 | 54,8 | 5,1 | 13,2 | 22,3 | 3,4 | 4,2 | 23,9 | 1,6 | 7,1 | 2,6 | 3,9 | 9,7 | 1,8 | 2,6 | 2,3 | 23,2 | 17,3  |
+|  1996 | 54,9 | 5,4 | 13,4 | 22,5 | 3,6 | 4,1 | 24,2 | 1,7 | 7,2 | 2,6 | 3,4 | 10,0 | 1,9 | 2,7 | 2,1 | 23,5 | 17,6  |
+|  1997 | 54,5 | 5,4 | 13,3 | 22,6 | 3,5 | 3,8 | 24,6 | 1,8 | 7,1 | 2,7 | 3,3 | 9,6 | 2,0 | 2,7 | 1,9 | 23,3 | 17,5  |
+|  1998 | 52,9 | 4,8 | 13,1 | 22,2 | 3,4 | 3,7 | 23,2 | 1,3 | 7,0 | 2,6 | 3,2 | 9,4 | 2,0 | 2,7 | 1,9 | 23,0 | 17,3  |
+|  1999 | 52,6 | 4,8 | 13,1 | 22,1 | 3,0 | 3,8 | 23,4 | 1,2 | 6,9 | 2,5 | 3,1 | 9,5 | 2,0 | 2,8 | 2,1 | 22,8 | 17,1  |
+|  2000 | 51,7 | 4,8 | 12,9 | 21,6 | 2,9 | 3,9 | 22,4 | 1,2 | 6,7 | 2,4 | 3,1 | 9,6 | 2,1 | 2,8 | 2,2 | 22,4 | 16,9  |
+|  2001 | 51,7 | 4,6 | 12,9 | 21,8 | 3,0 | 3,9 | 22,4 | 1,2 | 6,7 | 2,4 | 3,3 | 9,5 | 1,9 | 2,9 | 2,2 | 22,6 | 17,1  |
+|  2002 | 52,8 | 4,8 | 13,0 | 22,3 | 3,0 | 3,8 | 23,0 | 1,2 | 6,7 | 2,5 | 3,5 | 9,8 | 2,1 | 2,9 | 2,1 | 23,1 | 17,5  |
+|  2003 | 53,3 | 4,8 | 13,1 | 22,8 | 2,8 | 3,9 | 22,6 | 1,1 | 6,7 | 2,4 | 3,4 | 10,1 | 2,1 | 3,0 | 2,1 | 23,7 | 17,9  |
+|  2004 | 53,0 | 4,9 | 12,9 | 22,8 | 2,8 | 4,0 | 22,8 | 1,1 | 6,5 | 2,3 | 3,2 | 10,6 | 2,1 | 3,0 | 2,2 | 23,9 | 18,0  |
+|  2005 | 53,3 | 4,9 | 12,8 | 23,0 | 2,7 | 4,0 | 22,6 | 1,2 | 6,4 | 2,3 | 3,3 | 10,7 | 2,2 | 3,0 | 2,3 | 24,2 | 18,2  |
+|  2006 | 52,9 | 4,8 | 12,6 | 23,0 | 2,6 | 3,9 | 21,4 | 1,1 | 6,2 | 2,1 | 3,2 | 10,8 | 2,2 | 3,0 | 2,3 | 23,8 | 17,9  |
+|  2007 | 52,6 | 4,7 | 12,4 | 22,9 | 2,7 | 3,9 | 20,5 | 1,1 | 6,0 | 2,1 | 3,5 | 11,0 | 2,1 | 3,1 | 2,4 | 23,9 | 17,8  |
+|  2008 | 53,3 | 4,7 | 12,4 | 23,2 | 2,9 | 3,9 | 21,1 | 1,1 | 5,9 | 2,3 | 3,2 | 11,2 | 2,1 | 3,2 | 2,4 | 23,9 | 18,0  |
+|  2009 | 57,2 | 5,1 | 13,1 | 25,1 | 2,5 | 4,3 | 22,4 | 1,1 | 6,1 | 2,0 | 3,8 | 12,0 | 2,3 | 3,5 | 2,4 | 25,7 | 19,5  |
+|  2010 | 56,9 | 5,1 | 13,0 | 25,1 | 2,5 | 4,2 | 24,2 | 1,0 | 5,9 | 2,1 | 4,1 | 11,5 | 2,3 | 3,5 | 2,2 | 25,9 | 19,6  |
+|  2011 | 56,3 | 5,1 | 12,8 | 25,0 | 2,7 | 4,0 | 21,7 | 1,0 | 5,7 | 2,2 | 3,9 | 11,5 | 2,3 | 3,4 | 2,2 | 25,9 | 19,6  |
+|  2012 | 57,1 | 5,1 | 12,9 | 25,5 | 2,6 | 4,0 | 21,7 | 1,0 | 5,7 | 2,1 | 4,0 | 11,7 | 2,4 | 3,5 | 2,3 | 26,4 | 20,0  |
+|  2013 | 57,2 | 5,2 | 12,9 | 25,9 | 2,3 | 4,0 | 21,6 | 1,0 | 5,6 | 1,9 | 4,0 | 11,9 | 2,4 | 3,5 | 2,4 | 26,6 | 20,2  |
+|  2014 | 57,2 | 5,1 | 13,0 | 26,1 | 2,2 | 3,7 | 21,6 | 0,9 | 5,6 | 1,8 | 4,1 | 11,8 | 2,4 | 3,6 | 2,1 | 26,7 | 20,4  |
+|  2015 | 56,8 | 5,1 | 12,8 | 25,9 | 2,0 | 3,4 | 21,2 | 1,0 | 5,4 | 1,7 | 4,1 | 11,4 | 2,3 | 3,6 | 1,9 | 26,3 | 20,2  |
+|  2016 | 56,6 | 5,0 | 12,7 | 25,9 | 1,8 | 3,4 | 21,4 | 1,0 | 5,4 | 1,6 | 3,6 | 11,1 | 2,3 | 3,6 | 1,8 | 26,2 | 20,1  |
+|  2017 | 56,4 | 5,0 | 12,7 | 25,7 | 1,7 | 3,3 | 21,5 | 1,0 | 5,4 | 1,5 | 3,5 | 11,1 | 2,3 | 3,6 | 1,9 | 26,0 | 19,9  |
+|  2018 | 56,0 | 4,9 | 12,5 | 25,5 | 1,7 | 3,4 | 21,3 | 1,0 | 5,4 | 1,5 | 3,3 | 11,1 | 2,2 | 3,5 | 2,0 | 25,8 | 19,8  |
 
 Source : Insee, base 2014 des comptes nationaux, calculs DG Trésor. (1) Total des postes de l'État, des ODAC, des APUL et des ASSO consolidés au niveau des APU.
 [253]
@@ -4694,7 +4697,7 @@ Tableau VI.4 : Part des prélèvements obligatoires dans le PIB (en milliards d'
 |  1998 | 7,1 | 1,8 | 3,2 | 2,4 | 2,1 | 16,7 | 1,5 | 1,1 | 0,7 | 2,3 | 5,6 | 3,9 | 15,5 | 1 | 20,4 | 0,7 | 0,6 | 44  |
 |  1999 | 7,2 | 1,8 | 3,4 | 2,7 | 2,4 | 17,4 | 1,4 | 1,1 | 0,7 | 2,3 | 5,5 | 4 | 15,7 | 1 | 20,7 | 0,7 | 0,6 | 44,9  |
 |  2000 | 6,9 | 1,7 | 3,4 | 2,6 | 2 | 16,5 | 1,3 | 1,1 | 0,6 | 2,2 | 5,2 | 4,1 | 15,6 | 1,5 | 21,1 | 0,7 | 0,6 | 44,1  |
-|  En points de PIB (base 2005) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  En points de PIB (base 2005) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
 |  2001 | 6,8 | 1,5 | 3,2 | 3 | 1,7 | 16,2 | 1,3 | 1,1 | 0,6 | 2 | 5 | 4,1 | 15,6 | 2 | 21,8 | 0,3 | 0,6 | 43,8  |
 |  2002 | 6,8 | 1,5 | 3 | 2,5 | 1,7 | 15,5 | 1,2 | 1,1 | 0,6 | 2,1 | 4,9 | 4 | 15,7 | 2,1 | 21,8 | 0,5 | 0,5 | 43,3  |
 |  2003 | 6,9 | 1,5 | 3 | 2,3 | 1,6 | 15,2 | 1,2 | 1,1 | 0,6 | 2,1 | 5 | 4 | 15,9 | 2 | 22 | 0,5 | 0,3 | 43,1  |
@@ -4703,7 +4706,7 @@ Tableau VI.4 : Part des prélèvements obligatoires dans le PIB (en milliards d'
 |  2006 | 6,8 | 1 | 2,9 | 2,7 | 1,7 | 15,2 | 1,2 | 1,2 | 0,7 | 2,6 | 5,6 | 4,3 | 15,8 | 2,4 | 22,5 | 0,5 | 0,3 | 44,1  |
 |  2007 | 6,7 | 0,9 | 2,6 | 2,7 | 1,5 | 14,4 | 1,2 | 1,2 | 0,7 | 2,7 | 5,7 | 4,3 | 15,7 | 2,5 | 22,4 | 0,6 | 0,3 | 43,4  |
 |  2008 | 6,5 | 0,8 | 2,6 | 2,6 | 1,3 | 13,8 | 1,1 | 1,2 | 0,7 | 2,9 | 5,8 | 4,4 | 15,7 | 2,7 | 22,8 | 0,5 | 0,3 | 43,2  |
-|  En points de PIB (base 2010) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  En points de PIB (base 2010) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
 |  2009 | 6,3 | 0,7 | 2,4 | 1,1 | 1,1 | 11,6 | 1,1 | 1,3 | 0,7 | 2,9 | 6 | 4,2 | 15,8 | 2,8 | 22,8 | 0,5 | 0,1 | 41  |
 |  2010 | 6,3 | 0,7 | 2,4 | 1,7 | 2,6 | 13,6 | 0 | 1,3 | 0,8 | 2,4 | 4,5 | 4,2 | 15,7 | 2,7 | 22,5 | 0,6 | 0,1 | 41,3  |
 |  2011 | 6,3 | 0,6 | 2,5 | 2,1 | 1,4 | 12,9 | 0,8 | 1,3 | 0,8 | 2,9 | 5,8 | 4,3 | 15,8 | 3,1 | 23,2 | 0,6 | 0,1 | 42,6  |
@@ -4712,7 +4715,7 @@ Tableau VI.4 : Part des prélèvements obligatoires dans le PIB (en milliards d'
 |  2014 | 6,4 | 0,6 | 3,3 | 1,7 | 1,7 | 13,6 | 0,9 | 1,4 | 0,8 | 2,7 | 6 | 4,4 | 16,5 | 3,4 | 24,3 | 0,7 | 0,1 | 44,6  |
 |  2015 | 6,4 | 0,6 | 3,2 | 1,4 | 1,8 | 13,4 | 0,9 | 1,4 | 0,8 | 2,8 | 6,1 | 4,4 | 16,3 | 3,4 | 24,1 | 0,8 | 0,1 | 44,4  |
 |  2016 | 6,4 | 0,7 | 3,3 | 1,4 | 2 | 13,7 | 1 | 1,5 | 0,8 | 2,9 | 6,2 | 4,4 | 16,3 | 3,4 | 24 | 0,5 | 0,1 | 44,4  |
-|  En points de PIB (base 2014) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|  En points de PIB (base 2014) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
 |  2017 | 6,6 | 0,7 | 3,2 | 1,6 | 2,1 | 14,1 | 0,9 | 1,5 | 0,8 | 3,0 | 6,2 | 4,3 | 16,3 | 3,3 | 24,0 | 0,6 | 0,2 | 45,2  |
 |  2018 | 6,6 | 0,8 | 3,1 | 1,2 | 2,0 | 13,7 | 1,0 | 1,5 | 0,7 | 3,2 | 6,4 | 5,3 | 15,7 | 3,2 | 24,1 | 0,5 | 0,2 | 45,0  |
 
@@ -4940,7 +4943,7 @@ Tableau VI. 11 - Lois de finances initiales (LPI) et exécution budgétaire (hor
 
 | Années | LPI |  |  |  | Exécution budgétaire |  |  |  |  |  |  |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  | Solde Général hors FMI hors FSC | Solde Général hors FMI hors FSC | Solde Général hors FMI | Solde du Budget Général | Dépenses du Budget Général | Recettes du Budget Général | Recettes Fiscales Nettes | Prélèvements sur Recettes | dont : <br> Recettes Non Fiscales | Fonds de Concours | Soldes <br> CST |
+|  | Solde Général hors FMI hors FSC | Solde Général hors FMI hors FSC | Solde Général hors FMI | Solde du Budget Général | Dépenses du Budget Général | Recettes du Budget Général | Recettes Fiscales Nettes | Prélèvements sur Recettes | dont : <br> Recettes NonFiscales | Fonds de Concours | Soldes <br> CST |
 | Niveau en milliards d'euros |  |  |  |  |  |  |  |  |  |  |  |
 | 2002 | $-30,4$ | $-49,3$ | $-49,3$ | $-50,0$ | 273,4 | 223,4 | 240,2 | $-49,6$ | 32,8 | 4,1 | 0,7 |
 | 2003 | $-44,6$ | $-56,9$ | $-56,9$ | $-56,7$ | 273,8 | 217,1 | 239,8 | $-52,9$ | 30,2 | 4,5 | $-0,2$ |
@@ -4950,7 +4953,7 @@ Tableau VI. 11 - Lois de finances initiales (LPI) et exécution budgétaire (hor
 | 2006(2) | $-39,0$ | $-39,0$ | $-39,0$ | $-42,5$ | 269,3 | 226,8 | 267,9 | $-65,8$ | 24,8 | 3,6 | 3,5 |
 | 2007(3) | $-42,0$ | $-38,4$ | $-38,4$ | $-38,2$ | 266,8 | 228,6 | 266,7 | $-66,8$ | 28,7 | 3,8 | $-0,2$ |
 | 2007(4) |  | $-34,7$ | $-34,7$ | $-38,2$ | 266,8 | 228,6 | 266,7 | $-66,8$ | 28,7 | 3,8 | 3,5 |
-| 2008 | $-41,7$ | 56,3 | $-56,3$ | $-57,0$ | 275,0 | 218,0 | 260,0 | $-69,9$ | 28,0 | 3,2 | 0,7 |
+| 2008 | $-41,7$ | $-56,3$ | $-56,3$ | $-57,0$ | 275,0 | 218,0 | 260,0 | $-69,9$ | 28,0 | 3,2 | 0,7 |
 | 2009 | $-67,0$ | $-138,0$ | $-138,0$ | $-129,9$ | 290,9 | 161,0 | 214,3 | $-76,2$ | 19,5 | 3,5 | $-8,1$ |
 | 2010 | $-117,4$ | $-148,8$ | $-148,8$ | $-150,8$ | 322,7 | 171,9 | 253,6 | $-102,9$ | 18,2 | 3,1 | 2,0 |
 | 2011 | $-91,6$ | $-90,7$ | $-90,7$ | $-90,1$ | 291,3 | 201,2 | 255,0 | $-74,1$ | 16,4 | 3,8 | $-0,6$ |
